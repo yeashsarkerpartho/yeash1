@@ -23,7 +23,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install Dependencies
-      run: pip install requests urllib3
+      run: pip install aiohttp requests urllib3
 
     - name: Run Update Script
       run: python app.py
