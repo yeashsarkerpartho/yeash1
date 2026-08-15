@@ -1,5 +1,30 @@
 [
     {
+        "id": "6a800ffc8893d6224290705f",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Family",
+            "Action",
+            "Romance"
+        ],
+        "imdbRating": "3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axtUeYtmVF14hPeQrZHx5PJGjMl.jpg",
+        "releaseDate": "26-07-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axtUeYtmVF14hPeQrZHx5PJGjMl.jpg",
+        "status": "on",
+        "storyline": "Rachit Ram, heir to a multi-billion-dollar corporate conglomerate, sets off on his journey to fulfill a daunting challenge of living like a commoner for 100 days in the middle of nowhere with absolutely no money and privileges, while his aunt and cousin brother conspire together to make him fail his challenge.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a800ffc8893d6224290705f",
+        "title": "Purushothamudu (Hindi) (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a7f2ac42f99dce5c20a9abb",
         "category": "Hindi Dubbed",
         "director": "Unknown",
