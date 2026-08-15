@@ -128,7 +128,7 @@ def process_movie_details(movie_id, detail_html, poster_url):
         "sliderUrl": movie_details.get('backdrop') or poster_url,
         "status": "on",
         "storyline": storyline,
-        "streamUrl": f"{BASE_URL}/movies/watch/{movie_id}",
+        "streamUrl": f"{BASE_URL}/api/movies/watch/{movie_id}",
         "title": title,
         "headers": {
             "referer": f"{BASE_URL}/",
