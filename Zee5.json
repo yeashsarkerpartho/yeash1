@@ -14,7 +14,7 @@
         "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg",
         "status": "on",
         "storyline": "An ordinary lawyer is out to fight an extraordinary case! But can he win against a powerful godman accused of assaulting a minor and deliver justice to the victim?",
-        "streamUrl": "https://m.mymoviebazar.net/movies/watch/646c5aba8767c5ae07a70439",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646c5aba8767c5ae07a70439",
         "title": "Sirf Ek Bandaa Kaafi Ha (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
@@ -38,7 +38,7 @@
         "sliderUrl": "https://m.media-amazon.com/images/M/MV5BYTQyYzhhZmUtNGFhNi00MDgyLTg1NzItZmYyZTk0M2Q1Mzc1XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_FMjpg_UX1000_.jpg",
         "status": "on",
         "storyline": "A four member family from Ayodhya, headed by conservative, religious patriarch, Balram, his wife Janaki, daughter Shivani and son Sonu goes on a spiritual trip to Rameswaram. Things get complicated when Janki dies in an accident and the two kids endures at the hands of their fervently devout father. A Rameswaram localite, friend of the cab driver involved, with his other friend decides to help the family in returning their mother's remains to their homeland, despite all odds.",
-        "streamUrl": "https://m.mymoviebazar.net/movies/watch/644211af93f498a8dd5c7d4c",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644211af93f498a8dd5c7d4c",
         "title": "Ayothi (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
