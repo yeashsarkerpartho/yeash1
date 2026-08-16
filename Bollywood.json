@@ -1,5 +1,30 @@
 [
     {
+        "id": "6a81b5ec80f1ece83246549f",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+        "releaseDate": "13-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+        "status": "on",
+        "storyline": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a81b5ec80f1ece83246549f",
+        "title": "Batwara 1947 (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a7f30582f99dce5c20a9d95",
         "category": "Bollywood",
         "director": "Unknown",
