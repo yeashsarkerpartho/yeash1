@@ -99982,30 +99982,5 @@
             "origin": "",
             "user_agent": ""
         }
-    },
-    {
-        "id": "68b0d7348edb3a5fbbe93286",
-        "category": "Hollywood",
-        "director": "Unknown",
-        "genre": [
-            "Comedy",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbRating": "7.43",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-        "releaseDate": "24-07-2019",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-        "status": "on",
-        "storyline": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68b0d7348edb3a5fbbe93286",
-        "title": "Once Upon a Time... in Hollywood (2019)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
     }
 ]

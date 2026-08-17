@@ -1,5 +1,52 @@
 [
     {
+        "id": "6a82f9ed2d3433e9ad0f1057",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "3.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+        "releaseDate": "06-02-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+        "status": "on",
+        "storyline": "A young woman and her family seek justice after she is raped by a group of young men who come from powerful and influential backgrounds.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a82f9ed2d3433e9ad0f1057",
+        "title": "Euphoria (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a82f7092d3433e9ad0f0d2b",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibNg0r4RlwIi8QmLNRlWunuBiQT.jpg",
+        "releaseDate": "27-02-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibNg0r4RlwIi8QmLNRlWunuBiQT.jpg",
+        "status": "on",
+        "storyline": "An educated young man abandons his dream of becoming a government officer to protect his village from a ruthless \"hair mafia.\" He takes up arms to fight deep-rooted caste exploitation and secure justice for his community.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a82f7092d3433e9ad0f0d2b",
+        "title": "The Rise of Ashoka (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a800ffc8893d6224290705f",
         "category": "Hindi Dubbed",
         "director": "Unknown",
