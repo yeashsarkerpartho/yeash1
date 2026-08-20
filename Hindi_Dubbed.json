@@ -1,5 +1,30 @@
 [
     {
+        "id": "6a86ff453c4c7e172a81f3c3",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama",
+            "Action"
+        ],
+        "imdbRating": "10",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg",
+        "releaseDate": "30-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg",
+        "status": "on",
+        "storyline": "Vasu Babu and Manga are living in their own blissful world, until a ruthless threat targets their romance. As powerful enemies move to separate them, Vasu must fight for his woman.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a86ff453c4c7e172a81f3c3",
+        "title": "Srinivasa Mangapuram (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a82f9ed2d3433e9ad0f1057",
         "category": "Hindi Dubbed",
         "director": "Unknown",

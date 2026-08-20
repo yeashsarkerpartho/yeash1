@@ -7253,58 +7253,5 @@
             "origin": "",
             "user_agent": ""
         }
-    },
-    {
-        "id": "6282980ff3e7c30ac9cb3c56",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Family",
-            "Comedy"
-        ],
-        "imdbRating": "7.2",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-        "releaseDate": "04-06-2008",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-        "status": "on",
-        "storyline": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282980ff3e7c30ac9cb3c56",
-        "title": "Kung Fu Panda (2008)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "628297fe1e8484b6d03fff6f",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Family"
-        ],
-        "imdbRating": "7.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-        "releaseDate": "27-10-2004",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-        "status": "on",
-        "storyline": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628297fe1e8484b6d03fff6f",
-        "title": "The Incredibles (2004)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
     }
 ]

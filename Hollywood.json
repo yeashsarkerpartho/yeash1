@@ -1,5 +1,29 @@
 [
     {
+        "id": "6a86c1bf3c4c7e172a81e954",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "imdbRating": "7.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "releaseDate": "19-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "status": "on",
+        "storyline": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a86c1bf3c4c7e172a81e954",
+        "title": "Mutiny (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a7de0647f976305c239fc73",
         "category": "Hollywood",
         "director": "Unknown",
