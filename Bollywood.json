@@ -1,5 +1,31 @@
 [
     {
+        "id": "6a3df78c93aed050e8d8f151",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Adventure",
+            "Crime"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+        "releaseDate": "25-06-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+        "status": "on",
+        "storyline": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a3df78c93aed050e8d8f151",
+        "title": "Welcome to the Jungle (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a81b5ec80f1ece83246549f",
         "category": "Bollywood",
         "director": "Unknown",
@@ -1464,32 +1490,6 @@
         "storyline": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69f64b57f525f886873fd23c",
         "title": "Raja Shivaji (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a3df78c93aed050e8d8f151",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Comedy",
-            "Adventure",
-            "Crime"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-        "releaseDate": "25-06-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-        "status": "on",
-        "storyline": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a3df78c93aed050e8d8f151",
-        "title": "Welcome to the Jungle (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

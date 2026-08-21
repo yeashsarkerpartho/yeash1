@@ -1,5 +1,79 @@
 [
     {
+        "id": "6a88480831ff06a58733b1b6",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "5.67",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+        "releaseDate": "26-06-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+        "status": "on",
+        "storyline": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a88480831ff06a58733b1b6",
+        "title": "Heartin (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a88479a31ff06a58733b127",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+        "releaseDate": "03-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+        "status": "on",
+        "storyline": "A vengeful Yakshini, once sealed inside a doll at the Aryanattu estate, is accidentally unleashed by two thieves. When a brutal murder draws Niranjan, the last surviving heir of the lineage, back to his ancestral home, he must confront an ancient curse and the dark secrets surrounding his family's past.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a88479a31ff06a58733b127",
+        "title": "Aroopi (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a88452131ff06a58733af06",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "6.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+        "releaseDate": "10-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+        "status": "on",
+        "storyline": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a88452131ff06a58733af06",
+        "title": "Lenin (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a86ff453c4c7e172a81f3c3",
         "category": "Hindi Dubbed",
         "director": "Unknown",
