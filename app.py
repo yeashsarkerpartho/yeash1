@@ -10,11 +10,15 @@ MOVIES_LIST_URL = f"{BASE_URL}/movies"
 PROGRESS_FILE = 'progress.json'
 
 def get_safe_filename(category_name):
-    safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', category_name)
+    """Sanitizes category name to be used as a valid filename."""
+    safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', str(category_name))
     safe_name = re.sub(r'_+', '_', safe_name).strip('_')
-    return f"{safe_name}.json" if safe_name else "Uncategorized.json"
+    return f"{safe_name}.json" if safe_name else "Others.json"
 
 def get_next_data_json(html_content):
+    """Extracts the __NEXT_DATA__ JSON object from Next.js HTML."""
+    if not html_content:
+        return None
     pattern = r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>'
     match = re.search(pattern, html_content, re.DOTALL | re.IGNORECASE)
     if match:
@@ -25,31 +29,45 @@ def get_next_data_json(html_content):
     return None
 
 def send_log(message, msg_type="INFO"):
-    color_code = "\033[97m"
+    """Prints colored log messages to the console."""
+    color_code = "\033[97m" # Default White
     if msg_type == "ERROR":
-        color_code = "\033[91m"
+        color_code = "\033[91m" # Red
     elif msg_type == "SUCCESS":
-        color_code = "\033[92m"
+        color_code = "\033[92m" # Green
+    elif msg_type == "WARNING":
+        color_code = "\033[93m" # Yellow
     reset_code = "\033[0m"
     print(f"{color_code}[{msg_type}] {message}{reset_code}")
     sys.stdout.flush()
 
-async def fetch_page(session, url, referer="https://www.google.com/"):
+async def fetch_page(session, url, referer="https://www.google.com/", retries=3):
+    """Fetches a web page with retry mechanism to prevent missing data."""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
         'Referer': referer,
         'Connection': 'keep-alive',
     }
-    try:
-        async with session.get(url, headers=headers, timeout=20, ssl=False) as response:
-            if response.status == 200:
-                return await response.text()
-            return None
-    except Exception:
-        return None
+    
+    for attempt in range(1, retries + 1):
+        try:
+            # Increased timeout to 30 seconds to handle slow server responses
+            async with session.get(url, headers=headers, timeout=30, ssl=False) as response:
+                if response.status == 200:
+                    return await response.text()
+                elif response.status in [404, 403]:
+                    # Unlikely to recover from 404 or 403, don't retry
+                    return None
+        except Exception as e:
+            if attempt == retries:
+                send_log(f"Failed to fetch {url} after {retries} attempts. Error: {str(e)}", "ERROR")
+                return None
+            await asyncio.sleep(1.5) # Wait before retrying
+    return None
 
 async def fetch_multiple(session, urls_dict):
+    """Fetches multiple URLs concurrently."""
     tasks = []
     for movie_id, url in urls_dict.items():
         tasks.append(fetch_page(session, url, referer=BASE_URL))
@@ -64,6 +82,7 @@ async def fetch_multiple(session, urls_dict):
     return final_results
 
 def load_progress():
+    """Loads scraping progress from file if it exists."""
     if os.path.exists(PROGRESS_FILE):
         try:
             with open(PROGRESS_FILE, 'r', encoding='utf-8') as f:
@@ -73,26 +92,29 @@ def load_progress():
     return {
         'currentPage': 1,
         'currentMovieIndex': 0,
-        'totalPages': 1,
         'moviesData': []
     }
 
-def save_progress(current_page, current_index, total_pages, movies_data):
+def save_progress(current_page, current_index, movies_data):
+    """Saves current scraping state to avoid data loss on crash."""
     with open(PROGRESS_FILE, 'w', encoding='utf-8') as f:
         json.dump({
             'currentPage': current_page,
             'currentMovieIndex': current_index,
-            'totalPages': total_pages,
             'moviesData': movies_data
         }, f, indent=4)
 
 def process_movie_details(movie_id, detail_html, poster_url):
+    """Parses individual movie page data."""
     detail_data = get_next_data_json(detail_html)
     if not detail_data:
         return None
         
     page_props = detail_data.get('props', {}).get('pageProps', {})
     movie_details = page_props.get('movie', page_props)
+    
+    if not movie_details or not isinstance(movie_details, dict):
+        return None
     
     director = movie_details.get('director_name') or movie_details.get('director') or "Unknown"
     
@@ -109,15 +131,18 @@ def process_movie_details(movie_id, detail_html, poster_url):
         
     genres = movie_details.get('genres', ["Unknown"])
     if not isinstance(genres, list):
-        genres = [genres]
+        genres = [genres] if genres else ["Unknown"]
         
-    category = movie_details.get('type') or movie_details.get('category') or "Movies"
+    # LOGIC UPDATE: Handle missing categories by assigning them to 'Others'
+    category = movie_details.get('type') or movie_details.get('category')
+    if not category or str(category).strip() == "":
+        category = "Others"
         
     storyline = movie_details.get('plot') or movie_details.get('description') or ""
     
     return {
         "id": movie_id,
-        "category": category,
+        "category": str(category).strip(),
         "director": director,
         "genre": genres,
         "imdbRating": str(movie_details.get('imdb_rating', '0.0')),
@@ -139,47 +164,31 @@ def process_movie_details(movie_id, detail_html, poster_url):
 
 async def main():
     progress = load_progress()
-    start_page = progress['currentPage']
+    page = progress['currentPage']
     start_index = progress['currentMovieIndex']
-    total_pages = progress['totalPages']
     final_movies_data = progress['moviesData']
     
     async with aiohttp.ClientSession() as session:
-        if start_page == 1 and start_index == 0:
-            send_log("Initializing request to fetch total pages...", "INFO")
-            first_page_html = await fetch_page(session, f"{MOVIES_LIST_URL}?page=1")
-            first_page_data = get_next_data_json(first_page_html) if first_page_html else None
-            
-            if first_page_data:
-                movie_props = first_page_data.get('props', {}).get('pageProps', {}).get('movies', {})
-                if isinstance(movie_props, dict):
-                    if 'last_page' in movie_props:
-                        total_pages = movie_props['last_page']
-                    elif 'meta' in movie_props and 'last_page' in movie_props['meta']:
-                        total_pages = movie_props['meta']['last_page']
-                    else:
-                        total_pages = 175
-                else:
-                    total_pages = 175
-            
-            send_log(f"Total pages found: {total_pages}", "SUCCESS")
-            save_progress(1, 0, total_pages, final_movies_data)
+        if page > 1 or start_index > 0:
+            send_log(f"Resuming from page {page} (Index: {start_index})...", "SUCCESS")
         else:
-            send_log(f"Resuming from page {start_page} (Index: {start_index}) of {total_pages}...", "SUCCESS")
+            send_log("Starting scraping process...", "INFO")
 
-        for page in range(start_page, total_pages + 1):
+        # LOGIC UPDATE: Infinite loop for dynamic page fetching
+        while True:
             send_log(f"\n--- Fetching Page: {page} ---", "INFO")
             page_url = f"{MOVIES_LIST_URL}?page={page}"
+            
             list_html = await fetch_page(session, page_url)
             
             if not list_html:
-                send_log(f"Failed to get data for page {page}.", "ERROR")
-                sys.exit(1)
+                send_log(f"No response from page {page}. Assuming end of pagination or block.", "WARNING")
+                break # Stop loop if page fails to load completely after retries
                 
             list_data = get_next_data_json(list_html)
             if not list_data:
-                send_log(f"No JSON data found on page {page}.", "ERROR")
-                sys.exit(1)
+                send_log(f"No JSON data found on page {page}. Assuming end of pagination.", "INFO")
+                break # Stop loop if no Next.js data is found
                 
             movies_props = list_data.get('props', {}).get('pageProps', {}).get('movies', {})
             
@@ -190,14 +199,17 @@ async def main():
             else:
                 movies_array = []
                 
+            # LOGIC UPDATE: If array is empty, we reached the end of the data
             if not movies_array:
-                send_log(f"Page {page} is empty. Reached the end.", "INFO")
+                send_log(f"Page {page} is empty. Reached the end of available movies.", "SUCCESS")
                 break
                 
             total_movies_in_page = len(movies_array)
-            current_index = start_index if page == start_page else 0
+            current_index = start_index if page == progress['currentPage'] else 0
             
             if current_index >= total_movies_in_page:
+                page += 1
+                start_index = 0
                 continue
                 
             batch_size = 4
@@ -217,14 +229,17 @@ async def main():
                     
                 batch_start = current_index + 1
                 batch_end = current_index + len(batch)
-                send_log(f"Batch fetching movies {batch_start} to {batch_end} out of {total_movies_in_page}...")
+                send_log(f"Batch fetching movies {batch_start} to {batch_end} out of {total_movies_in_page} (Page {page})...")
                 
                 multi_responses = await fetch_multiple(session, urls_to_fetch)
                 
                 for m_id, detail_html in multi_responses.items():
                     if not detail_html:
+                        send_log(f"Data missing for Movie ID: {m_id} (Skipping)", "ERROR")
                         continue
+                        
                     formatted_movie = process_movie_details(m_id, detail_html, movie_posters.get(m_id, ""))
+                    
                     if formatted_movie:
                         existing_idx = next((i for i, item in enumerate(final_movies_data) if item.get("id") == m_id), -1)
                         if existing_idx >= 0:
@@ -233,18 +248,25 @@ async def main():
                             final_movies_data.append(formatted_movie)
                             
                 current_index += len(batch)
-                save_progress(page, current_index, total_pages, final_movies_data)
+                save_progress(page, current_index, final_movies_data)
                 await asyncio.sleep(0.3)
                 
             send_log(f"Successfully processed page {page}.", "SUCCESS")
-            save_progress(page + 1, 0, total_pages, final_movies_data)
+            
+            # Move to next page
+            page += 1
+            start_index = 0
+            save_progress(page, start_index, final_movies_data)
             await asyncio.sleep(0.5)
             
-        send_log("All pages processed successfully!", "SUCCESS")
+        send_log("Scraping completed! Organizing data...", "SUCCESS")
         
         categorized_data = {}
         for movie in final_movies_data:
-            cat = movie.get('category', 'Uncategorized')
+            cat = movie.get('category', 'Others')
+            if not cat or cat.strip() == "":
+                cat = 'Others'
+                
             if cat not in categorized_data:
                 categorized_data[cat] = []
             categorized_data[cat].append(movie)
@@ -255,6 +277,7 @@ async def main():
                 json.dump(movies, f, indent=4, ensure_ascii=False)
             send_log(f"Saved {len(movies)} movies to {filename}", "SUCCESS")
             
+        # Clean up progress file since we finished successfully
         if os.path.exists(PROGRESS_FILE):
             os.remove(PROGRESS_FILE)
 
