@@ -1,5 +1,30 @@
 [
     {
+        "id": "6a89a2781ca181ee4cf2a871",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "releaseDate": "21-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "status": "on",
+        "storyline": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a2781ca181ee4cf2a871",
+        "title": "Pyaar Prema Kalyanam (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a88480831ff06a58733b1b6",
         "category": "Hindi Dubbed",
         "director": "Unknown",

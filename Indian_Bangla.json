@@ -1,5 +1,30 @@
 [
     {
+        "id": "6a89a3761ca181ee4cf2aa72",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fLHsrvaDTQfEB1ktvZWazFtHzU.jpg",
+        "releaseDate": "25-06-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fLHsrvaDTQfEB1ktvZWazFtHzU.jpg",
+        "status": "on",
+        "storyline": "story of EXTRAORDINAARI is about how Ex Beauty Diva turn Businesswoman Tanya's, struggles, manipulations, and intelligently made creative decisions to win over the contest of the beauty pageant called GLAMOUREENA through which 10 low confident, underprivileged, underdog girls taste their success and evolves as their new reincarnations in the same birth !!",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a3761ca181ee4cf2aa72",
+        "title": "Extraordinaari (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a81ee3280f1ece832466fa5",
         "category": "Indian Bangla",
         "director": "Unknown",

@@ -1,5 +1,29 @@
 [
     {
+        "id": "6a89a2221ca181ee4cf2a7f1",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "6.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+        "releaseDate": "06-03-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+        "status": "on",
+        "storyline": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a2221ca181ee4cf2a7f1",
+        "title": "Bury the Devil (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a86c1bf3c4c7e172a81e954",
         "category": "Hollywood",
         "director": "Unknown",
@@ -100001,6 +100025,31 @@
         "storyline": "When flesh-eating piranhas are accidently released into a summer resort's rivers, the guests become their next meal.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282a8d5e02d24b73c331aab",
         "title": "Piranha (1978)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "68b0d7348edb3a5fbbe93286",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "7.43",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+        "releaseDate": "24-07-2019",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+        "status": "on",
+        "storyline": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68b0d7348edb3a5fbbe93286",
+        "title": "Once Upon a Time... in Hollywood (2019)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

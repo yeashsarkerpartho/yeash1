@@ -1,5 +1,101 @@
 [
     {
+        "id": "6a89a3c21ca181ee4cf2aae2",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama",
+            "Family"
+        ],
+        "imdbRating": "6.3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+        "releaseDate": "20-01-1972",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfNf5Zqh5NCCoDOAUSEMb0Z8smf.jpg",
+        "status": "on",
+        "storyline": "A series of unfortunate events cause a recent migrant into Bombay to turn to a life of crime.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a3c21ca181ee4cf2aae2",
+        "title": "Yaar Mera (1972)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a89a3421ca181ee4cf2a9e9",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vD6Q8CPglohe3KFj2DJRUHyp6Ql.jpg",
+        "releaseDate": "15-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vD6Q8CPglohe3KFj2DJRUHyp6Ql.jpg",
+        "status": "on",
+        "storyline": "A cable operator with an unusual talent for 'invisibility' is forced into an investigation when an MLA goes missing. What he uncovers is bigger than kidnapping.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a3421ca181ee4cf2a9e9",
+        "title": "Jumper (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a89a3071ca181ee4cf2a94b",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "6.67",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vOOgzh1hE5AXj3iF4BsiZx6YOW.jpg",
+        "releaseDate": "06-02-1959",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vOOgzh1hE5AXj3iF4BsiZx6YOW.jpg",
+        "status": "on",
+        "storyline": "Rajendra makes a meager existence supporting his younger brother and sister and vows not to marry until they have settled. However, when his sister loses her sight, his grand plan is threatened.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a3071ca181ee4cf2a94b",
+        "title": "Chhoti Bahen (1959)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a89a2d11ca181ee4cf2a8eb",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg",
+        "releaseDate": "01-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg",
+        "status": "on",
+        "storyline": "In 1975, India was declared in a state of emergency. This movie tells a story of that year and how the first mobile phone arrived to India.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a89a2d11ca181ee4cf2a8eb",
+        "title": "Dial 1975 (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a3df78c93aed050e8d8f151",
         "category": "Bollywood",
         "director": "Unknown",
