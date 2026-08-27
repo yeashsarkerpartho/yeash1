@@ -1,5 +1,55 @@
 [
     {
+        "id": "6a8ee53bec5efecbb932787b",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "imdbRating": "5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+        "releaseDate": "26-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+        "status": "on",
+        "storyline": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a8ee53bec5efecbb932787b",
+        "title": "Toxic : A Fairy Tale for Grown-ups (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a8eb35bec5efecbb932696f",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "imdbRating": "6.14",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg",
+        "releaseDate": "19-01-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFm2vnp9LhHx5MNo1Ego6O3vUhl.jpg",
+        "status": "on",
+        "storyline": "Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a8eb35bec5efecbb932696f",
+        "title": "Journey 2: The Mysterious Island (Hindi) (2012)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a89a2781ca181ee4cf2a871",
         "category": "Hindi Dubbed",
         "director": "Unknown",
