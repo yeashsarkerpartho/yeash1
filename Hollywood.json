@@ -1,5 +1,174 @@
 [
     {
+        "id": "6a902c8cce5c9af6a0adc533",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Adventure"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GC0TEOQ1ljAhtvcwdthAbb5D3h.jpg",
+        "releaseDate": "31-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GC0TEOQ1ljAhtvcwdthAbb5D3h.jpg",
+        "status": "on",
+        "storyline": "Lisa, aka Kali, has nothing left to lose when she finds out her husband has been executed in Rio to cover up a corruption scandal. A former Special Forces recruit, she heads to Brazil with fists, blood and explosives, to find out the truth.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c8cce5c9af6a0adc533",
+        "title": "Kali: Avenging Angel (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c7dce5c9af6a0adc50a",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSF0jtzyplfwApts2m3Nli8K47k.jpg",
+        "releaseDate": "15-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSF0jtzyplfwApts2m3Nli8K47k.jpg",
+        "status": "on",
+        "storyline": "One night, two strangers meet in a bar. Karla just lost her husband, but she doesn't know how to deal with grief since her husband abuses her. Meanwhile, it's Dindo's last night as a free man because he will surrender himself to the authorities the next day. They get to talk before the night is over and they discover a shocking truth that binds them forever. This bond leads to the unraveling of dark secrets from their individual pasts, secrets that have kept them in misery.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c7dce5c9af6a0adc50a",
+        "title": "One Night (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c72ce5c9af6a0adc4e1",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "5.53",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+        "releaseDate": "31-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+        "status": "on",
+        "storyline": "The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c72ce5c9af6a0adc4e1",
+        "title": "In a Violent Nature (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c67ce5c9af6a0adc4bd",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbRating": "6.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyAJl1ng1QNkyeiuQ8y8OTYCZT3.jpg",
+        "releaseDate": "15-08-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyAJl1ng1QNkyeiuQ8y8OTYCZT3.jpg",
+        "status": "on",
+        "storyline": "After ruining a family event, a workaholic receives an ultimatum from his wife that forces him to choose between his two loves: his cell phone or his 20-year marriage.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c67ce5c9af6a0adc4bd",
+        "title": "I Can't Live Without You (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c5dce5c9af6a0adc491",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Drama"
+        ],
+        "imdbRating": "4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tClWTZEIeZ4IxHHikk4xkLxd4O.jpg",
+        "releaseDate": "05-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tClWTZEIeZ4IxHHikk4xkLxd4O.jpg",
+        "status": "on",
+        "storyline": "When a young nomad begins the journey home from his ex-girlfriend's funeral, he finds himself desperately trying to escape increasingly real visions of her vengeful ghost.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c5dce5c9af6a0adc491",
+        "title": "Haunted by Her Name (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c51ce5c9af6a0adc46c",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Drama",
+            "Mystery"
+        ],
+        "imdbRating": "5.85",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg",
+        "releaseDate": "09-02-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg",
+        "status": "on",
+        "storyline": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them. Who are they, and what do they want?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c51ce5c9af6a0adc46c",
+        "title": "Handling the Undead (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a902c43ce5c9af6a0adc448",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "History",
+            "Drama"
+        ],
+        "imdbRating": "6.63",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK5rrNUSNUMOWyPUQAHo6WsjOho.jpg",
+        "releaseDate": "11-07-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK5rrNUSNUMOWyPUQAHo6WsjOho.jpg",
+        "status": "on",
+        "storyline": "As Minister of Propaganda, Joseph Goebbels creates films and pictures used to prepare the Germans for Total War and the Holocaust. When the war is lost, he conceives his last staging, the most radical propaganda act still possible to him.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a902c43ce5c9af6a0adc448",
+        "title": "Goebbels and the Führer (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a89a2221ca181ee4cf2a7f1",
         "category": "Hollywood",
         "director": "Unknown",
