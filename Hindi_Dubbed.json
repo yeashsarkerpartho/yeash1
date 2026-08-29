@@ -1,5 +1,123 @@
 [
     {
+        "id": "6a916265ce5c9af6a0ae3257",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQGjs2u9EIm05SATNYzGC1SKKG.jpg",
+        "releaseDate": "31-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qQGjs2u9EIm05SATNYzGC1SKKG.jpg",
+        "status": "on",
+        "storyline": "Follows an investigation into a double murder in 1999, with unexpected characters roped into the case as they search for justice amid intrigue and secrets.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a916265ce5c9af6a0ae3257",
+        "title": "Newton's 3rd Law (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a91624ace5c9af6a0ae3233",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Action"
+        ],
+        "imdbRating": "4.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
+        "releaseDate": "02-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
+        "status": "on",
+        "storyline": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a91624ace5c9af6a0ae3233",
+        "title": "Nagabandham: The Secret Treasure (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a914b05ce5c9af6a0ae2aef",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+        "releaseDate": "17-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+        "status": "on",
+        "storyline": "Follows the chaotic love story between a Telugu boy in Perambur and an Anglo Indian girl.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a914b05ce5c9af6a0ae2aef",
+        "title": "Anbe Diana (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a913a5fce5c9af6a0ae238b",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg",
+        "releaseDate": "05-12-2025",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg",
+        "status": "on",
+        "storyline": "After being released from prison for a murder he did not commit, a man quickly learns that crime and injustice are still rife in his hometown.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a913a5fce5c9af6a0ae238b",
+        "title": "Pongala (Hindi) (2025)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a9139bece5c9af6a0ae224a",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHih8T3kXXtXsHS5jLE6yKGA5yw.jpg",
+        "releaseDate": "02-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHih8T3kXXtXsHS5jLE6yKGA5yw.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9139bece5c9af6a0ae224a",
+        "title": "I'm nobody (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a8ee53bec5efecbb932787b",
         "category": "Hindi Dubbed",
         "director": "Unknown",

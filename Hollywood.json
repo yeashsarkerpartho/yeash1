@@ -1,5 +1,104 @@
 [
     {
+        "id": "6a9146edce5c9af6a0ae2967",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB2Opos65gHaPSeyziXW4XDHPZT.jpg",
+        "releaseDate": "29-08-2025",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uB2Opos65gHaPSeyziXW4XDHPZT.jpg",
+        "status": "on",
+        "storyline": "Nica, nursing a broken heart, heads to Camp Haraya with her friends Ellen and Tony. There, she crosses paths with birthday celebrant Ralph and his group of friends. As emotions ignite and passions unfold, Nica must discover whether Ralph can help her find the spark she thought she lost.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9146edce5c9af6a0ae2967",
+        "title": "Hot Night (2025)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a9144e8ce5c9af6a0ae2854",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Animation"
+        ],
+        "imdbRating": "9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+        "releaseDate": "27-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+        "status": "on",
+        "storyline": "Jason and Lucia have always known the deck is stacked against them. But when a drug exchange goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9144e8ce5c9af6a0ae2854",
+        "title": "Grand Theft Auto VI: An Extended Look (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a59d78257ad9fff94d07c84",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "imdbRating": "4.04",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+        "releaseDate": "03-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+        "status": "on",
+        "storyline": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a59d78257ad9fff94d07c84",
+        "title": "The Odyssey (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a913a0dce5c9af6a0ae22da",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "imdbRating": "6.74",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+        "releaseDate": "23-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+        "status": "on",
+        "storyline": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a913a0dce5c9af6a0ae22da",
+        "title": "Motor City (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a902c8cce5c9af6a0adc533",
         "category": "Hollywood",
         "director": "Unknown",
@@ -1301,31 +1400,6 @@
         "storyline": "On the way to a Texas music festival, a group of friends catches a ride with a magnetic van driver. But when people start vanishing, the real headliner becomes survival.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a5a0949084aa1de8fa80526",
         "title": "Kill Trip (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a59d78257ad9fff94d07c84",
-        "category": "Hollywood",
-        "director": "Unknown",
-        "genre": [
-            "Adventure",
-            "Action",
-            "Fantasy"
-        ],
-        "imdbRating": "7.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "releaseDate": "15-07-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "status": "on",
-        "storyline": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a59d78257ad9fff94d07c84",
-        "title": "The Odyssey (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

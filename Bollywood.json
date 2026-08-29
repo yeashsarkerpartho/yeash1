@@ -1,5 +1,75 @@
 [
     {
+        "id": "6a242109869a62ab4fef922c",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Thriller"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg",
+        "releaseDate": "04-06-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg",
+        "status": "on",
+        "storyline": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a242109869a62ab4fef922c",
+        "title": "Bandar (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a47ab7587013abe4c288dfe",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+        "releaseDate": "02-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+        "status": "on",
+        "storyline": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a47ab7587013abe4c288dfe",
+        "title": "Alpha (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a913abece5c9af6a0ae23f1",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBoWpfvWkiXPH07ZC5X9bWKc3b5.jpg",
+        "releaseDate": "31-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBoWpfvWkiXPH07ZC5X9bWKc3b5.jpg",
+        "status": "on",
+        "storyline": "A cop, Ransher Singh, transfers to Punjab and becomes entangled in the rivalry between gangsters Master Ji and Deswal. His actions lead him to become a gangster himself, surprising everyone.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a913abece5c9af6a0ae23f1",
+        "title": "Surrender (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a89a3c21ca181ee4cf2aae2",
         "category": "Bollywood",
         "director": "Unknown",
@@ -1425,30 +1495,6 @@
         }
     },
     {
-        "id": "6a47ab7587013abe4c288dfe",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-        "releaseDate": "02-07-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-        "status": "on",
-        "storyline": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a47ab7587013abe4c288dfe",
-        "title": "Alpha (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6a02c700f525f88687420991",
         "category": "Bollywood",
         "director": "Unknown",
@@ -1804,29 +1850,6 @@
         "storyline": "Three accounting students search for their mentor Bhaskar Sharma, who taught them both finance and life through theater before disappearing. Years after their success under his guidance, they reunite to find him.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a26559f7f3d8b1140b81fc3",
         "title": "Well Done C.A. Sahab! (2025)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a242109869a62ab4fef922c",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Thriller"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-        "releaseDate": "05-06-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-        "status": "on",
-        "storyline": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a242109869a62ab4fef922c",
-        "title": "Bandar (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
