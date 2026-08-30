@@ -1,5 +1,29 @@
 [
     {
+        "id": "6a92c9acce5c9af6a0ae94d3",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "6.52",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "releaseDate": "19-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "status": "on",
+        "storyline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a92c9acce5c9af6a0ae94d3",
+        "title": "Insidious: Out of the Further (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a9146edce5c9af6a0ae2967",
         "category": "Hollywood",
         "director": "Unknown",
