@@ -1,5 +1,74 @@
 [
     {
+        "id": "6a943936ce5c9af6a0aedb74",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror"
+        ],
+        "imdbRating": "6.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEgWL3PlfEA6IFXNLoi6x9IWLZx.jpg",
+        "releaseDate": "28-08-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEgWL3PlfEA6IFXNLoi6x9IWLZx.jpg",
+        "status": "on",
+        "storyline": "A mother enters an old home for her autistic daughter's therapy. Unexpectedly, the daughter start speaking but has encountered dark entities from the past seeking payback. The family faces supernatural forces related to the home's history.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a943936ce5c9af6a0aedb74",
+        "title": "The Aunts (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a943928ce5c9af6a0aedb50",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "5.85",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",
+        "releaseDate": "21-03-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",
+        "status": "on",
+        "storyline": "A debt-ridden father takes advantage of an unforeseen situation to disappear and live off the grid under a false identity. But a chance event occurs and the temptation to want to know his family resurfaces.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a943928ce5c9af6a0aedb50",
+        "title": "Rest in Peace (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a943917ce5c9af6a0aedb16",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "7.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg",
+        "releaseDate": "21-10-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg",
+        "status": "on",
+        "storyline": "In late 1940s Italy, a mother makes the difficult decision to send her son to the north, where he catches glimpses of a new life away from poverty.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a943917ce5c9af6a0aedb16",
+        "title": "The Children's Train (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a92c9acce5c9af6a0ae94d3",
         "category": "Hollywood",
         "director": "Unknown",
