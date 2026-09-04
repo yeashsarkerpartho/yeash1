@@ -1,5 +1,49 @@
 [
     {
+        "id": "6a998e111a8e4889e85bc1bb",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Thriller"
+        ],
+        "imdbRating": "5.86",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+        "releaseDate": "03-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+        "status": "on",
+        "storyline": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a998e111a8e4889e85bc1bb",
+        "title": "The Runner (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a9986d31a8e4889e85bbdd1",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "4.25",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYfkUX61GyyWxxzGve5dQlWJl4c.jpg",
+        "releaseDate": "05-08-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYfkUX61GyyWxxzGve5dQlWJl4c.jpg",
+        "status": "on",
+        "storyline": "Sirish belongs to a well to do family which is headed by Prakash Raj. Things in his family get disturbed when Srirish’s brother loves and marries a middle class girl against his father’s will. In this crunch situation, Sirish falls in love with a yet another middle class girl called Anu(Lavanya) and reveals about this to his father. An upset Prakash Raj, gives him a piece of his advice and asks him to back off from the relationship. An adamant Sirish, challenges his father that he will win his love by not using his family name. In this process, he woos Anu and right when the time things start getting positive, Anu’s father arranges her marriage with some one else.Rest of the story is as to how Sirish manages to convince both Anu’s parents and his and finally comes out victorious.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9986d31a8e4889e85bbdd1",
+        "title": "Srirastu Subhamastu (Hindi) (2016)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a916265ce5c9af6a0ae3257",
         "category": "Hindi Dubbed",
         "director": "Unknown",

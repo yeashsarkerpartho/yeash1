@@ -1,5 +1,93 @@
 [
     {
+        "id": "6a9989261a8e4889e85bbf40",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "4.67",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU13UthxSiBRjEm4A3STcEVJXd9.jpg",
+        "releaseDate": "02-02-1977",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU13UthxSiBRjEm4A3STcEVJXd9.jpg",
+        "status": "on",
+        "storyline": "Pooja lives with her doctor husband and a young son. Her son becomes seriously ill and does not respond to any medication, her husband wants him to be moved to a hospital for further .",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9989261a8e4889e85bbf40",
+        "title": "Shirdi Ke Sai Baba (1977)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a9989231a8e4889e85bbf3a",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbDXWrc19Ylo5U6nfMXVnbb4R3p.jpg",
+        "releaseDate": "14-04-1972",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbDXWrc19Ylo5U6nfMXVnbb4R3p.jpg",
+        "status": "on",
+        "storyline": "Kamal, a governess, falls in love with Ashok. Things, however, take an odd turn when Ashok marries her friend, Radha. Soon after the marriage, Radha meets with an accident.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9989231a8e4889e85bbf3a",
+        "title": "Haar Jeet (1972)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a9989201a8e4889e85bbf34",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "10",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZLh4YPPRPvAliDixKX6OGbtIKC.jpg",
+        "releaseDate": "01-01-1970",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZLh4YPPRPvAliDixKX6OGbtIKC.jpg",
+        "status": "on",
+        "storyline": "Inspector is a 1970 Bollywood action thriller about an Indian terrorist who attempts to release a poisonous gas into the atmosphere.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9989201a8e4889e85bbf34",
+        "title": "Inspector (1970)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a99891d1a8e4889e85bbf2e",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0jUITPk5alLT2Yr8xvR3QtmQD.jpg",
+        "releaseDate": "01-01-1966",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0jUITPk5alLT2Yr8xvR3QtmQD.jpg",
+        "status": "on",
+        "storyline": "Parvati seeks to heal the breach between her husband and his mother",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a99891d1a8e4889e85bbf2e",
+        "title": "Daadi Maa (1966)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a242109869a62ab4fef922c",
         "category": "Bollywood",
         "director": "Unknown",
@@ -27152,14 +27240,14 @@
             "Horror",
             "Comedy"
         ],
-        "imdbRating": "4",
+        "imdbRating": "6.14",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1077_.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
         "releaseDate": "20-05-2022",
-        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1077_.jpg",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
         "status": "on",
-        "storyline": "Reet gets possessed by the feared witch Manjulika after the conman, who passes himself as a ghostbuster, Ruhan opens the spooky door, which he was categorically told not to.",
+        "storyline": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for eighteen years.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62887608e73b52e9d1343af4",
         "title": "Bhool Bhulaiyaa 2 (2022)",
         "headers": {
@@ -28197,14 +28285,14 @@
             "Science Fiction",
             "Thriller"
         ],
-        "imdbRating": "7.5",
+        "imdbRating": "6.76",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTIyNzg3NGUtNzk3MC00OTQwLTgyYzEtN2QwYzQyMGI2OWIwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX400_.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg",
         "releaseDate": "01-04-2022",
-        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BYTIyNzg3NGUtNzk3MC00OTQwLTgyYzEtN2QwYzQyMGI2OWIwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX400_.jpg",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9FjibQFfkPVrfQcM3dlY6fkYpJ.jpg",
         "status": "on",
-        "storyline": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in the nick of time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi. Will Arjun succeed in his mission?",
+        "storyline": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282a8cf1e8484b6d0400fbf",
         "title": "Attack (2022)",
         "headers": {

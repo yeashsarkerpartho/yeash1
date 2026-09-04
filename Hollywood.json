@@ -1,5 +1,53 @@
 [
     {
+        "id": "6a9987111a8e4889e85bbe33",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "6.99",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
+        "releaseDate": "16-05-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/whk02IOeEHz8KCYZGm3fF92zg0v.jpg",
+        "status": "on",
+        "storyline": "The acclaimed film director Esteban Martínez is a legend both for his films and for his past marked by violence and excess. For his new project, he offers his daughter Emilia a role under the pretext of helping her with her stalled acting career. Living together on set will foster a closeness they haven’t shared for years, but it will also reopen old wounds that never healed.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9987111a8e4889e85bbe33",
+        "title": "The Beloved (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a99865f1a8e4889e85bbd61",
+        "category": "Hollywood",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Adventure",
+            "Family"
+        ],
+        "imdbRating": "7.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "releaseDate": "20-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "status": "on",
+        "storyline": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a99865f1a8e4889e85bbd61",
+        "title": "Coyote vs. Acme (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a943936ce5c9af6a0aedb74",
         "category": "Hollywood",
         "director": "Unknown",
