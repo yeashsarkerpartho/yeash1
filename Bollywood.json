@@ -1,5 +1,52 @@
 [
     {
+        "id": "6a9b1e16973eac5d470675cf",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+        "releaseDate": "04-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+        "status": "on",
+        "storyline": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9b1e16973eac5d470675cf",
+        "title": "Mirzapur: The Movie (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a50eb3ce38dc75cb5983fad",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+        "releaseDate": "10-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+        "status": "on",
+        "storyline": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a50eb3ce38dc75cb5983fad",
+        "title": "Dhamaal 4 (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a9989261a8e4889e85bbf40",
         "category": "Bollywood",
         "director": "Unknown",
@@ -1406,29 +1453,6 @@
         "storyline": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a072555f525f8868742ffbb",
         "title": "Pati Patni Aur Woh Do (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a50eb3ce38dc75cb5983fad",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-        "releaseDate": "10-07-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-        "status": "on",
-        "storyline": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a50eb3ce38dc75cb5983fad",
-        "title": "Dhamaal 4 (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
