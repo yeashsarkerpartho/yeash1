@@ -1,5 +1,29 @@
 [
     {
+        "id": "6a9c1d1a0320e6e316af644c",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "4.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDyVWvdtbwCJU3yWRQZIhxiHCcQ.jpg",
+        "releaseDate": "29-01-2010",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDyVWvdtbwCJU3yWRQZIhxiHCcQ.jpg",
+        "status": "on",
+        "storyline": "At the H.W.L.S HEAD OFFICE in LONDON, the egotistical maniac Joy Mittal the CEO of the company, decides to repair his scandal-ridden work record and prove to himself and his partners that he can, indeed, care for his family and be an able leader in an economic meltdown that effects everyone. He is responsible of firing almost half the employees in London and implement major cut-downs. In the turmoil that follows he decides to sack the manager RUBY, a 29-year-old seductress with whom he has been having an affair that affects his personal as well as his professional life. After a day of ultimate stress Joy finally decides to finish off all his paperwork and stand proud in front of his partners for a board meeting that will definitely change his life. Almost after 5 hours of the firing incident, the final two hours in the office is a stressful event.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a9c1d1a0320e6e316af644c",
+        "title": "Fired (2010)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a9b1e16973eac5d470675cf",
         "category": "Bollywood",
         "director": "Unknown",
