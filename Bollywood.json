@@ -1,5 +1,30 @@
 [
     {
+        "id": "6aa03a0a6098d36a40b7446c",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "4.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+        "releaseDate": "03-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
+        "status": "on",
+        "storyline": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa03a0a6098d36a40b7446c",
+        "title": "Gandhari (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a9d756d0320e6e316afa5f4",
         "category": "Bollywood",
         "director": "Unknown",

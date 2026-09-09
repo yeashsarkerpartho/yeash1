@@ -1,5 +1,78 @@
 [
     {
+        "id": "6aa0394b6098d36a40b743ff",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Action",
+            "Comedy"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+        "releaseDate": "06-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
+        "status": "on",
+        "storyline": "Follows a Rayalaseema youth named Kanakaraju whose life upends when a vessel from Korea brings a spirit that possesses him, transforming him into Korean Kanakaraju.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa0394b6098d36a40b743ff",
+        "title": "Korean Kanakaraju (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aa038d56098d36a40b74320",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Family",
+            "Romance"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oVa20YGZMi3INlVFkCl453Cs21.jpg",
+        "releaseDate": "22-12-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oVa20YGZMi3INlVFkCl453Cs21.jpg",
+        "status": "on",
+        "storyline": "Avinash/Seenu is a street urchin brought up by his loving adoptive parents Saru and Prakash. The love of his life is the girl he meets during childhood Junnu/Priya, whom fate had snatched away from him. Fourteen long years and they still wait for the day they will meet again. Will destiny help them?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa038d56098d36a40b74320",
+        "title": "Hello! (Hindi) (2017)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a7dda137f976305c239f4e4",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+        "releaseDate": "07-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+        "status": "on",
+        "storyline": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a7dda137f976305c239f4e4",
+        "title": "G.D.N (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a9b1a5a973eac5d4706727b",
         "category": "Hindi Dubbed",
         "director": "Unknown",
@@ -500,29 +573,6 @@
         "storyline": "A family's quiet life is upended by a devastating cyber scam that leaves them shattered. Determined to fight back, one woman takes on the digital underworld in a courageous battle for justice, hope and those she loves.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a7ddf477f976305c239fa31",
         "title": "Achyuta Avataaram (Hindi) (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a7dda137f976305c239f4e4",
-        "category": "Hindi Dubbed",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-        "releaseDate": "07-08-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-        "status": "on",
-        "storyline": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a7dda137f976305c239f4e4",
-        "title": "G.D.N (Hindi) (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
