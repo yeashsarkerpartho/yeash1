@@ -1,5 +1,53 @@
 [
     {
+        "id": "6aa42dc66098d36a40b81b7f",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+        "releaseDate": "14-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+        "status": "on",
+        "storyline": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa42dc66098d36a40b81b7f",
+        "title": "Vishwanath & Sons (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aa428066098d36a40b81875",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg",
+        "releaseDate": "08-04-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg",
+        "status": "on",
+        "storyline": "An incident unfolds when a film crew goes to a reservoir to update the road view where an unidentified figure was filmed, and they encounter something in the dark, deep waters.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa428066098d36a40b81875",
+        "title": "Salmokji: Whispering Water (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6aa0394b6098d36a40b743ff",
         "category": "Hindi Dubbed",
         "director": "Unknown",

@@ -1,5 +1,77 @@
 [
     {
+        "id": "6aa431e46098d36a40b81e38",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hvuuvYcvlhOuq6Gax2siAxoiJ5.jpg",
+        "releaseDate": "11-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hvuuvYcvlhOuq6Gax2siAxoiJ5.jpg",
+        "status": "on",
+        "storyline": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa431e46098d36a40b81e38",
+        "title": "Haiwaan (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aa42e606098d36a40b81be7",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pee6fD1cudLr0Fbj4F37S49XjUH.jpg",
+        "releaseDate": "01-05-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pee6fD1cudLr0Fbj4F37S49XjUH.jpg",
+        "status": "on",
+        "storyline": "Nimmi, a clever young woman, transforms her father's death into an unusual business running virtual funerals for NRIs. With her ragtag crew, she orchestrates chaotic send-offs until NRI Mickey arrives, sparking hilarious chaos and romance.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa42e606098d36a40b81be7",
+        "title": "Pitt Siyapa (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aa422d06098d36a40b81502",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Action"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiiCF0MkRRNooqO53Esu0jtTYMJ.jpg",
+        "releaseDate": "18-10-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiiCF0MkRRNooqO53Esu0jtTYMJ.jpg",
+        "status": "on",
+        "storyline": "A cat-and-mouse tale set in the Hindi heartland, where male friendships and rivalries unveil homoerotic tensions. Men on both sides of the law traverse arid lands, creating a sense of place where unexplored histories reside.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aa422d06098d36a40b81502",
+        "title": "Ghamasaan (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6aa18a856098d36a40b78600",
         "category": "Bollywood",
         "director": "Unknown",
