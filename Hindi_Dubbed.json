@@ -1,5 +1,54 @@
 [
     {
+        "id": "6aaacfda1b9181e3f052fe27",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IkP3wuH6Sz7xqUHrqDMJZfoVDe.jpg",
+        "releaseDate": "03-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IkP3wuH6Sz7xqUHrqDMJZfoVDe.jpg",
+        "status": "on",
+        "storyline": "A police investigation frames the story of an atheist office worker whose life descends into terror, frustration and paranoia after relocating to a home with a troubled past. He is forced to question his distorted sense of reality and his views on the paranormal as hidden truths resurface.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aaacfda1b9181e3f052fe27",
+        "title": "Dark (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aaa38aa9f0fbb86b1ea6429",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Family",
+            "Mystery"
+        ],
+        "imdbRating": "7.94",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+        "releaseDate": "30-04-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+        "status": "on",
+        "storyline": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aaa38aa9f0fbb86b1ea6429",
+        "title": "The Sheep Detectives (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6aa42dc66098d36a40b81b7f",
         "category": "Hindi Dubbed",
         "director": "Unknown",

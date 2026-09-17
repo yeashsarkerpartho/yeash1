@@ -1,5 +1,29 @@
 [
     {
+        "id": "6896267b8edb3a5fbbdc7e65",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TreZScV6pNXweleaBzBrddPamS.jpg",
+        "releaseDate": "08-08-2025",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TreZScV6pNXweleaBzBrddPamS.jpg",
+        "status": "on",
+        "storyline": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6896267b8edb3a5fbbdc7e65",
+        "title": "Udaipur Files: Kanhaiya Lal Tailor Murder (2025)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6aa6cb2be9f769f81b8179c0",
         "category": "Bollywood",
         "director": "Unknown",
@@ -5071,30 +5095,6 @@
         "storyline": "A student whose parents died in the Gujarat pogrom receives an assignment on the same topic at his university. During his research, he meets everyone associated with the commission and tries to uncover various other aspects.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68ab2c4f8edb3a5fbbe5325b",
         "title": "Accident or Conspiracy: Godhra (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6896267b8edb3a5fbbdc7e65",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dofvavrizF7KnF6Jl6g6yMp7y1B.jpg",
-        "releaseDate": "08-08-2025",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dofvavrizF7KnF6Jl6g6yMp7y1B.jpg",
-        "status": "on",
-        "storyline": "In June 2022, Kanhaiya Lal Sahu, a tailor in Udaipur, India, was brutally murdered. The events surrounding the murder are explored, delving into the conspiracy and the deeper issues of religious extremism, digital radicalization, and intelligence failures that led to the tragic event.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6896267b8edb3a5fbbdc7e65",
-        "title": "Udaipur Files: A Tailor's Murder Story (2025)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
