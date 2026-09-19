@@ -1,5 +1,102 @@
 [
     {
+        "id": "6aad82b07742a970aa8cb586",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+        "releaseDate": "18-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+        "status": "on",
+        "storyline": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad82b07742a970aa8cb586",
+        "title": "Vibe (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aad829e7742a970aa8cb52d",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
+        "releaseDate": "18-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
+        "status": "on",
+        "storyline": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad829e7742a970aa8cb52d",
+        "title": "Daayra (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aad82427742a970aa8cb4b3",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+        "releaseDate": "18-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+        "status": "on",
+        "storyline": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad82427742a970aa8cb4b3",
+        "title": "Lust Stories 3 (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a63a2e09783949e76bc0d44",
+        "category": "Bollywood",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocasYrRgkfKBdabKNPl8ttZuu7x.jpg",
+        "releaseDate": "24-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocasYrRgkfKBdabKNPl8ttZuu7x.jpg",
+        "status": "on",
+        "storyline": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a63a2e09783949e76bc0d44",
+        "title": "The India Story (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6896267b8edb3a5fbbdc7e65",
         "category": "Bollywood",
         "director": "Unknown",
@@ -820,30 +917,6 @@
         "storyline": "Sanju moves from Nagpur to Mumbai for work and stays with his late mother's friend Viswanath. He falls for Viswanath's daughter Anu, but her marriage is arranged with another man, leaving Viswanath caught between friendship and fatherhood.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a65f52a447bb6df999cf73b",
         "title": "Tera Yaar Hoon Main (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a63a2e09783949e76bc0d44",
-        "category": "Bollywood",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Thriller"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
-        "releaseDate": "24-07-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
-        "status": "on",
-        "storyline": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a63a2e09783949e76bc0d44",
-        "title": "The India Story (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

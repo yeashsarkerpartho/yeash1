@@ -1,5 +1,53 @@
 [
     {
+        "id": "6aad7e26de3977597fbc3ca0",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Comedy"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+        "releaseDate": "21-08-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+        "status": "on",
+        "storyline": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad7e26de3977597fbc3ca0",
+        "title": "Modha Rathri (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6aad7d7ade3977597fbc3c3c",
+        "category": "Hindi Dubbed",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "releaseDate": "18-09-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "status": "on",
+        "storyline": "Alma Lancaster, 18, leads a seemingly perfect life in a wealthy family, who believe she is studying law. In secret, she pursues her true dream — cinema. On campus, she meets 20-year-old Vadim Arcadi, a rebellious and magnetic solitaire with a troubled past. Forced to collaborate on a student film, they compete, get closer and start to fall in love – in spite of themselves. But someone is watching them. A mysterious figure begins to send anonymous threats, determined to separate them and expose secrets that could destroy Alma and Vadim.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad7d7ade3977597fbc3c3c",
+        "title": "You+Me – Against the World (Hindi) (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6aaacfda1b9181e3f052fe27",
         "category": "Hindi Dubbed",
         "director": "Unknown",

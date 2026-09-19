@@ -1,5 +1,29 @@
 [
     {
+        "id": "6aad7c67de3977597fbc3b14",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVhqnbCjEEa1pTw6QEUdDrCExM.jpg",
+        "releaseDate": "24-07-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVhqnbCjEEa1pTw6QEUdDrCExM.jpg",
+        "status": "on",
+        "storyline": "Hunting for hope in a city ridden by immorality, young Kedar Barua is tickled into madness by ghosts of the past. Paro's love brightens his path to liberation, but a nefarious, superhuman vigilante emerges from the dark.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6aad7c67de3977597fbc3b14",
+        "title": "Katukutu Buro (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "68dc0418687356346825f450",
         "category": "Indian Bangla",
         "director": "Unknown",
