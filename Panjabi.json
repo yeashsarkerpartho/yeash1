@@ -649,5 +649,96 @@
             "origin": "",
             "user_agent": ""
         }
+    },
+    {
+        "id": "643b9d3aea2827c812a18d04",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2P0BCRDun0E31zenFnEteozpSZ.jpg",
+        "releaseDate": "14-04-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2P0BCRDun0E31zenFnEteozpSZ.jpg",
+        "status": "on",
+        "storyline": "Brar Group and Khaiwal Group are rivals in the gambling market. when Brar is murdered and Arjun, who is Brar's right hand, is accused of murdering him. Writer Poras wants to dig up the truth about the murder to complete his novel.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643b9d3aea2827c812a18d04",
+        "title": "Yaaran Da Rutbaa (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "643a6389354558210a0f02e9",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWUxNTVmZGUtODY1Zi00YTMyLTk5NjUtMDYwY2Y2NzRkMmIzXkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "14-04-2023",
+        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BOWUxNTVmZGUtODY1Zi00YTMyLTk5NjUtMDYwY2Y2NzRkMmIzXkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_FMjpg_UX1000_.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643a6389354558210a0f02e9",
+        "title": "Udeekan Teriyan (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "643532be7db69082f47c7c80",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://fs1.extraimage.org/picupto/2023/04/11/Babul-Meriya-Guddiya-2023-Punjabi-2160p-4K-HDRip-2.9GB-ESub.png",
+        "releaseDate": "11-04-2023",
+        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/04/11/Babul-Meriya-Guddiya-2023-Punjabi-2160p-4K-HDRip-2.9GB-ESub.png",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643532be7db69082f47c7c80",
+        "title": "Babul Meriya Guddiya (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6416ac7196bb868ccd35eb97",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjMzYjk4NzctNjlkNy00MWI3LThjMjUtYjAwZDhkOWNjMzdjXkEyXkFqcGdeQXVyMTI5NjIxMTEx._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "09-12-2022",
+        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BZjMzYjk4NzctNjlkNy00MWI3LThjMjUtYjAwZDhkOWNjMzdjXkEyXkFqcGdeQXVyMTI5NjIxMTEx._V1_FMjpg_UX1000_.jpg",
+        "status": "on",
+        "storyline": "It's been months since Sanjog broke up with Amreek because marriage is not something she wants. What she wants is to succeed in her professional life. However, soon she finds out that her family has lined up a prospective groom for her. Only option she has is to convince Amreek to help her get out of the situation. created by watchmoviesonline24.com Amreek has no reason to support Sanjog in her plan. Will Amreek be able to say no to Sanjog?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6416ac7196bb868ccd35eb97",
+        "title": "Tere Layi (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
     }
 ]

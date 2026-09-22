@@ -363,5 +363,418 @@
             "origin": "",
             "user_agent": ""
         }
+    },
+    {
+        "id": "6463a28b39777ad77a547ab0",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oup7S0B7ZeJCx6rmMnjruYIRsJh.jpg",
+        "releaseDate": "25-10-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oup7S0B7ZeJCx6rmMnjruYIRsJh.jpg",
+        "status": "on",
+        "storyline": "A film about a female detective investigates the murder case of voyeur club member.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6463a28b39777ad77a547ab0",
+        "title": "Lee Pa-Ni's Secret Voyeur Club (2016)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6460922abe777c1922396644",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "7.2",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPcLsdNN2VgsUmlsTLl7IdYqQhu.jpg",
+        "releaseDate": "28-08-2009",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPcLsdNN2VgsUmlsTLl7IdYqQhu.jpg",
+        "status": "on",
+        "storyline": "A delivery Boy falls for a young girl who is hearing impaired. Comparing themselves with water birds and trees, together they are going to break the barrier and pursuit their dreams and take their relationship to the next level.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460922abe777c1922396644",
+        "title": "Hear Me (2009)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "644a175072c13015424fe59f",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Adventure",
+            "Action",
+            "Thriller"
+        ],
+        "imdbRating": "6.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+        "releaseDate": "15-07-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+        "status": "on",
+        "storyline": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644a175072c13015424fe59f",
+        "title": "Peninsula (2020)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "643fc1e66cb06fdf31c85a9e",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "3.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7PbTy8RmDLJhJjVp6bxlftTNKC.jpg",
+        "releaseDate": "23-03-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7PbTy8RmDLJhJjVp6bxlftTNKC.jpg",
+        "status": "on",
+        "storyline": "Jojo, a Filipino artist in Paris who has had many lovers, but constantly finds himself desperate to fill the chasm in his life occupied by the mysterious muse of his paintings. For years, his heart is held captive by a woman with no name and no history. Like a compass, Jojo looks for her in every girl he meets, hoping she will be “the one.” One day, a woman named Marie, walks up to Jojo and claims to be the subject of his paintings.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643fc1e66cb06fdf31c85a9e",
+        "title": "Nothing Like Paris (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6435081e1344f1f2fecc5e52",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ],
+        "imdbRating": "6.29",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg",
+        "releaseDate": "20-01-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg",
+        "status": "on",
+        "storyline": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6435081e1344f1f2fecc5e52",
+        "title": "JUNG_E (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64272607d75d74af925f07eb",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Adventure"
+        ],
+        "imdbRating": "8.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QKkvGgwMCvYrdkyNFgxfLESBtx.jpg",
+        "releaseDate": "17-02-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QKkvGgwMCvYrdkyNFgxfLESBtx.jpg",
+        "status": "on",
+        "storyline": "At work, she's a renowned assassin. At home, she's a single mom to a teenage daughter. Killing? That's easy. It's parenting that's the hard part.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64272607d75d74af925f07eb",
+        "title": "Kill Boksoon (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6416fef1b68a09ad4741a9ce",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "6.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFrFFk33vPVYdR4VHFqqXQYabK1.jpg",
+        "releaseDate": "29-01-2000",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFrFFk33vPVYdR4VHFqqXQYabK1.jpg",
+        "status": "on",
+        "storyline": "A governor's son falls for Chunhyang, a commoner, and illegally marries below his station; when he has to leave her for several years, a local official attempts to corrupt her.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6416fef1b68a09ad4741a9ce",
+        "title": "Chunhyang (2000)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6412adaacba06f35edb10267",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "imdbRating": "4.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVry8xj0b0RGeQx45wgoZrJfn9i.jpg",
+        "releaseDate": "08-08-2003",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVry8xj0b0RGeQx45wgoZrJfn9i.jpg",
+        "status": "on",
+        "storyline": "An archaeological site in China was selected to send two teams, North and South Koreans, and students to collaborate and continue reconciliation of the two countries. But the team leader of the South decided to dredge the leader of the North group.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6412adaacba06f35edb10267",
+        "title": "Love Impossible (2003)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64121e3a10fb97e83cce8737",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama",
+            "Horror"
+        ],
+        "imdbRating": "7.04",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN4DJn9f5ytbj1IDy3LIWR8O5L.jpg",
+        "releaseDate": "16-11-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXN4DJn9f5ytbj1IDy3LIWR8O5L.jpg",
+        "status": "on",
+        "storyline": "A former Naval officer with a dark past must face off against an insurgent with a sound sensitive bomb.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64121e3a10fb97e83cce8737",
+        "title": "Decibel (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6411829ccba06f35edb0bf3e",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Mystery",
+            "Drama"
+        ],
+        "imdbRating": "8.02",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg",
+        "releaseDate": "29-11-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg",
+        "status": "on",
+        "storyline": "Seoul, South Korea, 1997. When the young but extremely anxious student Jin-seok, his parents and his successful older brother Yoo-seok move to a new home, mysterious and frightening events begin to happen around them, unexplained events that threaten to ruin their seemingly happy lives. Unable to understand what is happening, Jin-seok wonders if he is losing his mind.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6411829ccba06f35edb0bf3e",
+        "title": "Forgotten (2017)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "641182472009f50dbadad0aa",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Crime"
+        ],
+        "imdbRating": "7.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAgLm2YXhps0UOt90CJYeKbPydM.jpg",
+        "releaseDate": "15-09-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAgLm2YXhps0UOt90CJYeKbPydM.jpg",
+        "status": "on",
+        "storyline": "Seo-joon, loses everything to voice phishing and infiltrates a organization in China to meet Kwak Pro, the designer behind this phishing system.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641182472009f50dbadad0aa",
+        "title": "On the Line (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6410066155a71bf6530f73fc",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "5.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6EbOFhn8cSRIFAULft3HBIC739.jpg",
+        "releaseDate": "19-10-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6EbOFhn8cSRIFAULft3HBIC739.jpg",
+        "status": "on",
+        "storyline": "It is said that time is equal to everyone but things are different to Suryeon who turns 30. She doesn't have much time to live. Her dad died from disease when she was young. She expects the same path.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6410066155a71bf6530f73fc",
+        "title": "Autumn Sonata (2017)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "640f6dd82009f50dbada55f2",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "8.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+        "releaseDate": "22-09-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+        "status": "on",
+        "storyline": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/640f6dd82009f50dbada55f2",
+        "title": "Silenced (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "640f6b672009f50dbada5554",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "imdbRating": "5.3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccmDZaOKBwDKW8wPs4rV64ue9wN.jpg",
+        "releaseDate": "28-06-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccmDZaOKBwDKW8wPs4rV64ue9wN.jpg",
+        "status": "on",
+        "storyline": "Jang Tae-Young is a popular trouble shooter in the criminal world. He is cold and ambitious. He dreams of building a casino hotel one day. A reporter then goes to Jang Tae-Young.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/640f6b672009f50dbada5554",
+        "title": "Real (2017)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "640f6b11b75730ff18d4164e",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "7.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEva7iEzhKUvljLATELn4dc9vZA.jpg",
+        "releaseDate": "28-01-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEva7iEzhKUvljLATELn4dc9vZA.jpg",
+        "status": "on",
+        "storyline": "A young man develops schizophrenia after his mother's suicide. After he meets a kindred spirit at the psychiatric hospital, he forges a plan with the man to escape.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/640f6b11b75730ff18d4164e",
+        "title": "Shoot Me in the Heart (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "63ff97f39e15ab3dd974b88d",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Fantasy"
+        ],
+        "imdbRating": "5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG8r9CdFLKMb9A5gn0YXfQ2AVBD.jpg",
+        "releaseDate": "17-11-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG8r9CdFLKMb9A5gn0YXfQ2AVBD.jpg",
+        "status": "on",
+        "storyline": "Yoon, the bride-to-be, waits for her groom Tae-young on the wedding day but he doesn’t show up without a word. Out of concern and rage, Yoon goes out looking for him all day long and in the dead of night, she arrives at a strange place called ‘Café Midnight’, which opens from midnight until the sun rises. In here, Yoon finally finds Tae-young but something doesn’t seem right. He looks few years younger than now and he doesn’t even recognize her. Will she be able to find her groom from the present in this chaos?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/63ff97f39e15ab3dd974b88d",
+        "title": "Café Midnight (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "63f85c4fa5531b8f1c8a8f14",
+        "category": "Korian",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Action"
+        ],
+        "imdbRating": "5.2",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaVQoBuICpRq4i5Ke4Jm2ZngvxF.jpg",
+        "releaseDate": "18-01-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaVQoBuICpRq4i5Ke4Jm2ZngvxF.jpg",
+        "status": "on",
+        "storyline": "A story about a diplomat and a national intelligence service agent who struggle and risk their lives on foreign soil to save Korean hostages that have been abducted in the Middle East.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/63f85c4fa5531b8f1c8a8f14",
+        "title": "The Point Men (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
     }
 ]
