@@ -322,30 +322,6 @@
         }
     },
     {
-        "id": "64a53c36a180c44406bc04ef",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Romance"
-        ],
-        "imdbRating": "7.94",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
-        "releaseDate": "18-11-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
-        "status": "on",
-        "storyline": "As a patriarchal family yearn for the birth of a baby boy to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for a transgender starlet.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c36a180c44406bc04ef",
-        "title": "Joyland (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64a53c393a92738231fa7580",
         "category": "Panjabi",
         "director": "Unknown",
@@ -363,6 +339,30 @@
         "storyline": "A comedy of error ensues when a family fails to provide new bedding for their son-in-law, which leaves him with a stiff neck.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c393a92738231fa7580",
         "title": "Jawai Bhai (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64a53c36a180c44406bc04ef",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "7.94",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
+        "releaseDate": "18-11-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
+        "status": "on",
+        "storyline": "As a patriarchal family yearn for the birth of a baby boy to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for a transgender starlet.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c36a180c44406bc04ef",
+        "title": "Joyland (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -532,31 +532,6 @@
         }
     },
     {
-        "id": "647b2b318bec867611530a35",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Crime",
-            "Comedy"
-        ],
-        "imdbRating": "8.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJdeSGjWiKA4wDYn38G5urpevb.jpg",
-        "releaseDate": "26-08-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJdeSGjWiKA4wDYn38G5urpevb.jpg",
-        "status": "on",
-        "storyline": "An NRI family returns to India to establish a charitable hospital- a long-lost desire of their elders, but their extended family creates issues.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b2b318bec867611530a35",
-        "title": "Bhoot Uncle Tusi Great Ho (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "647b304c59ad311554499227",
         "category": "Panjabi",
         "director": "Unknown",
@@ -575,6 +550,31 @@
         "storyline": "Since birth, Lehmber notices everyone speaking lies in general life and becomes a liar. Fed up with his mischievous activities, his father decides to send him to his sister in London. There, he falls in love with Ginni. When Ginni leaves him, he finally decides to become a wise man.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b304c59ad311554499227",
         "title": "Lehmber Ginni (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "647b2b318bec867611530a35",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Crime",
+            "Comedy"
+        ],
+        "imdbRating": "8.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJdeSGjWiKA4wDYn38G5urpevb.jpg",
+        "releaseDate": "26-08-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJdeSGjWiKA4wDYn38G5urpevb.jpg",
+        "status": "on",
+        "storyline": "An NRI family returns to India to establish a charitable hospital- a long-lost desire of their elders, but their extended family creates issues.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b2b318bec867611530a35",
+        "title": "Bhoot Uncle Tusi Great Ho (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

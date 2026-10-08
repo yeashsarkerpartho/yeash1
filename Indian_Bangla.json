@@ -478,6 +478,30 @@
         }
     },
     {
+        "id": "6a3bf7eb93aed050e8d802dd",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Family",
+            "Mystery"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg",
+        "releaseDate": "29-05-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg",
+        "status": "on",
+        "storyline": "In a zamindar household, a watchful aunt becomes the quiet witness to a mystery that slowly exposes injustice.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a3bf7eb93aed050e8d802dd",
+        "title": "Phool Pishi O Edward (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a38096556fbc540abcd412a",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -496,30 +520,6 @@
         "storyline": "An emotionally layered drama about memory, legacy, and the cost of love, set against the haunting world of music and cinema.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a38096556fbc540abcd412a",
         "title": "Abhhiman (2026)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a3bf7eb93aed050e8d802dd",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Family",
-            "Mystery"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg",
-        "releaseDate": "29-05-2026",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kDRU8m2hLlSaDyFb85GbrVSF4X.jpg",
-        "status": "on",
-        "storyline": "In a zamindar household, a watchful aunt becomes the quiet witness to a mystery that slowly exposes injustice.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a3bf7eb93aed050e8d802dd",
-        "title": "Phool Pishi O Edward (2026)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -651,6 +651,30 @@
         }
     },
     {
+        "id": "6a2184f11269be484f8d7fa2",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSK41CCKNtrNFhNeQMRix6PVXnz.jpg",
+        "releaseDate": "24-03-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSK41CCKNtrNFhNeQMRix6PVXnz.jpg",
+        "status": "on",
+        "storyline": "With the assistance of a psychiatrist, an acclaimed filmmaker struggles to come to terms with a mysterious romantic trauma.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a2184f11269be484f8d7fa2",
+        "title": "Mandobasar Golpo (2017)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6a21858b1269be484f8d80c1",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -674,23 +698,22 @@
         }
     },
     {
-        "id": "6a2184f11269be484f8d7fa2",
+        "id": "6a2184b21269be484f8d7f22",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Drama",
-            "Thriller"
+            "Action"
         ],
-        "imdbRating": "6",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSK41CCKNtrNFhNeQMRix6PVXnz.jpg",
-        "releaseDate": "24-03-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSK41CCKNtrNFhNeQMRix6PVXnz.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taGMTCdNolrsp3ovlce2Nz6gQUh.jpg",
+        "releaseDate": "18-01-2008",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taGMTCdNolrsp3ovlce2Nz6gQUh.jpg",
         "status": "on",
-        "storyline": "With the assistance of a psychiatrist, an acclaimed filmmaker struggles to come to terms with a mysterious romantic trauma.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a2184f11269be484f8d7fa2",
-        "title": "Mandobasar Golpo (2017)",
+        "storyline": "Surja (Jeet) is a sportsman. He loves to run and win championships in Kolkata. Once on a championship tour, he goes to Siliguri. There he runs into an influential gang leader Indrajit (...",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a2184b21269be484f8d7f22",
+        "title": "Jor (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -722,45 +745,23 @@
         }
     },
     {
-        "id": "6a2184b21269be484f8d7f22",
+        "id": "6a218351bb3874aceba385e0",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Action"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taGMTCdNolrsp3ovlce2Nz6gQUh.jpg",
-        "releaseDate": "18-01-2008",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/taGMTCdNolrsp3ovlce2Nz6gQUh.jpg",
-        "status": "on",
-        "storyline": "Surja (Jeet) is a sportsman. He loves to run and win championships in Kolkata. Once on a championship tour, he goes to Siliguri. There he runs into an influential gang leader Indrajit (...",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a2184b21269be484f8d7f22",
-        "title": "Jor (2008)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a218400bb3874aceba386d4",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
+            "Fantasy",
             "Drama"
         ],
-        "imdbRating": "8.5",
+        "imdbRating": "7",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg",
-        "releaseDate": "23-11-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ELUwPWci3hbX6hskixnC4gzwgc.jpg",
+        "releaseDate": "02-09-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ELUwPWci3hbX6hskixnC4gzwgc.jpg",
         "status": "on",
-        "storyline": "Dutta Vs Dutta is a 2012 Bengali film directed by Anjan Dutt. This is Anjan Dutt's semi-autobiographical film. Most of the film has been shot in a house of Amherst Street in Kolkata. Anjan has described this house resonated feel of his old house of Beniapukur.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a218400bb3874aceba386d4",
-        "title": "Dutta Vs Dutta (2012)",
+        "storyline": "Bilu struggles to balance his busy corporate job, family duties, and his love for music. As he loses control of his life, his dreams fade and his inner fears begin to take over his everyday world.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a218351bb3874aceba385e0",
+        "title": "Bilu Rakkhosh (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -792,23 +793,22 @@
         }
     },
     {
-        "id": "6a218351bb3874aceba385e0",
+        "id": "6a218400bb3874aceba386d4",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Fantasy",
             "Drama"
         ],
-        "imdbRating": "7",
+        "imdbRating": "8.5",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ELUwPWci3hbX6hskixnC4gzwgc.jpg",
-        "releaseDate": "02-09-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ELUwPWci3hbX6hskixnC4gzwgc.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg",
+        "releaseDate": "23-11-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndaOFeaFnd2QaZsWFyztxmLSK8u.jpg",
         "status": "on",
-        "storyline": "Bilu struggles to balance his busy corporate job, family duties, and his love for music. As he loses control of his life, his dreams fade and his inner fears begin to take over his everyday world.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a218351bb3874aceba385e0",
-        "title": "Bilu Rakkhosh (2017)",
+        "storyline": "Dutta Vs Dutta is a 2012 Bengali film directed by Anjan Dutt. This is Anjan Dutt's semi-autobiographical film. Most of the film has been shot in a house of Amherst Street in Kolkata. Anjan has described this house resonated feel of his old house of Beniapukur.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a218400bb3874aceba386d4",
+        "title": "Dutta Vs Dutta (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -862,23 +862,23 @@
         }
     },
     {
-        "id": "6282dd735def824ee88f4f76",
+        "id": "637148b46edf6d6544d38979",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Mystery",
+            "Drama",
             "Romance"
         ],
-        "imdbRating": "0",
+        "imdbRating": "6",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGTP1JzBBi72Qk1MoMeFJMSKjHJ.jpg",
-        "releaseDate": "01-01-2016",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGTP1JzBBi72Qk1MoMeFJMSKjHJ.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htROqNasnMiM1vZAl0IcH2VIdFH.jpg",
+        "releaseDate": "13-07-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htROqNasnMiM1vZAl0IcH2VIdFH.jpg",
         "status": "on",
-        "storyline": "It's a romantic drama with colourful characters and hint of mystery typical of Saradindu Bandyopadhyay. The film revolves around the story of a thief played by Abir Chatterjee.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282dd735def824ee88f4f76",
-        "title": "Monchora (2016)",
+        "storyline": "A romantic story of Ishaan ( Yash ) and Khushi ( Sanjana ) - two different people, with a different perspective on love, life and philosophies. How their love blossoms, misunderstandings happen due to their ego. This is about how their relationship evolves. Written by padmashri",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/637148b46edf6d6544d38979",
+        "title": "Fidaa (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -910,47 +910,23 @@
         }
     },
     {
-        "id": "637148b46edf6d6544d38979",
+        "id": "6282dd735def824ee88f4f76",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Drama",
+            "Mystery",
             "Romance"
         ],
-        "imdbRating": "6",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htROqNasnMiM1vZAl0IcH2VIdFH.jpg",
-        "releaseDate": "13-07-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/htROqNasnMiM1vZAl0IcH2VIdFH.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGTP1JzBBi72Qk1MoMeFJMSKjHJ.jpg",
+        "releaseDate": "01-01-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGTP1JzBBi72Qk1MoMeFJMSKjHJ.jpg",
         "status": "on",
-        "storyline": "A romantic story of Ishaan ( Yash ) and Khushi ( Sanjana ) - two different people, with a different perspective on love, life and philosophies. How their love blossoms, misunderstandings happen due to their ego. This is about how their relationship evolves. Written by padmashri",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/637148b46edf6d6544d38979",
-        "title": "Fidaa (2018)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "62de91b2b4949d4e7a59018b",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbRating": "7.8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsIqF2XGELSxsJpImeS4Cj3a8tT.jpg",
-        "releaseDate": "02-10-2019",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsIqF2XGELSxsJpImeS4Cj3a8tT.jpg",
-        "status": "on",
-        "storyline": "Gumnaami is a film based on the Mukherjee Commission Hearings which happened from 1999 to 2005 where the three theories about Netaji Subhas Chandra Bose's death were discussed and debated. It is a dramatization of the hearings where an investigative journalist supporting the Gumnaami Baba theory locks horns with the official lawyer who supports the plane crash theory. In their clash, the Death in Russia theory also comes up.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62de91b2b4949d4e7a59018b",
-        "title": "Gumnaami (2019)",
+        "storyline": "It's a romantic drama with colourful characters and hint of mystery typical of Saradindu Bandyopadhyay. The film revolves around the story of a thief played by Abir Chatterjee.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282dd735def824ee88f4f76",
+        "title": "Monchora (2016)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -975,6 +951,30 @@
         "storyline": "An affair that begins one rainy evening on a lonely Calcutta street. And ends on yet another rainy evening in the Andaman Islands. A journey dotted by love, jealousy and destiny, it is loosely inspired by the works of William Shakespeare.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a1aee5ebb41aac8e4fd510b",
         "title": "Hrid Majharey (2014)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "62de91b2b4949d4e7a59018b",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "7.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsIqF2XGELSxsJpImeS4Cj3a8tT.jpg",
+        "releaseDate": "02-10-2019",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsIqF2XGELSxsJpImeS4Cj3a8tT.jpg",
+        "status": "on",
+        "storyline": "Gumnaami is a film based on the Mukherjee Commission Hearings which happened from 1999 to 2005 where the three theories about Netaji Subhas Chandra Bose's death were discussed and debated. It is a dramatization of the hearings where an investigative journalist supporting the Gumnaami Baba theory locks horns with the official lawyer who supports the plane crash theory. In their clash, the Death in Russia theory also comes up.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62de91b2b4949d4e7a59018b",
+        "title": "Gumnaami (2019)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1103,31 +1103,6 @@
         }
     },
     {
-        "id": "6a1931833864f1af3365750d",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Comedy",
-            "Music",
-            "Romance"
-        ],
-        "imdbRating": "5.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg",
-        "releaseDate": "04-09-2015",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg",
-        "status": "on",
-        "storyline": "Jomer Raja Dilo Bor is a Surreal Romantic Comedy. The story is about a feminist author Ria Banerjee played by Payel Sarkar who hates men to the core.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a1931833864f1af3365750d",
-        "title": "Jomer Raja Dilo Bor (2015)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6282ddff5def824ee88f4fbb",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -1146,6 +1121,31 @@
         "storyline": "Shesh Theke Shuru is an 2019 Indian Bengali language action drama film directed by Raj Chakraborty while story, screenplay and dialogues were written by Aditya Sengupta. The film features Jeet, Koel Mallick and Ritabhari Chakraborty in the lead role.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282ddff5def824ee88f4fbb",
         "title": "Shesh Theke Shuru (2019)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6a1931833864f1af3365750d",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "imdbRating": "5.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg",
+        "releaseDate": "04-09-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6egetSB9WdWt3S0lu7P8AuUNTrJ.jpg",
+        "status": "on",
+        "storyline": "Jomer Raja Dilo Bor is a Surreal Romantic Comedy. The story is about a feminist author Ria Banerjee played by Payel Sarkar who hates men to the core.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a1931833864f1af3365750d",
+        "title": "Jomer Raja Dilo Bor (2015)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1277,6 +1277,27 @@
         }
     },
     {
+        "id": "6a16f209fcbc94b2ca2d194f",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KgiCByTt4VUTVerFHM7KSqSxPP.jpg",
+        "releaseDate": "26-06-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KgiCByTt4VUTVerFHM7KSqSxPP.jpg",
+        "status": "on",
+        "storyline": "Ranjana Sen, a straightforward, young woman, starts feeling that her husband will stop loving her since she has been putting on weight, which forces her to adopt unconventional ways to attract him.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a16f209fcbc94b2ca2d194f",
+        "title": "The Easiest Way to Slim Down (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6282dd36d43fd865ed5d2a54",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -1294,27 +1315,6 @@
         "storyline": "Four famous directors and old friends are reunited together by an unknown producer to make a film. They have to make four short story in this film with one common theme: Death.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282dd36d43fd865ed5d2a54",
         "title": "Chotushkone (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6a16f209fcbc94b2ca2d194f",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KgiCByTt4VUTVerFHM7KSqSxPP.jpg",
-        "releaseDate": "26-06-2015",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KgiCByTt4VUTVerFHM7KSqSxPP.jpg",
-        "status": "on",
-        "storyline": "Ranjana Sen, a straightforward, young woman, starts feeling that her husband will stop loving her since she has been putting on weight, which forces her to adopt unconventional ways to attract him.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6a16f209fcbc94b2ca2d194f",
-        "title": "The Easiest Way to Slim Down (2015)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1489,30 +1489,6 @@
         }
     },
     {
-        "id": "69e741d1ad6e5f7e9f686331",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Fantasy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKErURHf3KfzEHJyRcJpOecja8.jpg",
-        "releaseDate": "23-05-2025",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKErURHf3KfzEHJyRcJpOecja8.jpg",
-        "status": "on",
-        "storyline": "A grieving young man and a widow find solace in each other as they navigate loss, while the spirits of their loved ones linger, offering one last chance of closure before moving on.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69e741d1ad6e5f7e9f686331",
-        "title": "Chandrabindoo (2025)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "69e73f4dad6e5f7e9f6862b9",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -1530,6 +1506,30 @@
         "storyline": "A child princess gets a harmonium from her father. Through fate and manager she is orphan, then widow and penniless. The harmonium, sold, changed hand and bringing ill-luck wherever it went. Will they ever meet? Under what circumstances?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69e73f4dad6e5f7e9f6862b9",
         "title": "Harmonium (1976)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "69e741d1ad6e5f7e9f686331",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKErURHf3KfzEHJyRcJpOecja8.jpg",
+        "releaseDate": "23-05-2025",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgKErURHf3KfzEHJyRcJpOecja8.jpg",
+        "status": "on",
+        "storyline": "A grieving young man and a widow find solace in each other as they navigate loss, while the spirits of their loved ones linger, offering one last chance of closure before moving on.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69e741d1ad6e5f7e9f686331",
+        "title": "Chandrabindoo (2025)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1584,29 +1584,6 @@
         }
     },
     {
-        "id": "69da341dad6e5f7e9f5ff337",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Mystery"
-        ],
-        "imdbRating": "7.9",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TBPQYszjzj6UKoXyZk4ooURlYq.jpg",
-        "releaseDate": "27-12-1974",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TBPQYszjzj6UKoXyZk4ooURlYq.jpg",
-        "status": "on",
-        "storyline": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69da341dad6e5f7e9f5ff337",
-        "title": "The Golden Fortress (1974)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "69da3410ad6e5f7e9f5ff309",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -1625,6 +1602,29 @@
         "storyline": "A married couple discover a dead body with a suitcase of cash in their house and get entangled in a web of crime involving politicians, police and cold-blooded killers. Can they dispose of the corpse and get out of this mess?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69da3410ad6e5f7e9f5ff309",
         "title": "Bhaggyo Lokkhi (2025)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "69da341dad6e5f7e9f5ff337",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Mystery"
+        ],
+        "imdbRating": "7.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TBPQYszjzj6UKoXyZk4ooURlYq.jpg",
+        "releaseDate": "27-12-1974",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TBPQYszjzj6UKoXyZk4ooURlYq.jpg",
+        "status": "on",
+        "storyline": "A young boy becomes a target for crooks, after he claims to remember his past life and mentions precious jewels in a golden fortress.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/69da341dad6e5f7e9f5ff337",
+        "title": "The Golden Fortress (1974)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2646,6 +2646,27 @@
         }
     },
     {
+        "id": "67a746f2b1851f35bedc7a89",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rsF3nn6szFDu6MPRXvMXszkSOR.jpg",
+        "releaseDate": "06-12-2002",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rsF3nn6szFDu6MPRXvMXszkSOR.jpg",
+        "status": "on",
+        "storyline": "When the younger brother of the Chowdhury family falls in with the daughter of the rival Ray family, the latter goes to extreme lengths to make the former's life miserable.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67a746f2b1851f35bedc7a89",
+        "title": "Kurukshetra (2002)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "67a746f9b1851f35bedc7aa9",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -2686,27 +2707,6 @@
         "storyline": "Rony is the son of a rich man, who craves success as a boxer. In the pursuit of fame he pushes aside his family and the one girl who truly loved him. Loneliness being his only companion, Rony embraces his dream by going back to boxing. In the ring, he realises that life is pretty much like a boxing ring. Rony sets out to make things right in his life.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67a7457eb1851f35bedc7915",
         "title": "Boxer (2018)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67a746f2b1851f35bedc7a89",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rsF3nn6szFDu6MPRXvMXszkSOR.jpg",
-        "releaseDate": "06-12-2002",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rsF3nn6szFDu6MPRXvMXszkSOR.jpg",
-        "status": "on",
-        "storyline": "When the younger brother of the Chowdhury family falls in with the daughter of the rival Ray family, the latter goes to extreme lengths to make the former's life miserable.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67a746f2b1851f35bedc7a89",
-        "title": "Kurukshetra (2002)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2905,29 +2905,6 @@
         }
     },
     {
-        "id": "67555c21a9c4f5ebdd1ed5e4",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "History"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH2IygCbXOBeBf6vCMhT355ckAv.jpg",
-        "releaseDate": "19-10-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH2IygCbXOBeBf6vCMhT355ckAv.jpg",
-        "status": "on",
-        "storyline": "Jatindranath Mukherjee is an Indian independence activist. He is the principal leader of the Jugantar party that is the central association of revolutionary independence activists in Bengal.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555c21a9c4f5ebdd1ed5e4",
-        "title": "Bagha Jatin (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "67555c25a8919c414d66e394",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -2945,6 +2922,29 @@
         "storyline": "Parna's crisis-ridden family has an unexpected guest who is her stay-at-home husband Raktim's confidante, Prosen Mitra. Will Prosen usher in happiness, or will the middle-class couple descend into further chaos?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555c25a8919c414d66e394",
         "title": "Ajogyo (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "67555c21a9c4f5ebdd1ed5e4",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "History"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH2IygCbXOBeBf6vCMhT355ckAv.jpg",
+        "releaseDate": "19-10-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH2IygCbXOBeBf6vCMhT355ckAv.jpg",
+        "status": "on",
+        "storyline": "Jatindranath Mukherjee is an Indian independence activist. He is the principal leader of the Jugantar party that is the central association of revolutionary independence activists in Bengal.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555c21a9c4f5ebdd1ed5e4",
+        "title": "Bagha Jatin (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3070,22 +3070,23 @@
         }
     },
     {
-        "id": "675361311569602e701ec752",
+        "id": "6753611fa6f679272b2b535e",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Action"
+            "Drama",
+            "Thriller"
         ],
-        "imdbRating": "8.2",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9BPZwcOw0qI7l1bZhPvauGDEo9.jpg",
-        "releaseDate": "24-05-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9BPZwcOw0qI7l1bZhPvauGDEo9.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TgTmJcTJfXvjzR4oWJVbzkZKWN.jpg",
+        "releaseDate": "18-06-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TgTmJcTJfXvjzR4oWJVbzkZKWN.jpg",
         "status": "on",
-        "storyline": "Gupi (Prosenjit Chatterjee) is a small-time conman in love with Madhu (Richa Gangopadhyay), a pretty woman whom he met at a wedding he wasn't invited to. Into this picture, the world enters six-year-old Osmita (Baby Titli), who inexplicably believes Gupi to be her dad. And if this wasn't bad enough, Gupi becomes the object of a series of life-threatening attacks by a gang of criminals who seem to know something he doesn't.  While trying desperately to save his life and love, Gupi stumbles upon a deadly secret. A secret that will take him to a small town named Debgarh: A town terrorized by its ruthless MLA and the mafia he controls; a town whose inhabitants' only hope for redemption is Gupi.  Later, he learns that ACP Bikram Singha Roy (Prosenjit Chatterjee), his look alike, is in danger from criminals.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675361311569602e701ec752",
-        "title": "Bikram Singha: The Lion Is Back (2012)",
+        "storyline": "On one hand, a renowned film producer, Adinath Mullick, comes to Anish's place to make a policy of INR 10 crores. Adinath wants Bharat Seva Ashram as the nominee of his policy. Then in the course of events, he wants to replace his nominee by someone called Chitralekha Sen. In the meantime, Adinath's son, Amitabha, and daughter, Gargi, both get greedy and start running after this money. They both want their names as the nominee and Anish falls into their trap. On the other, Gouranga's daughter Champakali sets a trap for Anish. She wants to marry Anish in exchange of convincing his father to make the deal done. In course of events, Anish meets Riyanka, a famous TV star, and coincidentally at that point of time, her husband Bobby takes his own life and Anish falls again into that trap again. Would he ever set free or fall into an unending nadir?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753611fa6f679272b2b535e",
+        "title": "Jaalbandi (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3116,23 +3117,45 @@
         }
     },
     {
-        "id": "6753611fa6f679272b2b535e",
+        "id": "675361311569602e701ec752",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Drama",
-            "Thriller"
+            "Action"
+        ],
+        "imdbRating": "8.2",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9BPZwcOw0qI7l1bZhPvauGDEo9.jpg",
+        "releaseDate": "24-05-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9BPZwcOw0qI7l1bZhPvauGDEo9.jpg",
+        "status": "on",
+        "storyline": "Gupi (Prosenjit Chatterjee) is a small-time conman in love with Madhu (Richa Gangopadhyay), a pretty woman whom he met at a wedding he wasn't invited to. Into this picture, the world enters six-year-old Osmita (Baby Titli), who inexplicably believes Gupi to be her dad. And if this wasn't bad enough, Gupi becomes the object of a series of life-threatening attacks by a gang of criminals who seem to know something he doesn't.  While trying desperately to save his life and love, Gupi stumbles upon a deadly secret. A secret that will take him to a small town named Debgarh: A town terrorized by its ruthless MLA and the mafia he controls; a town whose inhabitants' only hope for redemption is Gupi.  Later, he learns that ACP Bikram Singha Roy (Prosenjit Chatterjee), his look alike, is in danger from criminals.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675361311569602e701ec752",
+        "title": "Bikram Singha: The Lion Is Back (2012)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "675351b91569602e701ec147",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
         ],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TgTmJcTJfXvjzR4oWJVbzkZKWN.jpg",
-        "releaseDate": "18-06-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TgTmJcTJfXvjzR4oWJVbzkZKWN.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGypScZIBy1IFN1N4QqkXvYv4E7.jpg",
+        "releaseDate": "11-06-2008",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGypScZIBy1IFN1N4QqkXvYv4E7.jpg",
         "status": "on",
-        "storyline": "On one hand, a renowned film producer, Adinath Mullick, comes to Anish's place to make a policy of INR 10 crores. Adinath wants Bharat Seva Ashram as the nominee of his policy. Then in the course of events, he wants to replace his nominee by someone called Chitralekha Sen. In the meantime, Adinath's son, Amitabha, and daughter, Gargi, both get greedy and start running after this money. They both want their names as the nominee and Anish falls into their trap. On the other, Gouranga's daughter Champakali sets a trap for Anish. She wants to marry Anish in exchange of convincing his father to make the deal done. In course of events, Anish meets Riyanka, a famous TV star, and coincidentally at that point of time, her husband Bobby takes his own life and Anish falls again into that trap again. Would he ever set free or fall into an unending nadir?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753611fa6f679272b2b535e",
-        "title": "Jaalbandi (2022)",
+        "storyline": "Once best of friends, Durgacharan Singha and Bhabani Chakroborty become sworn enemies who hate each other. However, their grandchildren want to end the animosity between them.ben",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675351b91569602e701ec147",
+        "title": "Janmadata (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3158,29 +3181,6 @@
         "storyline": "A couple marry in order to save the bride from her father's choice of groom, but they don't actually love each other. It's \"make it work\" time.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675351b1a9c4f5ebdd1ca1df",
         "title": "Bolo Na Tumi Amar (2010)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "675351b91569602e701ec147",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGypScZIBy1IFN1N4QqkXvYv4E7.jpg",
-        "releaseDate": "11-06-2008",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGypScZIBy1IFN1N4QqkXvYv4E7.jpg",
-        "status": "on",
-        "storyline": "Once best of friends, Durgacharan Singha and Bhabani Chakroborty become sworn enemies who hate each other. However, their grandchildren want to end the animosity between them.ben",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675351b91569602e701ec147",
-        "title": "Janmadata (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3230,6 +3230,27 @@
         "storyline": "After losing his parents at a very tender age, Bhotbhoti was raised in a ghetto close to the Ganges by his 'daadi' (grandmother) who too has passed away. Daadi was a great story-teller and Bhotbhotis favourite story was the one about mermaids and their world that exists, or rather flourishes underwater. Bhotbhoti's belief was further strenthened when he found out, not in the distant past, a story (movie) on mermaids that floats on the televison screen, called The Mermaid Princess. His most prized possession, the dvd of the film stays in his little trunk under his chowki (bed) until he takes it out every night and puts it into his battered but not run-down collected and repaired dvd player which brings to him his Ariel (the name of the mermaid in the film). The Ganges calls out to him and while his friends (group members) are sloshed, he dives into the waters to look for his mermaid queen, but she is ever-elusive.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675351acf1df135d5ee3791c",
         "title": "Bhotbhoti (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6753515ba6f679272b2b4f3f",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyIiVSZRfAWxZIKHKCpGjVPpp8f.jpg",
+        "releaseDate": "02-12-2010",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyIiVSZRfAWxZIKHKCpGjVPpp8f.jpg",
+        "status": "on",
+        "storyline": "On the one hand there’s college politics, camp rivalry, ragging and goondaraj on campus. On the other, there’s a lone Professor Bickram Chatterjee (Prosenjit Chatterjee), BC for short, standing up for what is right.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753515ba6f679272b2b4f3f",
+        "title": "Jor Jar Muluk Tar (2010)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3309,27 +3330,6 @@
         }
     },
     {
-        "id": "6753515ba6f679272b2b4f3f",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyIiVSZRfAWxZIKHKCpGjVPpp8f.jpg",
-        "releaseDate": "02-12-2010",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyIiVSZRfAWxZIKHKCpGjVPpp8f.jpg",
-        "status": "on",
-        "storyline": "On the one hand there’s college politics, camp rivalry, ragging and goondaraj on campus. On the other, there’s a lone Professor Bickram Chatterjee (Prosenjit Chatterjee), BC for short, standing up for what is right.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753515ba6f679272b2b4f3f",
-        "title": "Jor Jar Muluk Tar (2010)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "67535154f1df135d5ee378f3",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -3377,6 +3377,29 @@
         }
     },
     {
+        "id": "675350991bd06316f749346e",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Family"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH5KBtIMGxewRCE8e4WN9WZHLRq.jpg",
+        "releaseDate": "27-11-2003",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH5KBtIMGxewRCE8e4WN9WZHLRq.jpg",
+        "status": "on",
+        "storyline": "A bridegroom disagrees to marry due to the non-payment of dowry by the bride's father. In spite of his brother's request, he remains stubborn and decides to stop his wedding.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675350991bd06316f749346e",
+        "title": "Kartabya (2003)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6753509cf1df135d5ee378b4",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -3401,22 +3424,20 @@
         }
     },
     {
-        "id": "675350991bd06316f749346e",
+        "id": "67535085a9c4f5ebdd1ca16f",
         "category": "Indian Bangla",
         "director": "Unknown",
-        "genre": [
-            "Family"
-        ],
+        "genre": [],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH5KBtIMGxewRCE8e4WN9WZHLRq.jpg",
-        "releaseDate": "27-11-2003",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH5KBtIMGxewRCE8e4WN9WZHLRq.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8Ag2VrqXXxLQR18u9YPKWuFwsX.jpg",
+        "releaseDate": "23-05-2009",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8Ag2VrqXXxLQR18u9YPKWuFwsX.jpg",
         "status": "on",
-        "storyline": "A bridegroom disagrees to marry due to the non-payment of dowry by the bride's father. In spite of his brother's request, he remains stubborn and decides to stop his wedding.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675350991bd06316f749346e",
-        "title": "Kartabya (2003)",
+        "storyline": "A woman can inherit her father's fortune only if she gets married sooner. She ties the knot with an poor man who is in dire need of money.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67535085a9c4f5ebdd1ca16f",
+        "title": "Jamai Raja (2009)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3424,22 +3445,22 @@
         }
     },
     {
-        "id": "67535075f1df135d5ee3789e",
+        "id": "675350711569602e701ec0d9",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Comedy"
+            "Romance"
         ],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycnKYxmXVX8JlxDo2keE1EWXgNr.jpg",
-        "releaseDate": "17-08-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycnKYxmXVX8JlxDo2keE1EWXgNr.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/au59AKsYyqgQEKidIeq2oyPSYem.jpg",
+        "releaseDate": "31-08-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/au59AKsYyqgQEKidIeq2oyPSYem.jpg",
         "status": "on",
-        "storyline": "Haripada AKA Harry, a miserable married man going through a midlife crisis, transforms after falling in love with a younger woman, which ultimately brings discord in his marital life.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67535075f1df135d5ee3789e",
-        "title": "Haripada Haribol (2017)",
+        "storyline": "Pikoo and Priya are madly in love but struggling to make it big in their respective field, when opportunity strikes in the form of a big contract from Singha Roy Group of Industriues which requires the couple to travel to London. However, things take a turn to worse when Aditya, the sole owner of the company, falls in love with Priya and starts wooing her.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675350711569602e701ec0d9",
+        "title": "Tui Sudhu Amar (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3471,20 +3492,22 @@
         }
     },
     {
-        "id": "67535085a9c4f5ebdd1ca16f",
+        "id": "67535075f1df135d5ee3789e",
         "category": "Indian Bangla",
         "director": "Unknown",
-        "genre": [],
+        "genre": [
+            "Comedy"
+        ],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8Ag2VrqXXxLQR18u9YPKWuFwsX.jpg",
-        "releaseDate": "23-05-2009",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8Ag2VrqXXxLQR18u9YPKWuFwsX.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycnKYxmXVX8JlxDo2keE1EWXgNr.jpg",
+        "releaseDate": "17-08-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycnKYxmXVX8JlxDo2keE1EWXgNr.jpg",
         "status": "on",
-        "storyline": "A woman can inherit her father's fortune only if she gets married sooner. She ties the knot with an poor man who is in dire need of money.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67535085a9c4f5ebdd1ca16f",
-        "title": "Jamai Raja (2009)",
+        "storyline": "Haripada AKA Harry, a miserable married man going through a midlife crisis, transforms after falling in love with a younger woman, which ultimately brings discord in his marital life.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67535075f1df135d5ee3789e",
+        "title": "Haripada Haribol (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3515,22 +3538,22 @@
         }
     },
     {
-        "id": "675350711569602e701ec0d9",
+        "id": "6753505fa9c4f5ebdd1ca162",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Romance"
+            "Drama"
         ],
-        "imdbRating": "0",
+        "imdbRating": "9",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/au59AKsYyqgQEKidIeq2oyPSYem.jpg",
-        "releaseDate": "31-08-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/au59AKsYyqgQEKidIeq2oyPSYem.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOlLEkgHOLOEKkudKgHSTWfHpe.jpg",
+        "releaseDate": "23-09-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOlLEkgHOLOEKkudKgHSTWfHpe.jpg",
         "status": "on",
-        "storyline": "Pikoo and Priya are madly in love but struggling to make it big in their respective field, when opportunity strikes in the form of a big contract from Singha Roy Group of Industriues which requires the couple to travel to London. However, things take a turn to worse when Aditya, the sole owner of the company, falls in love with Priya and starts wooing her.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675350711569602e701ec0d9",
-        "title": "Tui Sudhu Amar (2018)",
+        "storyline": "Tokhon Kuasa Chilo revolves around Akhilbabu, an aged schoolteacher, and his two students. One of them, Sachin, grows to become a political goon while Putu, the other, remains unemployed. When Sachin tries bullying Akhilbabu into letting him marry his granddaughter, the professor turns to Putu for help.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753505fa9c4f5ebdd1ca162",
+        "title": "Tokhon Kuasa Chilo (2020)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3561,22 +3584,22 @@
         }
     },
     {
-        "id": "6753505fa9c4f5ebdd1ca162",
+        "id": "67534f6da9c4f5ebdd1ca11f",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
             "Drama"
         ],
-        "imdbRating": "9",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOlLEkgHOLOEKkudKgHSTWfHpe.jpg",
-        "releaseDate": "23-09-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMOlLEkgHOLOEKkudKgHSTWfHpe.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpWH8xjwpXVZkZLray6KCY23ok0.jpg",
+        "releaseDate": "16-04-1984",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpWH8xjwpXVZkZLray6KCY23ok0.jpg",
         "status": "on",
-        "storyline": "Tokhon Kuasa Chilo revolves around Akhilbabu, an aged schoolteacher, and his two students. One of them, Sachin, grows to become a political goon while Putu, the other, remains unemployed. When Sachin tries bullying Akhilbabu into letting him marry his granddaughter, the professor turns to Putu for help.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753505fa9c4f5ebdd1ca162",
-        "title": "Tokhon Kuasa Chilo (2020)",
+        "storyline": "Khidda (Soumitra Chatterjee) is a swimming coach who teaches swimming to underprivileged kids. He picks Kony (character played by Sriparna Banerjee) from a slum of Calcutta and grooms her to be part of the Bengal Swimming team to compete at the National Swimming Championship. However, politics, poverty and social stigma emerge as distinct roadblocks in their path.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f6da9c4f5ebdd1ca11f",
+        "title": "Kony (1984)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3605,22 +3628,20 @@
         }
     },
     {
-        "id": "67534f6da9c4f5ebdd1ca11f",
+        "id": "67534f65f1df135d5ee3785e",
         "category": "Indian Bangla",
         "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
+        "genre": [],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpWH8xjwpXVZkZLray6KCY23ok0.jpg",
-        "releaseDate": "16-04-1984",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpWH8xjwpXVZkZLray6KCY23ok0.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpWFeaycmxWdPsL2BDcPQ7i44H2.jpg",
+        "releaseDate": "31-01-2003",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpWFeaycmxWdPsL2BDcPQ7i44H2.jpg",
         "status": "on",
-        "storyline": "Khidda (Soumitra Chatterjee) is a swimming coach who teaches swimming to underprivileged kids. He picks Kony (character played by Sriparna Banerjee) from a slum of Calcutta and grooms her to be part of the Bengal Swimming team to compete at the National Swimming Championship. However, politics, poverty and social stigma emerge as distinct roadblocks in their path.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f6da9c4f5ebdd1ca11f",
-        "title": "Kony (1984)",
+        "storyline": "An honest man is falsely accused and jailed. When he learns that he has a twin brother who is a meek police inspector, he pretends to be the policeman in order to nab culprits and find his lost uncle.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f65f1df135d5ee3785e",
+        "title": "Rakhe Hari Mare Ke (2003)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3649,27 +3670,6 @@
         }
     },
     {
-        "id": "67534f65f1df135d5ee3785e",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpWFeaycmxWdPsL2BDcPQ7i44H2.jpg",
-        "releaseDate": "31-01-2003",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpWFeaycmxWdPsL2BDcPQ7i44H2.jpg",
-        "status": "on",
-        "storyline": "An honest man is falsely accused and jailed. When he learns that he has a twin brother who is a meek police inspector, he pretends to be the policeman in order to nab culprits and find his lost uncle.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f65f1df135d5ee3785e",
-        "title": "Rakhe Hari Mare Ke (2003)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "67534f55a6f679272b2b4e91",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -3684,6 +3684,73 @@
         "storyline": "An honest traffic constable is forced to become a dreaded goon in order to bring justice when some corrupt officers try to save a morally flexible politician's criminal son.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f55a6f679272b2b4e91",
         "title": "Satyameba Jayate (2008)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "67534f511bd06316f7493417",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Thriller"
+        ],
+        "imdbRating": "7.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg",
+        "releaseDate": "28-09-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg",
+        "status": "on",
+        "storyline": "A serial killer terrorises the city of Kolkata and leaves behind verses of Bengali poetry. The police seek the help of a retired officer to unravel the case and find the perpetrator.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f511bd06316f7493417",
+        "title": "Baishe Srabon (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "67534f53f1df135d5ee37858",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Romance"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awkd4qqeY3o6Stn3mI02x5Afa6s.jpg",
+        "releaseDate": "25-12-2009",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awkd4qqeY3o6Stn3mI02x5Afa6s.jpg",
+        "status": "on",
+        "storyline": "Heartbroken and disillusioned with love, Ayan, a college student, meets Smriti, a young widow, during his trip to North Bengal. Although he loves her, she takes a while to reciprocate his feelings.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f53f1df135d5ee37858",
+        "title": "Smriti Medur (2009)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "67534f4aa8919c414d64ae65",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "10",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5E4mVVZOJbso6YeWbXmwOTBoB.jpg",
+        "releaseDate": "02-09-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5E4mVVZOJbso6YeWbXmwOTBoB.jpg",
+        "status": "on",
+        "storyline": "A married couple who start on the wrong side and detest each other eventually grow close and learn to appreciate and love each other.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f4aa8919c414d64ae65",
+        "title": "Tobu Aporichito (2016)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3715,66 +3782,22 @@
         }
     },
     {
-        "id": "67534f53f1df135d5ee37858",
+        "id": "67534f48a6f679272b2b4e8b",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Romance"
+            "Drama"
         ],
         "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awkd4qqeY3o6Stn3mI02x5Afa6s.jpg",
-        "releaseDate": "25-12-2009",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/awkd4qqeY3o6Stn3mI02x5Afa6s.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91AJzSpMa204gnGMlcagSkq7M7x.jpg",
+        "releaseDate": "13-01-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91AJzSpMa204gnGMlcagSkq7M7x.jpg",
         "status": "on",
-        "storyline": "Heartbroken and disillusioned with love, Ayan, a college student, meets Smriti, a young widow, during his trip to North Bengal. Although he loves her, she takes a while to reciprocate his feelings.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f53f1df135d5ee37858",
-        "title": "Smriti Medur (2009)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67534f511bd06316f7493417",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Thriller"
-        ],
-        "imdbRating": "7.4",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg",
-        "releaseDate": "28-09-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l01wF0ImU8I2Mr1lb5zODooqnht.jpg",
-        "status": "on",
-        "storyline": "A serial killer terrorises the city of Kolkata and leaves behind verses of Bengali poetry. The police seek the help of a retired officer to unravel the case and find the perpetrator.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f511bd06316f7493417",
-        "title": "Baishe Srabon (2011)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67534f4aa8919c414d64ae65",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "10",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5E4mVVZOJbso6YeWbXmwOTBoB.jpg",
-        "releaseDate": "02-09-2016",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5E4mVVZOJbso6YeWbXmwOTBoB.jpg",
-        "status": "on",
-        "storyline": "A married couple who start on the wrong side and detest each other eventually grow close and learn to appreciate and love each other.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f4aa8919c414d64ae65",
-        "title": "Tobu Aporichito (2016)",
+        "storyline": "10 years after The Bong Connection, The Bongs Again is a journey of two young women. Sara, in her 20s, comes to Kolkata from the UK to look for her biological mother. Oli, also in her 20s, goes to London from Kolkata in search of her father who had left her and the family. The story takes us through their journeys, the connections they make, and the pursuit of finding their blood relations. The Bongs Again is fun-filled but with insights which change the way we perceive life. The film depicts today's cosmo Calcuttans and NRI Bengalis, their lifestyle, thinking, and approach towards life.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f48a6f679272b2b4e8b",
+        "title": "The Bongs Again (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3799,29 +3822,6 @@
         "storyline": "An author’s life changes completely after two sisters come to work for him. Is this a sinister war of love and identity?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f46f1df135d5ee37852",
         "title": "Sin Sister (2020)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67534f48a6f679272b2b4e8b",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91AJzSpMa204gnGMlcagSkq7M7x.jpg",
-        "releaseDate": "13-01-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91AJzSpMa204gnGMlcagSkq7M7x.jpg",
-        "status": "on",
-        "storyline": "10 years after The Bong Connection, The Bongs Again is a journey of two young women. Sara, in her 20s, comes to Kolkata from the UK to look for her biological mother. Oli, also in her 20s, goes to London from Kolkata in search of her father who had left her and the family. The story takes us through their journeys, the connections they make, and the pursuit of finding their blood relations. The Bongs Again is fun-filled but with insights which change the way we perceive life. The film depicts today's cosmo Calcuttans and NRI Bengalis, their lifestyle, thinking, and approach towards life.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f48a6f679272b2b4e8b",
-        "title": "The Bongs Again (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4016,27 +4016,6 @@
         }
     },
     {
-        "id": "662d37f7451ef5ca57805a18",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suxNh06DFUlPHNdAggOvuwzYV6D.jpg",
-        "releaseDate": "14-04-2016",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suxNh06DFUlPHNdAggOvuwzYV6D.jpg",
-        "status": "on",
-        "storyline": "Free as a bird. To wander. To nestle. To take flight. We are not.  As India gained its much awaited independence in 1947, a race faced another struggle. Bengal was divided and hundreds of thousands of Bengalis were displaced and divided on the basis of their religion. The Hindus were forced out as East Bengal was made a part of Pakistan and the same fate lay in store for the Muslims of West Bengal. Millions became refugees in their own homeland, and thousands still bear the cross and the scar.  The film is a human saga of a truncated land and how people are trying to relive their destiny.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/662d37f7451ef5ca57805a18",
-        "title": "Shankhachil (2016)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "662d37f4cbc25ee17167cd71",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -4051,6 +4030,27 @@
         "storyline": "Cornered by a snooty in-law amid an awkward family lunch, Shibashis Saha, a middle-class man, makes a spur-of-the-moment decision to take his wife and two daughters to Switzerland for a vacation but ends up at Kalighat police station.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/662d37f4cbc25ee17167cd71",
         "title": "Switzerland (2020)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "662d37f7451ef5ca57805a18",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suxNh06DFUlPHNdAggOvuwzYV6D.jpg",
+        "releaseDate": "14-04-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/suxNh06DFUlPHNdAggOvuwzYV6D.jpg",
+        "status": "on",
+        "storyline": "Free as a bird. To wander. To nestle. To take flight. We are not.  As India gained its much awaited independence in 1947, a race faced another struggle. Bengal was divided and hundreds of thousands of Bengalis were displaced and divided on the basis of their religion. The Hindus were forced out as East Bengal was made a part of Pakistan and the same fate lay in store for the Muslims of West Bengal. Millions became refugees in their own homeland, and thousands still bear the cross and the scar.  The film is a human saga of a truncated land and how people are trying to relive their destiny.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/662d37f7451ef5ca57805a18",
+        "title": "Shankhachil (2016)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4815,6 +4815,30 @@
         }
     },
     {
+        "id": "65ae346a97d269e8898f2652",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdbRating": "4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeHJxXoH3DlxMwfPKQclb9zsr8F.jpg",
+        "releaseDate": "12-02-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeHJxXoH3DlxMwfPKQclb9zsr8F.jpg",
+        "status": "on",
+        "storyline": "A thrilling tale of two people going through major ups and downs; and then not knowing it particularly.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65ae346a97d269e8898f2652",
+        "title": "Magic (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "65aeb16f4f2e676a2427e6da",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -4833,30 +4857,6 @@
         "storyline": "The notorious Bimal Mandal, who ruled the Rishra-Hindmotor-Konnagar area for years, gets arrested by Dibakar Sen. However, he gets away due to lack of evidence. Soon, Dibakar and Hubba, seem to become alter egos of one another and morality gets blurred.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65aeb16f4f2e676a2427e6da",
         "title": "Hubba (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "65ae346a97d269e8898f2652",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Thriller"
-        ],
-        "imdbRating": "4",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeHJxXoH3DlxMwfPKQclb9zsr8F.jpg",
-        "releaseDate": "12-02-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeHJxXoH3DlxMwfPKQclb9zsr8F.jpg",
-        "status": "on",
-        "storyline": "A thrilling tale of two people going through major ups and downs; and then not knowing it particularly.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65ae346a97d269e8898f2652",
-        "title": "Magic (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5002,29 +5002,6 @@
         }
     },
     {
-        "id": "658acc8c41796f4613fd5132",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Action"
-        ],
-        "imdbRating": "8.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGxvRQjJsSKDltI4ysYYXJgF1bm.jpg",
-        "releaseDate": "11-10-2007",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGxvRQjJsSKDltI4ysYYXJgF1bm.jpg",
-        "status": "on",
-        "storyline": "The film deals with how a teacher along with his students fight corruption.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/658acc8c41796f4613fd5132",
-        "title": "Tiger (2007)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "658ad78b3c61c2c840a2b004",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -5041,6 +5018,29 @@
         "storyline": "A bloody vendetta spans generations and leaves no member of the involved clans untouched.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/658ad78b3c61c2c840a2b004",
         "title": "Dada (2005)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "658acc8c41796f4613fd5132",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Action"
+        ],
+        "imdbRating": "8.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGxvRQjJsSKDltI4ysYYXJgF1bm.jpg",
+        "releaseDate": "11-10-2007",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGxvRQjJsSKDltI4ysYYXJgF1bm.jpg",
+        "status": "on",
+        "storyline": "The film deals with how a teacher along with his students fight corruption.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/658acc8c41796f4613fd5132",
+        "title": "Tiger (2007)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5397,27 +5397,6 @@
         }
     },
     {
-        "id": "6508528496b9c188ee5c4891",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Tolly_Lights.jpg",
-        "releaseDate": "29-02-2008",
-        "sliderUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Tolly_Lights.jpg",
-        "status": "on",
-        "storyline": "Tolly Lights is a 2008 Bengali-language Indian feature film directed by Arjun Chakraborty, starring Sreelekha Mitra, Abhishek Chatterjee, Priyadarshini Chatterjee and Arjun Chakraborty in lead roles. The Film is based on the novel \"Rangeen Prithibi\" by Suchitra Bhattacharya.[1][2] Hindi film actor Sunny Deol played an important role in the film.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6508528496b9c188ee5c4891",
-        "title": "Tolly Lights (2008)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "650850823e400dd6bba7b24a",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -5434,6 +5413,27 @@
         "storyline": "The story develops around the evolution of Titli from girl to womanhood.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/650850823e400dd6bba7b24a",
         "title": "Titli (2002)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6508528496b9c188ee5c4891",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Tolly_Lights.jpg",
+        "releaseDate": "29-02-2008",
+        "sliderUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Tolly_Lights.jpg",
+        "status": "on",
+        "storyline": "Tolly Lights is a 2008 Bengali-language Indian feature film directed by Arjun Chakraborty, starring Sreelekha Mitra, Abhishek Chatterjee, Priyadarshini Chatterjee and Arjun Chakraborty in lead roles. The Film is based on the novel \"Rangeen Prithibi\" by Suchitra Bhattacharya.[1][2] Hindi film actor Sunny Deol played an important role in the film.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6508528496b9c188ee5c4891",
+        "title": "Tolly Lights (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5488,29 +5488,6 @@
         }
     },
     {
-        "id": "64f6f5567ce68df1389eacf2",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg",
-        "releaseDate": "29-01-2009",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg",
-        "status": "on",
-        "storyline": "Aniket, a middle-aged man, gets caught up in a strange situation when a young woman sneaks into his house. He later learns that the woman is a victim of domestic violence.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f6f5567ce68df1389eacf2",
-        "title": "Hanshi Khushi Club (2009)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64f6f553da5481a7d583d730",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -5534,6 +5511,29 @@
         }
     },
     {
+        "id": "64f6f5567ce68df1389eacf2",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg",
+        "releaseDate": "29-01-2009",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sa0L64JVYOB4evgRmVAr5RSGDi.jpg",
+        "status": "on",
+        "storyline": "Aniket, a middle-aged man, gets caught up in a strange situation when a young woman sneaks into his house. He later learns that the woman is a victim of domestic violence.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f6f5567ce68df1389eacf2",
+        "title": "Hanshi Khushi Club (2009)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "64f49499f7df6943cd445e8f",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -5548,6 +5548,31 @@
         "storyline": "Romeo is an unruly youth in his local village. He goes to London after seeing his dream girl on Facebook to win her heart.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f49499f7df6943cd445e8f",
         "title": "Romeo Vs Juliet (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64b5376b4f6e3ad0116cd854",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Comedy",
+            "Music"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gv6hCtNdT3UW99rf4Ulp90SHnr.jpg",
+        "releaseDate": "14-07-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gv6hCtNdT3UW99rf4Ulp90SHnr.jpg",
+        "status": "on",
+        "storyline": "Both Abir Chatterjee and Parambrata Chattopadhyay fall for Lahoma Bhattacharya. Who is going to get the bimbette?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b5376b4f6e3ad0116cd854",
+        "title": "Biye Bibhrat (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5601,24 +5626,23 @@
         }
     },
     {
-        "id": "64b5376b4f6e3ad0116cd854",
+        "id": "64e842648f1f34d1aec9cd1e",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
             "Romance",
-            "Comedy",
-            "Music"
+            "Drama"
         ],
-        "imdbRating": "0",
+        "imdbRating": "8",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gv6hCtNdT3UW99rf4Ulp90SHnr.jpg",
-        "releaseDate": "14-07-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gv6hCtNdT3UW99rf4Ulp90SHnr.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6jE0cWJQg2s1tisJnLcOvF3J8.jpg",
+        "releaseDate": "30-06-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6jE0cWJQg2s1tisJnLcOvF3J8.jpg",
         "status": "on",
-        "storyline": "Both Abir Chatterjee and Parambrata Chattopadhyay fall for Lahoma Bhattacharya. Who is going to get the bimbette?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b5376b4f6e3ad0116cd854",
-        "title": "Biye Bibhrat (2023)",
+        "storyline": "A coming-of-age love story about two Kolkata-bred individuals, Ritoban and Anindita. After a devastating incident, they reminisce about their dream life but face limited choices.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64e842648f1f34d1aec9cd1e",
+        "title": "Shohorer Ushnotomo Din E (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5642,30 +5666,6 @@
         "storyline": "A possessd little girl tries to destroy her family.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64e841f80316a8408ee0b9f8",
         "title": "Rish (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "64e842648f1f34d1aec9cd1e",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6jE0cWJQg2s1tisJnLcOvF3J8.jpg",
-        "releaseDate": "30-06-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6jE0cWJQg2s1tisJnLcOvF3J8.jpg",
-        "status": "on",
-        "storyline": "A coming-of-age love story about two Kolkata-bred individuals, Ritoban and Anindita. After a devastating incident, they reminisce about their dream life but face limited choices.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64e842648f1f34d1aec9cd1e",
-        "title": "Shohorer Ushnotomo Din E (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5877,30 +5877,6 @@
         }
     },
     {
-        "id": "64d4e455ad5ce85d7f085ad2",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Adventure",
-            "Horror"
-        ],
-        "imdbRating": "6.3",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Br2RIqiVlJYYLlSrCYYgvEoNnF.jpg",
-        "releaseDate": "20-12-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Br2RIqiVlJYYLlSrCYYgvEoNnF.jpg",
-        "status": "on",
-        "storyline": "Sandip Ray's next where 4 ghost stories are spun together in a comical twist surrounding unusual events.The film is a collection of four short films based on four Bengali short stories- Sharadindu Bandyopadhyay's - Bhut Bhabishyat, Satyajit Ray's- Brown Saheber Bari, Anath Babur Bhoy and Lucknow-er Duel.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d4e455ad5ce85d7f085ad2",
-        "title": "Jekhane Bhooter Bhoy (2012)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64d4e30bad5ce85d7f085a6b",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -5919,6 +5895,30 @@
         "storyline": "Deba, a young man, decides to elope with the girl of his dreams, after rescuing her from her to-be-husband. However, they are constantly chased by a gang of hooligans.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d4e30bad5ce85d7f085a6b",
         "title": "Jaaneman (2012)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64d4e455ad5ce85d7f085ad2",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Adventure",
+            "Horror"
+        ],
+        "imdbRating": "6.3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Br2RIqiVlJYYLlSrCYYgvEoNnF.jpg",
+        "releaseDate": "20-12-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Br2RIqiVlJYYLlSrCYYgvEoNnF.jpg",
+        "status": "on",
+        "storyline": "Sandip Ray's next where 4 ghost stories are spun together in a comical twist surrounding unusual events.The film is a collection of four short films based on four Bengali short stories- Sharadindu Bandyopadhyay's - Bhut Bhabishyat, Satyajit Ray's- Brown Saheber Bari, Anath Babur Bhoy and Lucknow-er Duel.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d4e455ad5ce85d7f085ad2",
+        "title": "Jekhane Bhooter Bhoy (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6021,27 +6021,6 @@
         }
     },
     {
-        "id": "64d240c036e117489619093e",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJYqETH4S5KCcvFFhdcEc7pkCSw.jpg",
-        "releaseDate": "25-02-2015",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJYqETH4S5KCcvFFhdcEc7pkCSw.jpg",
-        "status": "on",
-        "storyline": "About a drug peddler Ruksar, a daredevil don who can beat 10 men to pulp.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d240c036e117489619093e",
-        "title": "Kader Kuler Bou (2015)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64d23e7436e1174896190838",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6060,6 +6039,27 @@
         "storyline": "Samrat's relationship with Anjali is threatened when her cruel brother disapproves of him. In order to win him over, Samrat pretends to be a successful businessman.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d23e7436e1174896190838",
         "title": "Idiot (2012)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64d240c036e117489619093e",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJYqETH4S5KCcvFFhdcEc7pkCSw.jpg",
+        "releaseDate": "25-02-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJYqETH4S5KCcvFFhdcEc7pkCSw.jpg",
+        "status": "on",
+        "storyline": "About a drug peddler Ruksar, a daredevil don who can beat 10 men to pulp.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64d240c036e117489619093e",
+        "title": "Kader Kuler Bou (2015)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6133,29 +6133,6 @@
         }
     },
     {
-        "id": "6463c46357a01c3361158550",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhCekBRstsVysHwFKwQj5kEdHwW.jpg",
-        "releaseDate": "12-05-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhCekBRstsVysHwFKwQj5kEdHwW.jpg",
-        "status": "on",
-        "storyline": "Phullora Bhaduri, a tailor from the suburbs with a gifted sense of design, is ridiculed for being on the heavier side. Can she become a fashion influencer despite the odds?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6463c46357a01c3361158550",
-        "title": "Fatafati (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "648724b512b25cf06f31aa8d",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6179,6 +6156,29 @@
         }
     },
     {
+        "id": "6463c46357a01c3361158550",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhCekBRstsVysHwFKwQj5kEdHwW.jpg",
+        "releaseDate": "12-05-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhCekBRstsVysHwFKwQj5kEdHwW.jpg",
+        "status": "on",
+        "storyline": "Phullora Bhaduri, a tailor from the suburbs with a gifted sense of design, is ridiculed for being on the heavier side. Can she become a fashion influencer despite the odds?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6463c46357a01c3361158550",
+        "title": "Fatafati (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "64ca2d96091605158706215e",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6195,29 +6195,6 @@
         "storyline": "Hindu brother, Muslim sister.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64ca2d96091605158706215e",
         "title": "Fatema (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "64c8b89372782b72608a34af",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Thriller"
-        ],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5VfeTC5miXXvvQmDVpUJedU7Vm.jpg",
-        "releaseDate": "18-08-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5VfeTC5miXXvvQmDVpUJedU7Vm.jpg",
-        "status": "on",
-        "storyline": "Investigative journalist Shivangi reaches Kurseong in search of a missing girl, with a cellphone as a keeper of untold secrets. Watch the full movie on Hoichoi.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c8b89372782b72608a34af",
-        "title": "Chupkotha (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6249,22 +6226,22 @@
         }
     },
     {
-        "id": "643d2ddcf89bb35de1e6e293",
+        "id": "64c8b89372782b72608a34af",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Comedy"
+            "Thriller"
         ],
-        "imdbRating": "0",
+        "imdbRating": "8",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekTsloEhJEhyTiVVL06P7JjiLGu.jpg",
-        "releaseDate": "14-04-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekTsloEhJEhyTiVVL06P7JjiLGu.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5VfeTC5miXXvvQmDVpUJedU7Vm.jpg",
+        "releaseDate": "18-08-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5VfeTC5miXXvvQmDVpUJedU7Vm.jpg",
         "status": "on",
-        "storyline": "The story is about a family who suspects that the couple is having an affair but ultimately, they discover they are not in love. Then what’s their relationship in the film? That’s what the story is all about.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643d2ddcf89bb35de1e6e293",
-        "title": "Love Marriage (2023)",
+        "storyline": "Investigative journalist Shivangi reaches Kurseong in search of a missing girl, with a cellphone as a keeper of untold secrets. Watch the full movie on Hoichoi.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c8b89372782b72608a34af",
+        "title": "Chupkotha (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6286,6 +6263,29 @@
         "storyline": "",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c692ee472a2f067db4b935",
         "title": "Meter Down (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "643d2ddcf89bb35de1e6e293",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekTsloEhJEhyTiVVL06P7JjiLGu.jpg",
+        "releaseDate": "14-04-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekTsloEhJEhyTiVVL06P7JjiLGu.jpg",
+        "status": "on",
+        "storyline": "The story is about a family who suspects that the couple is having an affair but ultimately, they discover they are not in love. Then what’s their relationship in the film? That’s what the story is all about.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643d2ddcf89bb35de1e6e293",
+        "title": "Love Marriage (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6317,30 +6317,6 @@
         }
     },
     {
-        "id": "64c12b83ddb6d6eb8312372f",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Horror",
-            "Thriller"
-        ],
-        "imdbRating": "4.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5of8D5PY6O67asXAHYTMu3Ya9F.jpg",
-        "releaseDate": "04-07-2014",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5of8D5PY6O67asXAHYTMu3Ya9F.jpg",
-        "status": "on",
-        "storyline": "Rudra is a pizza delivery man who lives with Anuradha, his girlfriend and an aspiring author. However, a horrific incident changes his life when he starts doubting Anuradha's existence.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c12b83ddb6d6eb8312372f",
-        "title": "Golpo Holeo Shotti (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64c12770ddb6d6eb8312363f",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6358,6 +6334,30 @@
         "storyline": "A story of relationships that explores the intricacies of the married life, of life-long companionship, of promises and expectations and love.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c12770ddb6d6eb8312363f",
         "title": "Belaseshe (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64c12b83ddb6d6eb8312372f",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "4.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5of8D5PY6O67asXAHYTMu3Ya9F.jpg",
+        "releaseDate": "04-07-2014",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5of8D5PY6O67asXAHYTMu3Ya9F.jpg",
+        "status": "on",
+        "storyline": "Rudra is a pizza delivery man who lives with Anuradha, his girlfriend and an aspiring author. However, a horrific incident changes his life when he starts doubting Anuradha's existence.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64c12b83ddb6d6eb8312372f",
+        "title": "Golpo Holeo Shotti (2014)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6458,6 +6458,31 @@
         }
     },
     {
+        "id": "64b7e842b8efc7aa7dd9ee8e",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Romance",
+            "Music"
+        ],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NTA3MTMyOF5BMl5BanBnXkFtZTgwNzc3MTA2MDI@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "29-03-2013",
+        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NTA3MTMyOF5BMl5BanBnXkFtZTgwNzc3MTA2MDI@._V1_FMjpg_UX1000_.jpg",
+        "status": "on",
+        "storyline": "Anol loves Ankhi, though she sees him as just her bodyguard. Will his love change her mind?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b7e842b8efc7aa7dd9ee8e",
+        "title": "Amar Bodyguard (2013)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "64b7d637bf6b7a4a58a884ae",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6497,54 +6522,6 @@
         "storyline": "Sorting through a backlog of email proves nostalgic and illuminating for a young alcoholic.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b7d40046e150397a513c70",
         "title": "Uro Chithi (2011)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "64b7e842b8efc7aa7dd9ee8e",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Romance",
-            "Music"
-        ],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NTA3MTMyOF5BMl5BanBnXkFtZTgwNzc3MTA2MDI@._V1_FMjpg_UX1000_.jpg",
-        "releaseDate": "29-03-2013",
-        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NTA3MTMyOF5BMl5BanBnXkFtZTgwNzc3MTA2MDI@._V1_FMjpg_UX1000_.jpg",
-        "status": "on",
-        "storyline": "Anol loves Ankhi, though she sees him as just her bodyguard. Will his love change her mind?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b7e842b8efc7aa7dd9ee8e",
-        "title": "Amar Bodyguard (2013)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "64b68d8a60549162bcb09f4d",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJxKfLyaYRrB44iAxwcXBiRT75.jpg",
-        "releaseDate": "09-09-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJxKfLyaYRrB44iAxwcXBiRT75.jpg",
-        "status": "on",
-        "storyline": "One girl loves four boys in different ways,feeling hard to find the better ones.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b68d8a60549162bcb09f4d",
-        "title": "Rang Milanti (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6592,6 +6569,29 @@
         "storyline": "Eklavya is a gangster and a feared one at that. His criminal undertakings know no limits and he goes as far as killing the innocent to get what he wants.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b690bc14ca548e34b401f2",
         "title": "System (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64b68d8a60549162bcb09f4d",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJxKfLyaYRrB44iAxwcXBiRT75.jpg",
+        "releaseDate": "09-09-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJxKfLyaYRrB44iAxwcXBiRT75.jpg",
+        "status": "on",
+        "storyline": "One girl loves four boys in different ways,feeling hard to find the better ones.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b68d8a60549162bcb09f4d",
+        "title": "Rang Milanti (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6647,27 +6647,6 @@
         }
     },
     {
-        "id": "64b544f0bfdfac887d7aedca",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "3.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/N5j67Gok0zyWFdj1IRNwb1ay7h.jpg",
-        "releaseDate": "15-07-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/N5j67Gok0zyWFdj1IRNwb1ay7h.jpg",
-        "status": "on",
-        "storyline": "Manas is an insurance agent. He lives with his wife Mamata and son Shamik. Mamata is dissatisfied by her husband's outlook and dreams of bringing up her son differently. But, when Shamik grows up he starts rebelling against his mother's decisions and dominance.  ~Wikipedia",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b544f0bfdfac887d7aedca",
-        "title": "Icche (2011)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64b5476db7b302e0569c959c",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -6692,22 +6671,20 @@
         }
     },
     {
-        "id": "64b5422f4f6e3ad0116cda02",
+        "id": "64b544f0bfdfac887d7aedca",
         "category": "Indian Bangla",
         "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
+        "genre": [],
+        "imdbRating": "3.7",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8hV5yY0piuEVUdXO1utBYIyOLC.jpg",
-        "releaseDate": "09-06-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8hV5yY0piuEVUdXO1utBYIyOLC.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/N5j67Gok0zyWFdj1IRNwb1ay7h.jpg",
+        "releaseDate": "15-07-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/N5j67Gok0zyWFdj1IRNwb1ay7h.jpg",
         "status": "on",
-        "storyline": "Upal is desperate for money and is used by Subimal, a wealthy businessman to get close to Preeti, a young girl who loves someone else. Upal plays a trick to break the relationship of Preeti and succeeds and also helps to bring her close to Subimal.Subimal asks him to build a divorce case by falling in love with Shreya so that the case can be stronger. Somehow however Preeti comes to know the truth and everything is spoilt.Preeti asks Upal to marry her and also promises him x amount of money and says she will take him to the U.S.Soon after marrying, she dumps him and goes away and nothing is the same again.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b5422f4f6e3ad0116cda02",
-        "title": "Kagojer Bou (2011)",
+        "storyline": "Manas is an insurance agent. He lives with his wife Mamata and son Shamik. Mamata is dissatisfied by her husband's outlook and dreams of bringing up her son differently. But, when Shamik grows up he starts rebelling against his mother's decisions and dominance.  ~Wikipedia",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b544f0bfdfac887d7aedca",
+        "title": "Icche (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6729,6 +6706,29 @@
         "storyline": "Do you have any images for this title?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b53f254ebf24d1dcbb959b",
         "title": "Katakuti (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64b5422f4f6e3ad0116cda02",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8hV5yY0piuEVUdXO1utBYIyOLC.jpg",
+        "releaseDate": "09-06-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8hV5yY0piuEVUdXO1utBYIyOLC.jpg",
+        "status": "on",
+        "storyline": "Upal is desperate for money and is used by Subimal, a wealthy businessman to get close to Preeti, a young girl who loves someone else. Upal plays a trick to break the relationship of Preeti and succeeds and also helps to bring her close to Subimal.Subimal asks him to build a divorce case by falling in love with Shreya so that the case can be stronger. Somehow however Preeti comes to know the truth and everything is spoilt.Preeti asks Upal to marry her and also promises him x amount of money and says she will take him to the U.S.Soon after marrying, she dumps him and goes away and nothing is the same again.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b5422f4f6e3ad0116cda02",
+        "title": "Kagojer Bou (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7029,29 +7029,6 @@
         }
     },
     {
-        "id": "64a6c0445e64766791ec1108",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Romance"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s9DZZXEV38SfxiSbszEnysvQCT.jpg",
-        "releaseDate": "15-01-2010",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s9DZZXEV38SfxiSbszEnysvQCT.jpg",
-        "status": "on",
-        "storyline": "Good-for-nothing Shanu is in love with Pari who is set to marry Badshah. Now that Shanu's obsession for Pari is stifling, will he conquer the love of his life?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a6c0445e64766791ec1108",
-        "title": "Mon Amar Sudhu Tomar (2010)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64a6c284ed8aad74424cfe8e",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -7068,6 +7045,29 @@
         "storyline": "An award-winning aging actress reflects on her life while writing a suicide note.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a6c284ed8aad74424cfe8e",
         "title": "Iti Mrinalini: An Unfinished Letter... (2010)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64a6c0445e64766791ec1108",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Romance"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s9DZZXEV38SfxiSbszEnysvQCT.jpg",
+        "releaseDate": "15-01-2010",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s9DZZXEV38SfxiSbszEnysvQCT.jpg",
+        "status": "on",
+        "storyline": "Good-for-nothing Shanu is in love with Pari who is set to marry Badshah. Now that Shanu's obsession for Pari is stifling, will he conquer the love of his life?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a6c0445e64766791ec1108",
+        "title": "Mon Amar Sudhu Tomar (2010)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7123,29 +7123,6 @@
         }
     },
     {
-        "id": "64a50ac70864265d3de3d2e3",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
-        "releaseDate": "29-10-2010",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
-        "status": "on",
-        "storyline": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a50ac70864265d3de3d2e3",
-        "title": "Gandu (2010)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64a5110fa180c44406bbf59f",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -7162,6 +7139,29 @@
         "storyline": "By accident, more than anything else, the three find themselves beside the grave of Thomas Godwin. The grave was dug up by some miscreants for unknown reasons. The rather colorful history of Mr. Godwin makes Feluda curious to know more about the man.From the diary of Thomas' daughter Charlotte, Feluda finds that a very precious clock went to Thomas' grave with him. To his surprise, Feluda finds that another party knows about this clock and they are trying to get it aided by the letter with them. Thanks to the brilliance of the detective and the help of 'Haripodobabu', the chauffeur of Mr. Ganguli, a new introduction in this book, their plot is foiled.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a5110fa180c44406bbf59f",
         "title": "Gorosthane Sabdhan (2010)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64a50ac70864265d3de3d2e3",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
+        "releaseDate": "29-10-2010",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctAGjCNv3rg8BKM2RqIFbsKjaif.jpg",
+        "status": "on",
+        "storyline": "After Nihilistic rapper Gandu steals from his mother's lover, he embarks on a drug-fueled rampage with a rickshaw puller.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a50ac70864265d3de3d2e3",
+        "title": "Gandu (2010)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7286,29 +7286,6 @@
         }
     },
     {
-        "id": "64a2c6a8265e79f968758aec",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "5.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLA7gm9Ms1JqDuWFskMj3DuDDvT.jpg",
-        "releaseDate": "01-11-2010",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLA7gm9Ms1JqDuWFskMj3DuDDvT.jpg",
-        "status": "on",
-        "storyline": "Delhi-based trans documentary filmmaker,  Abhiroop Sen, wants to make a documentary film on the life of famous jatra thespian, Chapal Bhaduri. But in doing so Sen recognises that their life resembles Chapal's life. 'Just Another Love Story' revolves around the trauma, the setbacks, and the heartache experienced by the trans community.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a2c6a8265e79f968758aec",
-        "title": "Aarekti Premer Golpo (2010)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64a2c5623a92738231f9e514",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -7326,6 +7303,29 @@
         "storyline": "Abohomaan tells the story of Aniket, one of the finest filmmakers of Bengal in eastern India and the loves of his life. Devoted to his craft, Aniket met and fell in love with his wife Deepti, an actress, while they worked together on the set of a film. They were so in love that Deepti sacrificed her own career for her husband's and for their son Apratim, but lost a little of who she was in the process. The plot thickens when Aniket auditions a young actress, Shikha, who bares an uncanny resemblance to his wife when she was younger. Deepti enthusiastically begins to coach Shikha for her husband's film - so much so that Shikha becomes even more like the girl Deepti used to be and as a result the aging Aniket falls in love with Shikha, a woman as young as his son, despite the sadness and trouble it brings to his family.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a2c5623a92738231f9e514",
         "title": "Abohomaan (2009)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64a2c6a8265e79f968758aec",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "5.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLA7gm9Ms1JqDuWFskMj3DuDDvT.jpg",
+        "releaseDate": "01-11-2010",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLA7gm9Ms1JqDuWFskMj3DuDDvT.jpg",
+        "status": "on",
+        "storyline": "Delhi-based trans documentary filmmaker,  Abhiroop Sen, wants to make a documentary film on the life of famous jatra thespian, Chapal Bhaduri. But in doing so Sen recognises that their life resembles Chapal's life. 'Just Another Love Story' revolves around the trauma, the setbacks, and the heartache experienced by the trans community.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a2c6a8265e79f968758aec",
+        "title": "Aarekti Premer Golpo (2010)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7998,29 +7998,6 @@
         }
     },
     {
-        "id": "646471b03ded46a11b2db403",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oApHSmNMAygyjMClFQwWcJ6eAt.jpg",
-        "releaseDate": "12-08-2016",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oApHSmNMAygyjMClFQwWcJ6eAt.jpg",
-        "status": "on",
-        "storyline": "Hemanta, a student of filmmaking in New York, returns to Kolkata before his mother is going to marry his uncle after his father's suicide. He receives a series of untraceable texts in riddles arising suspicion on the true nature of his father's death. He starts to lose his conscious self and plans on taking revenge upon the killers.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646471b03ded46a11b2db403",
-        "title": "Hemanta (2016)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6464734f905095d5b0d865b2",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -8038,6 +8015,29 @@
         "storyline": "A lonely, married woman bonds with a younger man over their shared love of unusual foods. As their excursions become more adventurous, their relationship begins to take a dark turn.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6464734f905095d5b0d865b2",
         "title": "Aamis (2019)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "646471b03ded46a11b2db403",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oApHSmNMAygyjMClFQwWcJ6eAt.jpg",
+        "releaseDate": "12-08-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oApHSmNMAygyjMClFQwWcJ6eAt.jpg",
+        "status": "on",
+        "storyline": "Hemanta, a student of filmmaking in New York, returns to Kolkata before his mother is going to marry his uncle after his father's suicide. He receives a series of untraceable texts in riddles arising suspicion on the true nature of his father's death. He starts to lose his conscious self and plans on taking revenge upon the killers.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646471b03ded46a11b2db403",
+        "title": "Hemanta (2016)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -8089,48 +8089,22 @@
         }
     },
     {
-        "id": "6460c9f54081f84cb109070c",
+        "id": "6460c274be777c1922396c10",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Crime",
-            "Mystery",
-            "Horror",
-            "Thriller"
+            "Drama"
         ],
-        "imdbRating": "7",
+        "imdbRating": "6.3",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncG41cyz6aUk4DBXg6VzaP5nEu6.jpg",
-        "releaseDate": "09-10-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncG41cyz6aUk4DBXg6VzaP5nEu6.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riXurapZFxutBa19R5b5mTEIma2.jpg",
+        "releaseDate": "03-09-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riXurapZFxutBa19R5b5mTEIma2.jpg",
         "status": "on",
-        "storyline": "Deputy Commissioner of Police Sharma and his detective friend Chandrakant Sen are called on to investigate the death of veteran music director Debraj Sen. Was his death of Wolff-Parkinson-White syndrome a mere accident? Did his third wife Megha Sen have anything to do with it?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c9f54081f84cb109070c",
-        "title": "Shororipu 2: Jotugriho (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6460c53d28ab50b535951df5",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Family"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkHyebEUZ8WBzUW6CIuNonwhZU.jpg",
-        "releaseDate": "17-01-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkHyebEUZ8WBzUW6CIuNonwhZU.jpg",
-        "status": "on",
-        "storyline": "Gunjan, Sindur and Ashalata are three women from three different generations, who are all struggling to set themselves free from social compulsions. Tumi O Tumi revolves around the conflict between the inner and outer selves of these women, redefining the meaning of women empowerment in the process.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c53d28ab50b535951df5",
-        "title": "Tumi O Tumi (2020)",
+        "storyline": "Sujata, a housewife of an upper-middle-class family stuck between the world that is around and within her. This is the story of her world her home and her search, for her \"self\". Will she be able to find what she is looking for?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c274be777c1922396c10",
+        "title": "Tasher Ghawr (2020)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -8161,22 +8135,48 @@
         }
     },
     {
-        "id": "6460c274be777c1922396c10",
+        "id": "6460c53d28ab50b535951df5",
         "category": "Indian Bangla",
         "director": "Unknown",
         "genre": [
-            "Drama"
+            "Family"
         ],
-        "imdbRating": "6.3",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riXurapZFxutBa19R5b5mTEIma2.jpg",
-        "releaseDate": "03-09-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/riXurapZFxutBa19R5b5mTEIma2.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkHyebEUZ8WBzUW6CIuNonwhZU.jpg",
+        "releaseDate": "17-01-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkHyebEUZ8WBzUW6CIuNonwhZU.jpg",
         "status": "on",
-        "storyline": "Sujata, a housewife of an upper-middle-class family stuck between the world that is around and within her. This is the story of her world her home and her search, for her \"self\". Will she be able to find what she is looking for?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c274be777c1922396c10",
-        "title": "Tasher Ghawr (2020)",
+        "storyline": "Gunjan, Sindur and Ashalata are three women from three different generations, who are all struggling to set themselves free from social compulsions. Tumi O Tumi revolves around the conflict between the inner and outer selves of these women, redefining the meaning of women empowerment in the process.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c53d28ab50b535951df5",
+        "title": "Tumi O Tumi (2020)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6460c9f54081f84cb109070c",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Mystery",
+            "Horror",
+            "Thriller"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncG41cyz6aUk4DBXg6VzaP5nEu6.jpg",
+        "releaseDate": "09-10-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncG41cyz6aUk4DBXg6VzaP5nEu6.jpg",
+        "status": "on",
+        "storyline": "Deputy Commissioner of Police Sharma and his detective friend Chandrakant Sen are called on to investigate the death of veteran music director Debraj Sen. Was his death of Wolff-Parkinson-White syndrome a mere accident? Did his third wife Megha Sen have anything to do with it?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6460c9f54081f84cb109070c",
+        "title": "Shororipu 2: Jotugriho (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -8371,30 +8371,6 @@
         }
     },
     {
-        "id": "6450e3e8686ada11cb0ca523",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Thriller",
-            "Drama"
-        ],
-        "imdbRating": "3",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtq4SsHKtBndLbL45qSqr2rDVx9.jpg",
-        "releaseDate": "15-05-2015",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtq4SsHKtBndLbL45qSqr2rDVx9.jpg",
-        "status": "on",
-        "storyline": "The story of a mysterious hotel room and how the lives of those who stay there change - for better or for worse.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6450e3e8686ada11cb0ca523",
-        "title": "Room No. 103 (2015)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6450f54ad29b0a3cbfebf609",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -8436,6 +8412,30 @@
         "storyline": "The film revolves around the life of a childless couple, Arindam, a police officer and his beautiful wife, Sharmila. They have a pet dog named Pluto, who accidentally runs off on a summer afternoon. What follows afterwards in the life of this couple is what the film is all about.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6450e518a7f4ef891c6b1893",
         "title": "Pati Parameshwar (2014)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6450e3e8686ada11cb0ca523",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Thriller",
+            "Drama"
+        ],
+        "imdbRating": "3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtq4SsHKtBndLbL45qSqr2rDVx9.jpg",
+        "releaseDate": "15-05-2015",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtq4SsHKtBndLbL45qSqr2rDVx9.jpg",
+        "status": "on",
+        "storyline": "The story of a mysterious hotel room and how the lives of those who stay there change - for better or for worse.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6450e3e8686ada11cb0ca523",
+        "title": "Room No. 103 (2015)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -8699,29 +8699,6 @@
         }
     },
     {
-        "id": "643693a19aef68827ea85156",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Mystery"
-        ],
-        "imdbRating": "6.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWptEprbMiLra0V6B4RHur55lIr.jpg",
-        "releaseDate": "30-01-2014",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWptEprbMiLra0V6B4RHur55lIr.jpg",
-        "status": "on",
-        "storyline": "Abhirup is a typical Bengali guy who has a happy family but he doesn't know how to protest. Everything was going very good but suddenly from his office to his personal life so many problems accrued in his life due to his scaredy attitude. Then his imaginary childhood friend Anjan comes into his life and changes his life completely.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643693a19aef68827ea85156",
-        "title": "The Royal Bengal Tiger (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "643695d87daac88a1b76b312",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -8757,6 +8734,29 @@
         "storyline": "Kelor Kirti is a fun filled ride with a bunch of young couples. This comedy of errors involves their fun loving couples round off in a bundle of chaos and misunderstanding,when an enchanting woman enters their lives, leading them to their share of confusion they are all caught up is misunderstanding and humorous situations, which end up in chaos.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643692042c745a7f81f698f9",
         "title": "Kelor Kirti (2016)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "643693a19aef68827ea85156",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Mystery"
+        ],
+        "imdbRating": "6.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWptEprbMiLra0V6B4RHur55lIr.jpg",
+        "releaseDate": "30-01-2014",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWptEprbMiLra0V6B4RHur55lIr.jpg",
+        "status": "on",
+        "storyline": "Abhirup is a typical Bengali guy who has a happy family but he doesn't know how to protest. Everything was going very good but suddenly from his office to his personal life so many problems accrued in his life due to his scaredy attitude. Then his imaginary childhood friend Anjan comes into his life and changes his life completely.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/643693a19aef68827ea85156",
+        "title": "The Royal Bengal Tiger (2014)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -8903,29 +8903,6 @@
         }
     },
     {
-        "id": "642b2ee7bf30aaedbe67d160",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZnHcb6D7cypclKts8gifiX0ZrJ.jpg",
-        "releaseDate": "18-12-1980",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZnHcb6D7cypclKts8gifiX0ZrJ.jpg",
-        "status": "on",
-        "storyline": "When Goopy and Bagha learn about Hirak Raja's tyranny, they try to set him right with the help of Udayan, a school teacher, and their magical powers.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/642b2ee7bf30aaedbe67d160",
-        "title": "The Kingdom of Diamonds (1980)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "642b32256559781a8ea9fd53",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -8946,6 +8923,29 @@
         "storyline": "Goopy Gyne and Bagha Byne are banished from their respective villages for being bad musicians. However, with their skills, they succeed in pleasing the king of ghosts who grants them three boons. How will they succeed in preventing the war between Halla and Shundi which is looming large?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/642b32256559781a8ea9fd53",
         "title": "Goopy Gyne Bagha Byne (1969)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "642b2ee7bf30aaedbe67d160",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZnHcb6D7cypclKts8gifiX0ZrJ.jpg",
+        "releaseDate": "18-12-1980",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZnHcb6D7cypclKts8gifiX0ZrJ.jpg",
+        "status": "on",
+        "storyline": "When Goopy and Bagha learn about Hirak Raja's tyranny, they try to set him right with the help of Udayan, a school teacher, and their magical powers.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/642b2ee7bf30aaedbe67d160",
+        "title": "The Kingdom of Diamonds (1980)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -9070,30 +9070,6 @@
         }
     },
     {
-        "id": "641adda8468e0cd6b36b0c5e",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Romance"
-        ],
-        "imdbRating": "7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGXDYPqxhwRcuRdBwt3BRU6Ge2J.jpg",
-        "releaseDate": "11-04-2014",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGXDYPqxhwRcuRdBwt3BRU6Ge2J.jpg",
-        "status": "on",
-        "storyline": "An agonizing tale of love and desire, focusing on the difference of power, social values and respect for others among the different classes of the society.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641adda8468e0cd6b36b0c5e",
-        "title": "Chirodini Tumi Je Amar 2 (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "641adcd2468e0cd6b36b0c02",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -9111,6 +9087,30 @@
         "storyline": "Pallavi, a rich, beautiful school student, falls in love with Krishna, a scooter mechanic, and gets married without her parents' approval. The situation takes an ugly turn when her family tries to separate them.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641adcd2468e0cd6b36b0c02",
         "title": "Chirodini Tumi Je Amar (2008)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "641adda8468e0cd6b36b0c5e",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGXDYPqxhwRcuRdBwt3BRU6Ge2J.jpg",
+        "releaseDate": "11-04-2014",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGXDYPqxhwRcuRdBwt3BRU6Ge2J.jpg",
+        "status": "on",
+        "storyline": "An agonizing tale of love and desire, focusing on the difference of power, social values and respect for others among the different classes of the society.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641adda8468e0cd6b36b0c5e",
+        "title": "Chirodini Tumi Je Amar 2 (2014)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -9258,27 +9258,6 @@
         }
     },
     {
-        "id": "641317122009f50dbadb28b2",
-        "category": "Indian Bangla",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjM1ZDcxMTQtODk4Yy00MDk4LWE0ZGYtY2FjODI5MmZiNzk1XkEyXkFqcGdeQXVyODI5MjQ2NjY@._V1_FMjpg_UX1000_.jpg",
-        "releaseDate": "15-02-2018",
-        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BZjM1ZDcxMTQtODk4Yy00MDk4LWE0ZGYtY2FjODI5MmZiNzk1XkEyXkFqcGdeQXVyODI5MjQ2NjY@._V1_FMjpg_UX1000_.jpg",
-        "status": "on",
-        "storyline": "",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641317122009f50dbadb28b2",
-        "title": "Reunion (2018)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "641318d810fb97e83cceb353",
         "category": "Indian Bangla",
         "director": "Unknown",
@@ -9293,6 +9272,27 @@
         "storyline": "The film is based on the struggle of a molestation victim and how she comes out of depression with the help of a few friends. According to the director, the film is the story of many such victims in our society. It talks about the struggles they face in their day-to-day lives.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641318d810fb97e83cceb353",
         "title": "Shlilatahanir Pore (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "641317122009f50dbadb28b2",
+        "category": "Indian Bangla",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjM1ZDcxMTQtODk4Yy00MDk4LWE0ZGYtY2FjODI5MmZiNzk1XkEyXkFqcGdeQXVyODI5MjQ2NjY@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "15-02-2018",
+        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BZjM1ZDcxMTQtODk4Yy00MDk4LWE0ZGYtY2FjODI5MmZiNzk1XkEyXkFqcGdeQXVyODI5MjQ2NjY@._V1_FMjpg_UX1000_.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/641317122009f50dbadb28b2",
+        "title": "Reunion (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
