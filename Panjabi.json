@@ -532,31 +532,6 @@
         }
     },
     {
-        "id": "647b304c59ad311554499227",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xCgTNokDewspkSomvVqwPfuGRy.jpg",
-        "releaseDate": "02-06-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xCgTNokDewspkSomvVqwPfuGRy.jpg",
-        "status": "on",
-        "storyline": "Since birth, Lehmber notices everyone speaking lies in general life and becomes a liar. Fed up with his mischievous activities, his father decides to send him to his sister in London. There, he falls in love with Ginni. When Ginni leaves him, he finally decides to become a wise man.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b304c59ad311554499227",
-        "title": "Lehmber Ginni (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "647b2b318bec867611530a35",
         "category": "Panjabi",
         "director": "Unknown",
@@ -575,6 +550,31 @@
         "storyline": "An NRI family returns to India to establish a charitable hospital- a long-lost desire of their elders, but their extended family creates issues.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b2b318bec867611530a35",
         "title": "Bhoot Uncle Tusi Great Ho (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "647b304c59ad311554499227",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xCgTNokDewspkSomvVqwPfuGRy.jpg",
+        "releaseDate": "02-06-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xCgTNokDewspkSomvVqwPfuGRy.jpg",
+        "status": "on",
+        "storyline": "Since birth, Lehmber notices everyone speaking lies in general life and becomes a liar. Fed up with his mischievous activities, his father decides to send him to his sister in London. There, he falls in love with Ginni. When Ginni leaves him, he finally decides to become a wise man.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647b304c59ad311554499227",
+        "title": "Lehmber Ginni (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

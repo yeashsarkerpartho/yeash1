@@ -250,30 +250,6 @@
         }
     },
     {
-        "id": "686fb4f28edb3a5fbbcaacf7",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Crime"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg",
-        "releaseDate": "25-04-2025",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg",
-        "status": "on",
-        "storyline": "A devout priest's peaceful existence unravels after a moral transgression forces him to choose between confession and making amends.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/686fb4f28edb3a5fbbcaacf7",
-        "title": "Devmanus (2025)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "686fb4f68edb3a5fbbcaacfd",
         "category": "Tamil",
         "director": "Unknown",
@@ -291,6 +267,30 @@
         "storyline": "Revolves around two married couples entangled in a complex web where trust is eroded, shocking betrayals are revealed and lives spiral into an intricate web of intrigue.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/686fb4f68edb3a5fbbcaacfd",
         "title": "EVOL (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "686fb4f28edb3a5fbbcaacf7",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg",
+        "releaseDate": "25-04-2025",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vyTSh8zZEWJzlkQo6RSgWo2pZ3.jpg",
+        "status": "on",
+        "storyline": "A devout priest's peaceful existence unravels after a moral transgression forces him to choose between confession and making amends.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/686fb4f28edb3a5fbbcaacf7",
+        "title": "Devmanus (2025)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -493,6 +493,29 @@
         }
     },
     {
+        "id": "67555e97a9c4f5ebdd1ed731",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "6.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIFfv9XVx2LEll9SxHAm8wvn7e.jpg",
+        "releaseDate": "29-03-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIFfv9XVx2LEll9SxHAm8wvn7e.jpg",
+        "status": "on",
+        "storyline": "A hopeful director with a secret plan, tells the story of his movie to a well-known but imperfect producer. The Director's stories reflect and question the Producer's beliefs, leaving the Producer confused by how the stories seem to connect with his own grudges.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555e97a9c4f5ebdd1ed731",
+        "title": "Hot Spot (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "67555f371bd06316f74b69ff",
         "category": "Tamil",
         "director": "Unknown",
@@ -517,22 +540,23 @@
         }
     },
     {
-        "id": "67555e97a9c4f5ebdd1ed731",
+        "id": "67555e67a9c4f5ebdd1ed729",
         "category": "Tamil",
         "director": "Unknown",
         "genre": [
+            "Thriller",
             "Drama"
         ],
-        "imdbRating": "6.5",
+        "imdbRating": "0",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIFfv9XVx2LEll9SxHAm8wvn7e.jpg",
-        "releaseDate": "29-03-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIFfv9XVx2LEll9SxHAm8wvn7e.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
+        "releaseDate": "24-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
         "status": "on",
-        "storyline": "A hopeful director with a secret plan, tells the story of his movie to a well-known but imperfect producer. The Director's stories reflect and question the Producer's beliefs, leaving the Producer confused by how the stories seem to connect with his own grudges.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555e97a9c4f5ebdd1ed731",
-        "title": "Hot Spot (2024)",
+        "storyline": "In 'Crime or Devil', Siddu is terrified of ghosts. He thinks a ghost haunts him, from which he had previously watched a horror movie. Later, a mentally disturbed woman enters and starts to kidnap girls. Watch to know how they both got connected! Don't miss.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555e67a9c4f5ebdd1ed729",
+        "title": "Criminal or Devil (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -559,30 +583,6 @@
         "storyline": "Vasanth and Aaranya, a couple move into a serene row house, eager for peace and privacy, but a violent storm leaves them trapped inside, unsettling supernatural disturbances threaten to unravel their marriage. Vasanth must uncover the truth behind these supernatural occurrences before everything falls apart.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555df81bd06316f74b6971",
         "title": "Black (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67555e67a9c4f5ebdd1ed729",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Thriller",
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
-        "releaseDate": "24-05-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xRZbs7pSDZOHjrySBa8aXmmyiT.jpg",
-        "status": "on",
-        "storyline": "In 'Crime or Devil', Siddu is terrified of ghosts. He thinks a ghost haunts him, from which he had previously watched a horror movie. Later, a mentally disturbed woman enters and starts to kidnap girls. Watch to know how they both got connected! Don't miss.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67555e67a9c4f5ebdd1ed729",
-        "title": "Criminal or Devil (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -924,6 +924,30 @@
         }
     },
     {
+        "id": "67534f341bd06316f7493405",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "imdbRating": "6.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
+        "releaseDate": "27-05-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
+        "status": "on",
+        "storyline": "Santosh suffers from a psychological problem that causes him to be insecure about his size. Struggling to find a solution, he erases the idea of marriage altogether until he meets Amrutha, with whom he falls in love.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f341bd06316f7493405",
+        "title": "Ek Mini Katha (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "67534f36f1df135d5ee37844",
         "category": "Tamil",
         "director": "Unknown",
@@ -966,30 +990,6 @@
         "storyline": "The life of the former Chief Minister of Andhra Pradesh, the late YS Rajasekhara Reddy.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f311569602e701ec085",
         "title": "Yatra 2 (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67534f341bd06316f7493405",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Comedy"
-        ],
-        "imdbRating": "6.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
-        "releaseDate": "27-05-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwHCq5RADXcTth2TBF7eUd88wx.jpg",
-        "status": "on",
-        "storyline": "Santosh suffers from a psychological problem that causes him to be insecure about his size. Struggling to find a solution, he erases the idea of marriage altogether until he meets Amrutha, with whom he falls in love.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67534f341bd06316f7493405",
-        "title": "Ek Mini Katha (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1859,29 +1859,6 @@
         }
     },
     {
-        "id": "65351fc14b6bb016b3393a1a",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://fs1.extraimage.org/picupto/2023/10/21/Boyz-4-2023-Marathi-1080p-HQ-S-Print-Download.png",
-        "releaseDate": "20-10-2023",
-        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/10/21/Boyz-4-2023-Marathi-1080p-HQ-S-Print-Download.png",
-        "status": "on",
-        "storyline": "The fourth installment of the 'Boyz' series.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65351fc14b6bb016b3393a1a",
-        "title": "Boyz 4 (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "65351e4ed0496ddbef769976",
         "category": "Tamil",
         "director": "Unknown",
@@ -1898,6 +1875,29 @@
         "storyline": "Four girls open fire at some boys in Panjab University. However, on the same day, the Home Minister of Punjab is kidnapped. Shockingly, the kidnappers turn out to be the same four girls.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65351e4ed0496ddbef769976",
         "title": "Chidiyan Da Chamba (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "65351fc14b6bb016b3393a1a",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://fs1.extraimage.org/picupto/2023/10/21/Boyz-4-2023-Marathi-1080p-HQ-S-Print-Download.png",
+        "releaseDate": "20-10-2023",
+        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/10/21/Boyz-4-2023-Marathi-1080p-HQ-S-Print-Download.png",
+        "status": "on",
+        "storyline": "The fourth installment of the 'Boyz' series.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65351fc14b6bb016b3393a1a",
+        "title": "Boyz 4 (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2100,30 +2100,6 @@
         }
     },
     {
-        "id": "64f23ad1de73340f621e34d3",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Crime",
-            "Thriller"
-        ],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jaR4y8fNb3ZvR3OyERufpfmmY8.jpg",
-        "releaseDate": "07-07-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jaR4y8fNb3ZvR3OyERufpfmmY8.jpg",
-        "status": "on",
-        "storyline": "A series of murders happens in the city, involving a writer, a policeman, and a missing young woman, complicate things for the police department. A CBI officer takes up the case, hardly realising that he's about to unravel something more than he expected.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f23ad1de73340f621e34d3",
-        "title": "Infinity (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64f23a4df7df6943cd4385ba",
         "category": "Tamil",
         "director": "Unknown",
@@ -2141,6 +2117,30 @@
         "storyline": "An unemployed youngster gets a job that puts his life in a Topsy Turvy Game.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f23a4df7df6943cd4385ba",
         "title": "Project C (Chapter 2) (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64f23ad1de73340f621e34d3",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jaR4y8fNb3ZvR3OyERufpfmmY8.jpg",
+        "releaseDate": "07-07-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jaR4y8fNb3ZvR3OyERufpfmmY8.jpg",
+        "status": "on",
+        "storyline": "A series of murders happens in the city, involving a writer, a policeman, and a missing young woman, complicate things for the police department. A CBI officer takes up the case, hardly realising that he's about to unravel something more than he expected.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64f23ad1de73340f621e34d3",
+        "title": "Infinity (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3078,30 +3078,6 @@
         }
     },
     {
-        "id": "64952b1dfa44f2127a9efcd9",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Romance",
-            "Drama"
-        ],
-        "imdbRating": "8.6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAxAbElQyn3iR9ZAfkmYqysADNe.jpg",
-        "releaseDate": "17-06-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAxAbElQyn3iR9ZAfkmYqysADNe.jpg",
-        "status": "on",
-        "storyline": "Chef Nissim, a millennial in Mumbai, finds himself at a crossroads in his love life-- Chef Gowri is a feisty go-getter who likes to live life off the beaten path while Prajakta assures a more serene and stable life. Whether to go all-in with the spice or to choose a sweeter flavour for life, is a choice that Nissim has to make. His liberal, upper middle-class family with a mixed bag of viewpoints doesn't make his decision easier.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64952b1dfa44f2127a9efcd9",
-        "title": "Medium Spicy (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64952d1efa44f2127a9efd48",
         "category": "Tamil",
         "director": "Unknown",
@@ -3121,6 +3097,30 @@
         "storyline": "Narasimha is a man on the run with his one-year-old son. He reaches Kumbakonam and stays at the house of the village temple's dharma karta's house. But while there, he bumps into Gowri who seems to dislike him for some reason, despite being his childhood friend. A death row inmate Rami Reddy also seems to hold a grudge against Narasimha. Who is Narasimha and what did he do to make so many enemies?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64952d1efa44f2127a9efd48",
         "title": "Jai Simha (2018)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64952b1dfa44f2127a9efcd9",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbRating": "8.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAxAbElQyn3iR9ZAfkmYqysADNe.jpg",
+        "releaseDate": "17-06-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAxAbElQyn3iR9ZAfkmYqysADNe.jpg",
+        "status": "on",
+        "storyline": "Chef Nissim, a millennial in Mumbai, finds himself at a crossroads in his love life-- Chef Gowri is a feisty go-getter who likes to live life off the beaten path while Prajakta assures a more serene and stable life. Whether to go all-in with the spice or to choose a sweeter flavour for life, is a choice that Nissim has to make. His liberal, upper middle-class family with a mixed bag of viewpoints doesn't make his decision easier.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64952b1dfa44f2127a9efcd9",
+        "title": "Medium Spicy (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3178,27 +3178,6 @@
         }
     },
     {
-        "id": "64905f1086fbb919270e44c6",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://fs1.extraimage.org/picupto/2023/06/19/Sanam-Mere-Humraaz-2023-Bhojpuri-1080p-HDRip-2.3GB.jpg",
-        "releaseDate": "18-06-2023",
-        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/06/19/Sanam-Mere-Humraaz-2023-Bhojpuri-1080p-HDRip-2.3GB.jpg",
-        "status": "on",
-        "storyline": "",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64905f1086fbb919270e44c6",
-        "title": "Sanam Mere Humraaz (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "649057d4922f798a1e0ddef4",
         "category": "Tamil",
         "director": "Unknown",
@@ -3213,6 +3192,27 @@
         "storyline": "",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/649057d4922f798a1e0ddef4",
         "title": "Ghe Double (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64905f1086fbb919270e44c6",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://fs1.extraimage.org/picupto/2023/06/19/Sanam-Mere-Humraaz-2023-Bhojpuri-1080p-HDRip-2.3GB.jpg",
+        "releaseDate": "18-06-2023",
+        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/06/19/Sanam-Mere-Humraaz-2023-Bhojpuri-1080p-HDRip-2.3GB.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64905f1086fbb919270e44c6",
+        "title": "Sanam Mere Humraaz (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3268,6 +3268,27 @@
         }
     },
     {
+        "id": "64870d2ac9005e1e269db46f",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeARp1bOkV0rVmD8Bzn1pdXrljR.jpg",
+        "releaseDate": "11-06-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeARp1bOkV0rVmD8Bzn1pdXrljR.jpg",
+        "status": "on",
+        "storyline": "Twelve people who gather to gamble at a house party with Rs 12 crore. But at midnight, the lights go out, and the money disappears. No one has entered the house, no one has left. The money isn't found in the house vicinity either.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64870d2ac9005e1e269db46f",
+        "title": "Gulaam Chor (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "64870e3add75851c8cc27e27",
         "category": "Tamil",
         "director": "Unknown",
@@ -3284,27 +3305,6 @@
         "storyline": "A hilarious battle between Mukesh Bhambhani and his wife, Neeta.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64870e3add75851c8cc27e27",
         "title": "Char Fera Nu Chakdol (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "64870d2ac9005e1e269db46f",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeARp1bOkV0rVmD8Bzn1pdXrljR.jpg",
-        "releaseDate": "11-06-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeARp1bOkV0rVmD8Bzn1pdXrljR.jpg",
-        "status": "on",
-        "storyline": "Twelve people who gather to gamble at a house party with Rs 12 crore. But at midnight, the lights go out, and the money disappears. No one has entered the house, no one has left. The money isn't found in the house vicinity either.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64870d2ac9005e1e269db46f",
-        "title": "Gulaam Chor (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3987,30 +3987,6 @@
         }
     },
     {
-        "id": "64554298f24a2eacea5ed8d1",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Romance",
-            "Comedy"
-        ],
-        "imdbRating": "7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg",
-        "releaseDate": "17-03-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg",
-        "status": "on",
-        "storyline": "A heart warming romantic tale of  Sanjay and Anupama and their journey together over the years, about their first met, their growth in friendship, later the love and the drift in relationship.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64554298f24a2eacea5ed8d1",
-        "title": "Phalana Abbayi Phalana Ammayi (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "645489a1e3b4ca0d36ba5ef0",
         "category": "Tamil",
         "director": "Unknown",
@@ -4029,6 +4005,30 @@
         "storyline": "Arjun Kalyan, son of Raghunath, a police constable, ends up becoming a Sub Inspector despite his disinterest in the department. The chain of events that evolve after assuming charge brings him into a face-to-face conflict with home minister Byre Reddy, a crony and criminal politician.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/645489a1e3b4ca0d36ba5ef0",
         "title": "Meter (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64554298f24a2eacea5ed8d1",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Romance",
+            "Comedy"
+        ],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg",
+        "releaseDate": "17-03-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yXcvXk4VCFn3WJW9U7Ka45yvBP.jpg",
+        "status": "on",
+        "storyline": "A heart warming romantic tale of  Sanjay and Anupama and their journey together over the years, about their first met, their growth in friendship, later the love and the drift in relationship.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64554298f24a2eacea5ed8d1",
+        "title": "Phalana Abbayi Phalana Ammayi (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4081,6 +4081,29 @@
         }
     },
     {
+        "id": "644e00a4eaba649d6c397c8e",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg",
+        "releaseDate": "22-03-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg",
+        "status": "on",
+        "storyline": "Based on George Bernard Shaw`s classic Pygmalion, Phulrani revolves around Vikram, who runs a model grooming agency, takes a unique challenge to groom Shevanta, a raw florist girl from Fishermens` Colony into winning a Beauty Pageant. Will it result in a love story?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644e00a4eaba649d6c397c8e",
+        "title": "Phulrani (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "644df03beaba649d6c3977c8",
         "category": "Tamil",
         "director": "Unknown",
@@ -4099,29 +4122,6 @@
         "storyline": "A young man, on the advice of an agent, lies that he is married, to go to London. But his visa application is rejected and now, he has to follow-up with a string of lies to hide one lie.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644df03beaba649d6c3977c8",
         "title": "Shubh Yatra (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "644e00a4eaba649d6c397c8e",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg",
-        "releaseDate": "22-03-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjlMC1ugY8ylKepDiDX7jbzrKw.jpg",
-        "status": "on",
-        "storyline": "Based on George Bernard Shaw`s classic Pygmalion, Phulrani revolves around Vikram, who runs a model grooming agency, takes a unique challenge to groom Shevanta, a raw florist girl from Fishermens` Colony into winning a Beauty Pageant. Will it result in a love story?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644e00a4eaba649d6c397c8e",
-        "title": "Phulrani (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4153,30 +4153,6 @@
         }
     },
     {
-        "id": "644b6a7311728d427fe7d80c",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbRating": "10",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfEeXyXLs6tUlF7FoaGWfcR4zGZ.jpg",
-        "releaseDate": "14-04-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfEeXyXLs6tUlF7FoaGWfcR4zGZ.jpg",
-        "status": "on",
-        "storyline": "Rudhran is a happy IT man living with his family until the moment his life is turned upside down. He comes upon a major criminal network including a businessman, Rudhran embarks on a mission to expose him the criminal network.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644b6a7311728d427fe7d80c",
-        "title": "Rudhran (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64327c20cdcd25bc7364e24f",
         "category": "Tamil",
         "director": "Unknown",
@@ -4195,6 +4171,30 @@
         "storyline": "An investigating officer is assigned to investigate few brutal murders, where he zeroes in on Ravindra, a criminal lawyer who has penchant for secretly committing murders as the mastermind behind the crime.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64327c20cdcd25bc7364e24f",
         "title": "Ravanasura (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "644b6a7311728d427fe7d80c",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "10",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfEeXyXLs6tUlF7FoaGWfcR4zGZ.jpg",
+        "releaseDate": "14-04-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfEeXyXLs6tUlF7FoaGWfcR4zGZ.jpg",
+        "status": "on",
+        "storyline": "Rudhran is a happy IT man living with his family until the moment his life is turned upside down. He comes upon a major criminal network including a businessman, Rudhran embarks on a mission to expose him the criminal network.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644b6a7311728d427fe7d80c",
+        "title": "Rudhran (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5055,29 +5055,6 @@
         }
     },
     {
-        "id": "6409dd91cba06f35edaef2ea",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmQrKxfQaWBAlxqapOasLHuy4oE.jpg",
-        "releaseDate": "20-05-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmQrKxfQaWBAlxqapOasLHuy4oE.jpg",
-        "status": "on",
-        "storyline": "",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6409dd91cba06f35edaef2ea",
-        "title": "Varayan (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6409de7f2009f50dbad90122",
         "category": "Tamil",
         "director": "Unknown",
@@ -5095,6 +5072,29 @@
         "storyline": "",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6409de7f2009f50dbad90122",
         "title": "Kannitheevu (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6409dd91cba06f35edaef2ea",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmQrKxfQaWBAlxqapOasLHuy4oE.jpg",
+        "releaseDate": "20-05-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmQrKxfQaWBAlxqapOasLHuy4oE.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6409dd91cba06f35edaef2ea",
+        "title": "Varayan (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5192,27 +5192,6 @@
         }
     },
     {
-        "id": "6404f23e835db2857a60ef3a",
-        "category": "Tamil",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ytq2FeanCw4JdS8fFDNysUszVo.jpg",
-        "releaseDate": "06-05-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ytq2FeanCw4JdS8fFDNysUszVo.jpg",
-        "status": "on",
-        "storyline": "Nayika Devi, the Warrior Queen is a Historical drama set in the 12th century. The film is about India's first female warrior.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6404f23e835db2857a60ef3a",
-        "title": "Nayika Devi: The Warrior Queen (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "640484b2c048ddb1662858f0",
         "category": "Tamil",
         "director": "Unknown",
@@ -5229,6 +5208,27 @@
         "storyline": "Arun always wanted to be an actor but could never fulfill his dream, for which the village ridiculed him. Angry about his failure, Arun challenges the entire village that his son, Amit, will fulfill his dream and become a superstar. This dream becomes Amit`s journey.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/640484b2c048ddb1662858f0",
         "title": "Satarcha Salman (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6404f23e835db2857a60ef3a",
+        "category": "Tamil",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ytq2FeanCw4JdS8fFDNysUszVo.jpg",
+        "releaseDate": "06-05-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ytq2FeanCw4JdS8fFDNysUszVo.jpg",
+        "status": "on",
+        "storyline": "Nayika Devi, the Warrior Queen is a Historical drama set in the 12th century. The film is about India's first female warrior.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6404f23e835db2857a60ef3a",
+        "title": "Nayika Devi: The Warrior Queen (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",

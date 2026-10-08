@@ -1,5 +1,30 @@
 [
     {
+        "id": "6ac3a2fba284977a582a7b98",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Horror",
+            "Action",
+            "Science Fiction"
+        ],
+        "imdbRating": "8.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "releaseDate": "21-05-2026",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "status": "on",
+        "storyline": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6ac3a2fba284977a582a7b98",
+        "title": "Colony (2026)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6ac0f66e0d8b57fc7019ab64",
         "category": "China",
         "director": "Unknown",
@@ -199,31 +224,6 @@
         }
     },
     {
-        "id": "675314d51569602e701e47ce",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Comedy"
-        ],
-        "imdbRating": "6.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
-        "releaseDate": "19-01-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
-        "status": "on",
-        "storyline": "On the Hokkaido frontier, a war veteran and Ainu girl race against misfits and military renegades to find treasure mapped out on tattooed outlaws.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675314d51569602e701e47ce",
-        "title": "Golden Kamuy (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "675314cca9c4f5ebdd1c289e",
         "category": "China",
         "director": "Unknown",
@@ -243,6 +243,31 @@
         "storyline": "An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675314cca9c4f5ebdd1c289e",
         "title": "A Legend (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "675314d51569602e701e47ce",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdbRating": "6.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
+        "releaseDate": "19-01-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg",
+        "status": "on",
+        "storyline": "On the Hokkaido frontier, a war veteran and Ainu girl race against misfits and military renegades to find treasure mapped out on tattooed outlaws.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675314d51569602e701e47ce",
+        "title": "Golden Kamuy (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -347,29 +372,6 @@
         }
     },
     {
-        "id": "675309661569602e701e3ff0",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Action"
-        ],
-        "imdbRating": "6.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg",
-        "releaseDate": "23-10-2013",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg",
-        "status": "on",
-        "storyline": "Kham is the last in long line of guards who once watched over the King of Thailand's war elephants. Traditionally, only the perfect elephants could successfully help defend the throne, after his harrowing quest to retrieve the elephants, Kham returns to his village to live in peace. But for someone as good in martial arts as him, peace is but a wishful thought.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675309661569602e701e3ff0",
-        "title": "The Protector 2 (2013)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "67530969a6f679272b2acd93",
         "category": "China",
         "director": "Unknown",
@@ -421,22 +423,22 @@
         }
     },
     {
-        "id": "67530902a9c4f5ebdd1c2028",
+        "id": "675309661569602e701e3ff0",
         "category": "China",
         "director": "Unknown",
         "genre": [
-            "Horror"
+            "Action"
         ],
-        "imdbRating": "4.5",
+        "imdbRating": "6.1",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTfgx79VtGnSAmPaYu15SYqXRI.jpg",
-        "releaseDate": "14-05-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTfgx79VtGnSAmPaYu15SYqXRI.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg",
+        "releaseDate": "23-10-2013",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yViXclzp3OE3hWm4wJFkmiCsqxs.jpg",
         "status": "on",
-        "storyline": "Tsukiko is part of the photography club at school, but has always felt less than her sister Tomie. She's cute and very popular among boys. However, one day, Tomie dies in a horrible accident, triggering endless nightmares for Tsukiko. One year later, right when Tomie was supposed to turn 18, someone knocks on the door. Tomie is back.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530902a9c4f5ebdd1c2028",
-        "title": "Tomie: Unlimited (2011)",
+        "storyline": "Kham is the last in long line of guards who once watched over the King of Thailand's war elephants. Traditionally, only the perfect elephants could successfully help defend the throne, after his harrowing quest to retrieve the elephants, Kham returns to his village to live in peace. But for someone as good in martial arts as him, peace is but a wishful thought.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675309661569602e701e3ff0",
+        "title": "The Protector 2 (2013)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -462,6 +464,29 @@
         "storyline": "Tien, the son of Lord Sihadecho — a murdered nobleman — is taken under the wing of Chernang, a renowned warrior and leader of the Pha Beek Krut.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675308fff1df135d5ee2f790",
         "title": "Ong Bak 2 (2008)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "67530902a9c4f5ebdd1c2028",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Horror"
+        ],
+        "imdbRating": "4.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTfgx79VtGnSAmPaYu15SYqXRI.jpg",
+        "releaseDate": "14-05-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogTfgx79VtGnSAmPaYu15SYqXRI.jpg",
+        "status": "on",
+        "storyline": "Tsukiko is part of the photography club at school, but has always felt less than her sister Tomie. She's cute and very popular among boys. However, one day, Tomie dies in a horrible accident, triggering endless nightmares for Tsukiko. One year later, right when Tomie was supposed to turn 18, someone knocks on the door. Tomie is back.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530902a9c4f5ebdd1c2028",
+        "title": "Tomie: Unlimited (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -620,6 +645,29 @@
         }
     },
     {
+        "id": "661cdef15302a26a7f5367fa",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Action"
+        ],
+        "imdbRating": "4.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMruYszOtXuUlzlcHLi4K9ugDd.jpg",
+        "releaseDate": "09-01-1976",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMruYszOtXuUlzlcHLi4K9ugDd.jpg",
+        "status": "on",
+        "storyline": "A movie on the life of the renowned Bruce Lee, especially his relationship with his mistress.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cdef15302a26a7f5367fa",
+        "title": "Bruce Lee and I (1976)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "661cdeebf2a490e5d64658fc",
         "category": "China",
         "director": "Unknown",
@@ -644,29 +692,6 @@
         }
     },
     {
-        "id": "661cdef15302a26a7f5367fa",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Action"
-        ],
-        "imdbRating": "4.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMruYszOtXuUlzlcHLi4K9ugDd.jpg",
-        "releaseDate": "09-01-1976",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMruYszOtXuUlzlcHLi4K9ugDd.jpg",
-        "status": "on",
-        "storyline": "A movie on the life of the renowned Bruce Lee, especially his relationship with his mistress.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cdef15302a26a7f5367fa",
-        "title": "Bruce Lee and I (1976)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "661cdee3fff7eb8b020f6d4c",
         "category": "China",
         "director": "Unknown",
@@ -683,53 +708,6 @@
         "storyline": "Cheng is a young Chinese mainlander who moves in with his expatriate cousins to work at an ice factory in Thailand. He does this with a family promise never to get involved in any fights. However, when members of his family begin disappearing after meeting the management of the factory, the resulting mystery and pressures force him to break that vow and take on the villainy of the Big Boss.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cdee3fff7eb8b020f6d4c",
         "title": "The Big Boss (1971)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "661cd5b4951385f7aea36847",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbRating": "7.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAfBO77XyugIUX1qBQygD15jVAF.jpg",
-        "releaseDate": "10-04-2013",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAfBO77XyugIUX1qBQygD15jVAF.jpg",
-        "status": "on",
-        "storyline": "Three men who share a past participate in a mixed martial arts reality show where they have to fight against other contestants to win the prize money.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cd5b4951385f7aea36847",
-        "title": "Fists of Legend (2013)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "661cd5bbfff7eb8b020f6b1a",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Documentary"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Afc6V16LGYGGIBA4SpwUi3ZkmRA.jpg",
-        "releaseDate": "03-03-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Afc6V16LGYGGIBA4SpwUi3ZkmRA.jpg",
-        "status": "on",
-        "storyline": "Animal Kingdom is a stunning exploration into just what makes our natural world so spectacular.  An educational journey from A-Z, the film introduces junior audiences to animals from all over the world and explores the ways in which we can help to protect them.  Across frozen snowy forests, under scorching African Sun, and into the darkest depths of the ocean, the film will break down why animals are the way they are and answer the simple but important questions that form the basis of our knowledge about the animal world.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cd5bbfff7eb8b020f6b1a",
-        "title": "Animal Kingdom 3D: A Tale of Six Families (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -762,6 +740,29 @@
         }
     },
     {
+        "id": "661cd5bbfff7eb8b020f6b1a",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Documentary"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Afc6V16LGYGGIBA4SpwUi3ZkmRA.jpg",
+        "releaseDate": "03-03-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Afc6V16LGYGGIBA4SpwUi3ZkmRA.jpg",
+        "status": "on",
+        "storyline": "Animal Kingdom is a stunning exploration into just what makes our natural world so spectacular.  An educational journey from A-Z, the film introduces junior audiences to animals from all over the world and explores the ways in which we can help to protect them.  Across frozen snowy forests, under scorching African Sun, and into the darkest depths of the ocean, the film will break down why animals are the way they are and answer the simple but important questions that form the basis of our knowledge about the animal world.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cd5bbfff7eb8b020f6b1a",
+        "title": "Animal Kingdom 3D: A Tale of Six Families (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "661cd5b061613b76f8593440",
         "category": "China",
         "director": "Unknown",
@@ -781,6 +782,30 @@
         "storyline": "A comet crashes into a Japanese forest and a group of mighty ninjas must fight a group of killer Aliens before they reach their village and kill everyone.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cd5b061613b76f8593440",
         "title": "Alien vs. Ninja (2010)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "661cd5b4951385f7aea36847",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbRating": "7.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAfBO77XyugIUX1qBQygD15jVAF.jpg",
+        "releaseDate": "10-04-2013",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAfBO77XyugIUX1qBQygD15jVAF.jpg",
+        "status": "on",
+        "storyline": "Three men who share a past participate in a mixed martial arts reality show where they have to fight against other contestants to win the prize money.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/661cd5b4951385f7aea36847",
+        "title": "Fists of Legend (2013)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -957,31 +982,6 @@
         }
     },
     {
-        "id": "65881d1c29daa71b7494e03b",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "War",
-            "Action",
-            "Thriller"
-        ],
-        "imdbRating": "6.61",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophb3WpBZz5oNLoUbOTelvIzeku.jpg",
-        "releaseDate": "27-07-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophb3WpBZz5oNLoUbOTelvIzeku.jpg",
-        "status": "on",
-        "storyline": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65881d1c29daa71b7494e03b",
-        "title": "Wolf Warrior 2 (2017)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "65881d1861f3d9874d912a4a",
         "category": "China",
         "director": "Unknown",
@@ -1000,6 +1000,31 @@
         "storyline": "A Chinese special force soldier with extraordinary marksmanship is confronted by a group of deadly foreign mercenaries who are hired to assassinate him by a vicious drug lord.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65881d1861f3d9874d912a4a",
         "title": "Wolf Warrior (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "65881d1c29daa71b7494e03b",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "War",
+            "Action",
+            "Thriller"
+        ],
+        "imdbRating": "6.61",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophb3WpBZz5oNLoUbOTelvIzeku.jpg",
+        "releaseDate": "27-07-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophb3WpBZz5oNLoUbOTelvIzeku.jpg",
+        "status": "on",
+        "storyline": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/65881d1c29daa71b7494e03b",
+        "title": "Wolf Warrior 2 (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1439,30 +1464,6 @@
         }
     },
     {
-        "id": "647414315cb512df0e943c2c",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "History"
-        ],
-        "imdbRating": "7.8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6wUbxuNnfue4bf7hF5SdX1yfe.jpg",
-        "releaseDate": "13-08-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6wUbxuNnfue4bf7hF5SdX1yfe.jpg",
-        "status": "on",
-        "storyline": "On a 1980s evening, the topmost clown-actor of the 20th century Sichuan opera, Qiu Fu passes away in an accident and half-unwillingly sets off for the Ghost City under the escort of two underworld officials. Along the way, he meets old friends. As they recall the past, a history of the living is conjured up.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647414315cb512df0e943c2c",
-        "title": "A New Old Play (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "647414bd8509967fceb7f0ec",
         "category": "China",
         "director": "Unknown",
@@ -1489,22 +1490,23 @@
         }
     },
     {
-        "id": "646ac78c7ee037e30dd85b9b",
+        "id": "647414315cb512df0e943c2c",
         "category": "China",
         "director": "Unknown",
         "genre": [
-            "Horror"
+            "Drama",
+            "History"
         ],
-        "imdbRating": "6",
+        "imdbRating": "7.8",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbhetOQ8zyJkF0AxxCaIgQ9KkGr.jpg",
-        "releaseDate": "09-08-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbhetOQ8zyJkF0AxxCaIgQ9KkGr.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6wUbxuNnfue4bf7hF5SdX1yfe.jpg",
+        "releaseDate": "13-08-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qH6wUbxuNnfue4bf7hF5SdX1yfe.jpg",
         "status": "on",
-        "storyline": "Recruit Tommy - a socially awkward individual, is the subject of teasing and bullying by his army mates. He seeks comfort from the compliments left by his readers on his blog that features fictitious army horror stories he writes in his free time.  Tommy’s articles were well-received by his readers, from the story of a sinister spirit that haunts the pioneer batch of National Service cadets enlisted in 1967; to the strange encounters of a commando unit in 1983, believed to be the doings of a vengeful, seductive python spirit…  Among the messages received, an attractive reader who praised Tommy for his article caught his eyes. Mesmerized by her looks, Tommy imagines being in a relationship with her and even doctored pictures of them together.  One day, he received a text message from her and things started to go awry…",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646ac78c7ee037e30dd85b9b",
-        "title": "23:59: The Haunting Hour (2018)",
+        "storyline": "On a 1980s evening, the topmost clown-actor of the 20th century Sichuan opera, Qiu Fu passes away in an accident and half-unwillingly sets off for the Ghost City under the escort of two underworld officials. Along the way, he meets old friends. As they recall the past, a history of the living is conjured up.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/647414315cb512df0e943c2c",
+        "title": "A New Old Play (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1529,6 +1531,29 @@
         "storyline": "It tells the story of a mother’s desperation to locate her child when the abductor dies before her child can be located. With time running out, the child’s mother seeks the assistance of a spiritual medium.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646ac6fe0d06a8ceae3d44a1",
         "title": "Kidnapped Soul (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "646ac78c7ee037e30dd85b9b",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Horror"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbhetOQ8zyJkF0AxxCaIgQ9KkGr.jpg",
+        "releaseDate": "09-08-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbhetOQ8zyJkF0AxxCaIgQ9KkGr.jpg",
+        "status": "on",
+        "storyline": "Recruit Tommy - a socially awkward individual, is the subject of teasing and bullying by his army mates. He seeks comfort from the compliments left by his readers on his blog that features fictitious army horror stories he writes in his free time.  Tommy’s articles were well-received by his readers, from the story of a sinister spirit that haunts the pioneer batch of National Service cadets enlisted in 1967; to the strange encounters of a commando unit in 1983, believed to be the doings of a vengeful, seductive python spirit…  Among the messages received, an attractive reader who praised Tommy for his article caught his eyes. Mesmerized by her looks, Tommy imagines being in a relationship with her and even doctored pictures of them together.  One day, he received a text message from her and things started to go awry…",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/646ac78c7ee037e30dd85b9b",
+        "title": "23:59: The Haunting Hour (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1852,29 +1877,6 @@
         }
     },
     {
-        "id": "6450ce14bd4bdc03b14b5d40",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Science Fiction"
-        ],
-        "imdbRating": "7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLa3mAEvv0nw2pkHFTRLyHW4W4o.jpg",
-        "releaseDate": "10-03-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLa3mAEvv0nw2pkHFTRLyHW4W4o.jpg",
-        "status": "on",
-        "storyline": "Jian Bei, an unassuming debt collector must care for his sister who has a terminal illness. In order to pay for her treatment, he agrees to undergo an unconventional procedure that results in giving him an ability called Buddha Palm. This super human strength helps him complete a series of three trials, each providing a secret ingredient that can cure his sister's illness. Will he be able to complete these tasks and obtain the cure for his sister?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6450ce14bd4bdc03b14b5d40",
-        "title": "Buddha Palm Technique (2020)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6450ce0aeea6711f0802adc6",
         "category": "China",
         "director": "Unknown",
@@ -1900,20 +1902,22 @@
         }
     },
     {
-        "id": "644f8649dae27cfc019476f2",
+        "id": "6450ce14bd4bdc03b14b5d40",
         "category": "China",
         "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.8",
+        "genre": [
+            "Science Fiction"
+        ],
+        "imdbRating": "7",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2IxYzM1YjMtM2UwMy00NjQzLThiYmQtYzUwZDUyYmUxOGQxXkEyXkFqcGdeQXVyNzEyMzM0MDI@._V1_FMjpg_UX1000_.jpg",
-        "releaseDate": "04-04-2022",
-        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BM2IxYzM1YjMtM2UwMy00NjQzLThiYmQtYzUwZDUyYmUxOGQxXkEyXkFqcGdeQXVyNzEyMzM0MDI@._V1_FMjpg_UX1000_.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLa3mAEvv0nw2pkHFTRLyHW4W4o.jpg",
+        "releaseDate": "10-03-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLa3mAEvv0nw2pkHFTRLyHW4W4o.jpg",
         "status": "on",
-        "storyline": "During the Period of the Republic of China, the land was devastated by domestic troubles and foreign aggression. When foreign powers plunder China's cultural relics, revolutionary Liu Yunfei rallies capable folk to protect the treasure from being looted and embarks on an adventure with the forces of all sides. They all went to find the treasure that buries at the bottom of the valley, unexpectedly, somebody want to steal the money and touched the trigger of mechanism, the mountain collapsed. Liu Yunfei sacrifices himself to rescue the people.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644f8649dae27cfc019476f2",
-        "title": "Hopeless Situation (2022)",
+        "storyline": "Jian Bei, an unassuming debt collector must care for his sister who has a terminal illness. In order to pay for her treatment, he agrees to undergo an unconventional procedure that results in giving him an ability called Buddha Palm. This super human strength helps him complete a series of three trials, each providing a secret ingredient that can cure his sister's illness. Will he be able to complete these tasks and obtain the cure for his sister?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6450ce14bd4bdc03b14b5d40",
+        "title": "Buddha Palm Technique (2020)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1938,6 +1942,27 @@
         "storyline": "",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644f8626a3deb77d0a9c4132",
         "title": "The Legend of Mermaid 2 (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "644f8649dae27cfc019476f2",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2IxYzM1YjMtM2UwMy00NjQzLThiYmQtYzUwZDUyYmUxOGQxXkEyXkFqcGdeQXVyNzEyMzM0MDI@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": "04-04-2022",
+        "sliderUrl": "https://m.media-amazon.com/images/M/MV5BM2IxYzM1YjMtM2UwMy00NjQzLThiYmQtYzUwZDUyYmUxOGQxXkEyXkFqcGdeQXVyNzEyMzM0MDI@._V1_FMjpg_UX1000_.jpg",
+        "status": "on",
+        "storyline": "During the Period of the Republic of China, the land was devastated by domestic troubles and foreign aggression. When foreign powers plunder China's cultural relics, revolutionary Liu Yunfei rallies capable folk to protect the treasure from being looted and embarks on an adventure with the forces of all sides. They all went to find the treasure that buries at the bottom of the valley, unexpectedly, somebody want to steal the money and touched the trigger of mechanism, the mountain collapsed. Liu Yunfei sacrifices himself to rescue the people.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/644f8649dae27cfc019476f2",
+        "title": "Hopeless Situation (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2136,6 +2161,29 @@
         }
     },
     {
+        "id": "6448e9bf4e0e7e2f9c0708bb",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Horror"
+        ],
+        "imdbRating": "5.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzL3LJ8wJ9U8ZMkUGPdC5xqukuc.jpg",
+        "releaseDate": "06-07-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzL3LJ8wJ9U8ZMkUGPdC5xqukuc.jpg",
+        "status": "on",
+        "storyline": "After the popular horror series \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video) and \"Sealed Videos\" (Fūin eizō) unleashed a new generation in horror, we bring you volume 3 in the ultimate horror video collection!  The occult, the grotesque, the gruesome madness and criminal behaviour of man and of course spiritism. A variety of hundreds of videos were recorded by chance and buried in the darkness.  \"The Cursed Box\"  For a DVD project on spiritism, a film crew embarks into haunted ruins to call out Kokkuri-san. Unfortunately, the project has dire consequences for the crew...  \"Mountain Pass at Night\"  Two men go for a drive at night to purchase a car. But as they reach the mountain pass, a mysterious presence appears in the road...  \"Gravure Video\"  While shooting a gravure idol video for internet distribution, filmin is forced to stop prematurely. Does it have anything to do with the rosary the idol picked up in the park?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e9bf4e0e7e2f9c0708bb",
+        "title": "Tokyo Videos of Horror 3 (2012)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "6448e8d0d5860c7e48c78e8c",
         "category": "China",
         "director": "Unknown",
@@ -2152,6 +2200,27 @@
         "storyline": "After Kazuto Kodama's popular horror series \"The Real Deal. Cursed Videos\" (Honto ni Atta. Noroi no Video) unleashed a new generation in horror, the pursuit of fear continues to evolve with volume 8 in the ultimate horror video collection. Anything from the occult, the grotesque, the gruesome madness and violent behavior of man, bizarre incidents and of course spiritualism. A collection of videos recorded by chance and buried in the darkness, bundled into a movie that challenges every single taboo.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e8d0d5860c7e48c78e8c",
         "title": "Tokyo Videos of Horror 8 (2013)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6448e91ce2904d8ace455354",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "5.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL0j2VCtnodsIStMHQXo9EO1JnZ.jpg",
+        "releaseDate": "07-02-2014",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL0j2VCtnodsIStMHQXo9EO1JnZ.jpg",
+        "status": "on",
+        "storyline": "Volume 9 of the ultimate horror collection following Kazuto Kodama's \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video).  A group of college students, take pictures while pulling a prank on their friend. However, when an ominous presence appears, unforseen events start to happen.  \"Confession\" mere one of the 5 episodes collected on this volume.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e91ce2904d8ace455354",
+        "title": "Tokyo Videos of Horror 9 (2014)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2182,50 +2251,6 @@
         }
     },
     {
-        "id": "6448e9bf4e0e7e2f9c0708bb",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Horror"
-        ],
-        "imdbRating": "5.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzL3LJ8wJ9U8ZMkUGPdC5xqukuc.jpg",
-        "releaseDate": "06-07-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzL3LJ8wJ9U8ZMkUGPdC5xqukuc.jpg",
-        "status": "on",
-        "storyline": "After the popular horror series \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video) and \"Sealed Videos\" (Fūin eizō) unleashed a new generation in horror, we bring you volume 3 in the ultimate horror video collection!  The occult, the grotesque, the gruesome madness and criminal behaviour of man and of course spiritism. A variety of hundreds of videos were recorded by chance and buried in the darkness.  \"The Cursed Box\"  For a DVD project on spiritism, a film crew embarks into haunted ruins to call out Kokkuri-san. Unfortunately, the project has dire consequences for the crew...  \"Mountain Pass at Night\"  Two men go for a drive at night to purchase a car. But as they reach the mountain pass, a mysterious presence appears in the road...  \"Gravure Video\"  While shooting a gravure idol video for internet distribution, filmin is forced to stop prematurely. Does it have anything to do with the rosary the idol picked up in the park?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e9bf4e0e7e2f9c0708bb",
-        "title": "Tokyo Videos of Horror 3 (2012)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6448e91ce2904d8ace455354",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "5.7",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL0j2VCtnodsIStMHQXo9EO1JnZ.jpg",
-        "releaseDate": "07-02-2014",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL0j2VCtnodsIStMHQXo9EO1JnZ.jpg",
-        "status": "on",
-        "storyline": "Volume 9 of the ultimate horror collection following Kazuto Kodama's \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video).  A group of college students, take pictures while pulling a prank on their friend. However, when an ominous presence appears, unforseen events start to happen.  \"Confession\" mere one of the 5 episodes collected on this volume.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e91ce2904d8ace455354",
-        "title": "Tokyo Videos of Horror 9 (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6448e7b74e0e7e2f9c0707f8",
         "category": "China",
         "director": "Unknown",
@@ -2242,29 +2267,6 @@
         "storyline": "The pursuit of fear continues. After Kazuto Kodama's popular horror series \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video) unleashed a new generation in horror, we bring you volume 6 in the ultimate horror video collection!  The occult, the grotesque, the gruesome madness and criminal behaviour of man and of course spiritism. A collection of videos recorded by chance and buried in the darkness.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e7b74e0e7e2f9c0707f8",
         "title": "Tokyo Videos of Horror 6 (2013)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6448e6fad5860c7e48c78e03",
-        "category": "China",
-        "director": "Unknown",
-        "genre": [
-            "Horror"
-        ],
-        "imdbRating": "5.8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58nrHWy59FII4frV4xmeTV0AgqZ.jpg",
-        "releaseDate": "07-12-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58nrHWy59FII4frV4xmeTV0AgqZ.jpg",
-        "status": "on",
-        "storyline": "After Kazuto Kodama's popular horror series \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video) unleashed a new generation in horror, we bring you volume 4 in the ultimate horror video collection!  The occult, the grotesque, the gruesome madness and criminal behaviour of man and of course spiritism. A variety of hundreds of videos were recorded by chance and buried in the darkness.  It challenges every single taboo like no other, with the entire production being self-regulated.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e6fad5860c7e48c78e03",
-        "title": "Tokyo Videos of Horror 4 (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2295,22 +2297,22 @@
         }
     },
     {
-        "id": "6448e633e2904d8ace45524b",
+        "id": "6448e6fad5860c7e48c78e03",
         "category": "China",
         "director": "Unknown",
         "genre": [
             "Horror"
         ],
-        "imdbRating": "5.5",
+        "imdbRating": "5.8",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owKedUcaXk77bD9yUF8XdUQAVOL.jpg",
-        "releaseDate": "06-01-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owKedUcaXk77bD9yUF8XdUQAVOL.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58nrHWy59FII4frV4xmeTV0AgqZ.jpg",
+        "releaseDate": "07-12-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/58nrHWy59FII4frV4xmeTV0AgqZ.jpg",
         "status": "on",
-        "storyline": "\"Those who invited the end of summer night\"  A couple was enjoying the summer fireworks at the riverside, when they follow a mysterious presence and get the shock of a lifetime. The river is the scene of an unresolved crimescene.  \"Passing woman\"  A group of friends enjoyed a day at the riverside. While driving home, a mysterious woman passes by the car... and boards it.  \"Grave keeper\"  A grave keeper tends to a gravesite at 2am in the morning, when he records something strange...  \"A game of Gomoku\"  This video was shot with a Hi-8 camera, during a family holiday. During the game however, a deformed figure appears...  \"Vengeance\"  Recorded by an illegal orginazation. Woman who is intimidated by men and forced to consume a drug, performs a blade-ritual while wearing a white gown. The ultimate shock video!",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e633e2904d8ace45524b",
-        "title": "Tokyo Videos of Horror (2012)",
+        "storyline": "After Kazuto Kodama's popular horror series \"The Real Deal! Cursed Videos\" (Honto ni Atta! Noroi no Video) unleashed a new generation in horror, we bring you volume 4 in the ultimate horror video collection!  The occult, the grotesque, the gruesome madness and criminal behaviour of man and of course spiritism. A variety of hundreds of videos were recorded by chance and buried in the darkness.  It challenges every single taboo like no other, with the entire production being self-regulated.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e6fad5860c7e48c78e03",
+        "title": "Tokyo Videos of Horror 4 (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2358,6 +2360,29 @@
         "storyline": "In the years after the Revolution, China broken up into fiefdoms held by warlords, who are busy fighting each other. One warlord has imprisoned a girl and wants her to be his seventh wife, but he's too honorable to force her. The local revolutionaries wants to kill him and bring back the republic. But when a stranger returns from abroad with mastery of magic to recover the girl he loved, who is tricking whom and who will win at the end?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6447b0686d66187d6d83d206",
         "title": "The Great Magician (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6448e633e2904d8ace45524b",
+        "category": "China",
+        "director": "Unknown",
+        "genre": [
+            "Horror"
+        ],
+        "imdbRating": "5.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owKedUcaXk77bD9yUF8XdUQAVOL.jpg",
+        "releaseDate": "06-01-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owKedUcaXk77bD9yUF8XdUQAVOL.jpg",
+        "status": "on",
+        "storyline": "\"Those who invited the end of summer night\"  A couple was enjoying the summer fireworks at the riverside, when they follow a mysterious presence and get the shock of a lifetime. The river is the scene of an unresolved crimescene.  \"Passing woman\"  A group of friends enjoyed a day at the riverside. While driving home, a mysterious woman passes by the car... and boards it.  \"Grave keeper\"  A grave keeper tends to a gravesite at 2am in the morning, when he records something strange...  \"A game of Gomoku\"  This video was shot with a Hi-8 camera, during a family holiday. During the game however, a deformed figure appears...  \"Vengeance\"  Recorded by an illegal orginazation. Woman who is intimidated by men and forced to consume a drug, performs a blade-ritual while wearing a white gown. The ultimate shock video!",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6448e633e2904d8ace45524b",
+        "title": "Tokyo Videos of Horror (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
