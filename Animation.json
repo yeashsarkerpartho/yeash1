@@ -417,30 +417,6 @@
         }
     },
     {
-        "id": "68871c3f8edb3a5fbbd6811c",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family"
-        ],
-        "imdbRating": "7.02",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg",
-        "releaseDate": "27-09-2003",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg",
-        "status": "on",
-        "storyline": "Barbie as Odette, the young daughter of a baker, follows a unicorn into the Enchanted Forest and is transformed into a swan by an evil wizard intent on defeating the Fairy Queen.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68871c3f8edb3a5fbbd6811c",
-        "title": "Barbie of Swan Lake (2003)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "68871c438edb3a5fbbd68122",
         "category": "Animation",
         "director": "Unknown",
@@ -459,6 +435,30 @@
         "storyline": "Three moments in Takaki's life: his relationship with Akari and their forced separation; his friendship with Kanae, who is secretly in love with him; the demands and disappointments of adulthood, an unhappy life in a cold city.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68871c438edb3a5fbbd68122",
         "title": "5 Centimeters per Second (2007)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "68871c3f8edb3a5fbbd6811c",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "imdbRating": "7.02",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg",
+        "releaseDate": "27-09-2003",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpCLVQWTU7BI4yAL6kIFM9J3eX.jpg",
+        "status": "on",
+        "storyline": "Barbie as Odette, the young daughter of a baker, follows a unicorn into the Enchanted Forest and is transformed into a swan by an evil wizard intent on defeating the Fairy Queen.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/68871c3f8edb3a5fbbd6811c",
+        "title": "Barbie of Swan Lake (2003)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -492,57 +492,6 @@
         }
     },
     {
-        "id": "6857c8eb8edb3a5fbbbd0513",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Science Fiction",
-            "Comedy",
-            "Family"
-        ],
-        "imdbRating": "7.71",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-        "releaseDate": "19-12-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-        "status": "on",
-        "storyline": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c8eb8edb3a5fbbbd0513",
-        "title": "Sonic the Hedgehog 3 (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6857c9188edb3a5fbbbd05bd",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "TV Movie"
-        ],
-        "imdbRating": "7.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjG4GAsQ89NpYzVtZ06aClxu5aG.jpg",
-        "releaseDate": "24-05-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjG4GAsQ89NpYzVtZ06aClxu5aG.jpg",
-        "status": "on",
-        "storyline": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c9188edb3a5fbbbd05bd",
-        "title": "South Park: The End of Obesity (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6857c9538edb3a5fbbbd0633",
         "category": "Animation",
         "director": "Unknown",
@@ -568,24 +517,24 @@
         }
     },
     {
-        "id": "6857c8788edb3a5fbbbd0357",
+        "id": "6857c9188edb3a5fbbbd05bd",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
             "Animation",
-            "Drama",
-            "Comedy"
+            "Comedy",
+            "TV Movie"
         ],
-        "imdbRating": "8.09",
+        "imdbRating": "7.5",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
-        "releaseDate": "17-10-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjG4GAsQ89NpYzVtZ06aClxu5aG.jpg",
+        "releaseDate": "24-05-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjG4GAsQ89NpYzVtZ06aClxu5aG.jpg",
         "status": "on",
-        "storyline": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c8788edb3a5fbbbd0357",
-        "title": "Memoir of a Snail (2024)",
+        "storyline": "The advent of new weight loss drugs has a huge impact on everyone in South Park. When Cartman is denied access to the life-changing medicine, the kids jump into action.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c9188edb3a5fbbbd05bd",
+        "title": "South Park: The End of Obesity (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -619,24 +568,24 @@
         }
     },
     {
-        "id": "6857c80c8edb3a5fbbbd01a0",
+        "id": "6857c8788edb3a5fbbbd0357",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
             "Animation",
-            "Adventure",
+            "Drama",
             "Comedy"
         ],
-        "imdbRating": "6.79",
+        "imdbRating": "8.09",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFzHd71e1d82VYrhx0m0bxE9lrL.jpg",
-        "releaseDate": "13-07-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFzHd71e1d82VYrhx0m0bxE9lrL.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+        "releaseDate": "17-10-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
         "status": "on",
-        "storyline": "Charlie, a wise-cracking, homeless, American orphan is magically transported to the ancient Chinese kingdom of Sanxingdui, where a colorful team of superheroes need his help to defend the city from a brutal conqueror. Charlie joins the heroes, and secretly schemes to steal the priceless golden masks that grant them their powers.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c80c8edb3a5fbbbd01a0",
-        "title": "Heroes of the Golden Mask (2023)",
+        "storyline": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c8788edb3a5fbbbd0357",
+        "title": "Memoir of a Snail (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -664,6 +613,57 @@
         "storyline": "When thrill-seeker Cricket tricks his family into taking a \"road trip\" in space, chaos in the cosmos quickly ensues. Despite growing frustrations between Cricket and his dad, Bill, the two must learn to appreciate each other's unique perspectives in order to prevent Big City from being destroyed by an interstellar disaster.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c8348edb3a5fbbbd021a",
         "title": "Big City Greens the Movie: Spacecation (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6857c80c8edb3a5fbbbd01a0",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdbRating": "6.79",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFzHd71e1d82VYrhx0m0bxE9lrL.jpg",
+        "releaseDate": "13-07-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFzHd71e1d82VYrhx0m0bxE9lrL.jpg",
+        "status": "on",
+        "storyline": "Charlie, a wise-cracking, homeless, American orphan is magically transported to the ancient Chinese kingdom of Sanxingdui, where a colorful team of superheroes need his help to defend the city from a brutal conqueror. Charlie joins the heroes, and secretly schemes to steal the priceless golden masks that grant them their powers.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c80c8edb3a5fbbbd01a0",
+        "title": "Heroes of the Golden Mask (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6857c8eb8edb3a5fbbbd0513",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Science Fiction",
+            "Comedy",
+            "Family"
+        ],
+        "imdbRating": "7.71",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "releaseDate": "19-12-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "status": "on",
+        "storyline": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6857c8eb8edb3a5fbbbd0513",
+        "title": "Sonic the Hedgehog 3 (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1104,29 +1104,6 @@
         }
     },
     {
-        "id": "675309541569602e701e3fea",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Comedy"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouMTTzQ0lgt25eVCqyJqHiHT02t.jpg",
-        "releaseDate": "01-01-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouMTTzQ0lgt25eVCqyJqHiHT02t.jpg",
-        "status": "on",
-        "storyline": "Motu and Patlu decide to participate in the race to help their village's development. Soon after, they land in France, where they face off against talented racers from various parts of the world. Will they emerge victorious?",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675309541569602e701e3fea",
-        "title": "Motu Patlu & The Race to the Diamond Valley (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "675309f6a9c4f5ebdd1c2107",
         "category": "Animation",
         "director": "Unknown",
@@ -1146,6 +1123,29 @@
         "storyline": "A young adventurous panda travels from China to Africa to rescue his best friend, Jielong the Dragon, who has been kidnapped. On his journey, he discovers a strange amazing new world of mountains, deserts and jungles.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675309f6a9c4f5ebdd1c2107",
         "title": "Panda Bear in Africa (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "675309541569602e701e3fea",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouMTTzQ0lgt25eVCqyJqHiHT02t.jpg",
+        "releaseDate": "01-01-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouMTTzQ0lgt25eVCqyJqHiHT02t.jpg",
+        "status": "on",
+        "storyline": "Motu and Patlu decide to participate in the race to help their village's development. Soon after, they land in France, where they face off against talented racers from various parts of the world. Will they emerge victorious?",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675309541569602e701e3fea",
+        "title": "Motu Patlu & The Race to the Diamond Valley (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1233,6 +1233,32 @@
         }
     },
     {
+        "id": "67530538a6f679272b2acb0d",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Science Fiction",
+            "Family"
+        ],
+        "imdbRating": "7.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5419ITVJm0VmvrNrbPh47ujNSjD.jpg",
+        "releaseDate": "10-02-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5419ITVJm0VmvrNrbPh47ujNSjD.jpg",
+        "status": "on",
+        "storyline": "When Vick gets a chance to start his life again as a logger, he must save his friends by embarking on an adventure through time and space.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530538a6f679272b2acb0d",
+        "title": "Boonie Bears: Time Twist (2024)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "67530534a9c4f5ebdd1c1d80",
         "category": "Animation",
         "director": "Unknown",
@@ -1253,32 +1279,6 @@
         "storyline": "Amanda and her imaginary friend Rudger go on thrilling make-believe adventures. But when Rudger finds himself alone, he faces a mysterious threat.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530534a9c4f5ebdd1c1d80",
         "title": "The Imaginary (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "67530538a6f679272b2acb0d",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Science Fiction",
-            "Family"
-        ],
-        "imdbRating": "7.8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5419ITVJm0VmvrNrbPh47ujNSjD.jpg",
-        "releaseDate": "10-02-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5419ITVJm0VmvrNrbPh47ujNSjD.jpg",
-        "status": "on",
-        "storyline": "When Vick gets a chance to start his life again as a logger, he must save his friends by embarking on an adventure through time and space.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530538a6f679272b2acb0d",
-        "title": "Boonie Bears: Time Twist (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1315,31 +1315,6 @@
         }
     },
     {
-        "id": "675304faf1df135d5ee2f4f4",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Adventure",
-            "Family"
-        ],
-        "imdbRating": "6.9",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66OgShb92ZCSJxMe3pvhCUOLKcd.jpg",
-        "releaseDate": "21-07-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66OgShb92ZCSJxMe3pvhCUOLKcd.jpg",
-        "status": "on",
-        "storyline": "It's the summer holiday, and Little Allan is home alone. But his older neighbor Helge will take care of him. Helge is fascinated by space, and it doesn't take long before Little Allan is pulled into Helge's plan to get in contact with aliens.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675304faf1df135d5ee2f4f4",
-        "title": "The Little Alien (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "675304aaa8919c414d6429db",
         "category": "Animation",
         "director": "Unknown",
@@ -1365,24 +1340,24 @@
         }
     },
     {
-        "id": "675304a41bd06316f748b010",
+        "id": "675304faf1df135d5ee2f4f4",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
             "Animation",
-            "Family",
-            "Fantasy"
+            "Adventure",
+            "Family"
         ],
-        "imdbRating": "5.5",
+        "imdbRating": "6.9",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg",
-        "releaseDate": "30-09-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66OgShb92ZCSJxMe3pvhCUOLKcd.jpg",
+        "releaseDate": "21-07-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66OgShb92ZCSJxMe3pvhCUOLKcd.jpg",
         "status": "on",
-        "storyline": "11-year-old gaming enthusiast Hedvig finds her life turned upside down when she is forced to replace her father as the town’s superhero much earlier than expected. But Hedvig is no superhero, and the challenges are far greater than her coaching father anticipated.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675304a41bd06316f748b010",
-        "title": "Just Super (2022)",
+        "storyline": "It's the summer holiday, and Little Allan is home alone. But his older neighbor Helge will take care of him. Helge is fascinated by space, and it doesn't take long before Little Allan is pulled into Helge's plan to get in contact with aliens.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675304faf1df135d5ee2f4f4",
+        "title": "The Little Alien (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1467,31 +1442,6 @@
         }
     },
     {
-        "id": "6753043ea8919c414d64290f",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Adventure"
-        ],
-        "imdbRating": "5.6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOkneb52OKjvNuPIJCJLUBNQtF5.jpg",
-        "releaseDate": "05-10-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOkneb52OKjvNuPIJCJLUBNQtF5.jpg",
-        "status": "on",
-        "storyline": "Quebec, 1956. The impulsive and headstrong Nelly Maloye, a novice private eye, joins the methodical and pragmatic Simon Picard, a research scientist in a dubious quest to prove the existence of the elusive Yeti. The brave-hearted heroes come face-to-face with countless dangers during their trek through the heart of the Himalayas.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753043ea8919c414d64290f",
-        "title": "Mission Kathmandu: The Adventures of Nelly & Simon (2017)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "67530440a6f679272b2aca14",
         "category": "Animation",
         "director": "Unknown",
@@ -1510,6 +1460,56 @@
         "storyline": "Shin-chan is all set to challenge Kung Fu in the Chinatown of Kasukabe city, known as Aiyā Town.  He and the Kasukabe Defence Force are going to put up a totally no-stunt Kung Fu challenge on the stage.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/67530440a6f679272b2aca14",
         "title": "Crayon Shin-chan: Burst Serving! Kung Fu Boys ~Ramen Rebellion~ (2018)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "675304a41bd06316f748b010",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "imdbRating": "5.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg",
+        "releaseDate": "30-09-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg",
+        "status": "on",
+        "storyline": "11-year-old gaming enthusiast Hedvig finds her life turned upside down when she is forced to replace her father as the town’s superhero much earlier than expected. But Hedvig is no superhero, and the challenges are far greater than her coaching father anticipated.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/675304a41bd06316f748b010",
+        "title": "Just Super (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6753043ea8919c414d64290f",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "imdbRating": "5.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOkneb52OKjvNuPIJCJLUBNQtF5.jpg",
+        "releaseDate": "05-10-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOkneb52OKjvNuPIJCJLUBNQtF5.jpg",
+        "status": "on",
+        "storyline": "Quebec, 1956. The impulsive and headstrong Nelly Maloye, a novice private eye, joins the methodical and pragmatic Simon Picard, a research scientist in a dubious quest to prove the existence of the elusive Yeti. The brave-hearted heroes come face-to-face with countless dangers during their trek through the heart of the Himalayas.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6753043ea8919c414d64290f",
+        "title": "Mission Kathmandu: The Adventures of Nelly & Simon (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -1644,32 +1644,6 @@
         }
     },
     {
-        "id": "66261a66bb809a1b4b3ff9cb",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Drama",
-            "Family"
-        ],
-        "imdbRating": "0",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ocNGfKViLyvNv6m52lW0LVzU2Q.jpg",
-        "releaseDate": "19-04-2024",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ocNGfKViLyvNv6m52lW0LVzU2Q.jpg",
-        "status": "on",
-        "storyline": "Elephant calf Appu undertakes perilous journey across ocean and treacherous forest to save father from poachers' grip, aided by loyal dog Tiger and runaway child Neena, uncovering his extraordinary abilities.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/66261a66bb809a1b4b3ff9cb",
-        "title": "APPU (2024)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6625f54b2b4076633d1f9c1b",
         "category": "Animation",
         "director": "Unknown",
@@ -1690,6 +1664,32 @@
         "storyline": "When Casper's been being friendly lately even when playing with a boy named Jimmy, Kibosh: The King of the Underworld has Casper enrolled into a Scare School headed by the two-headed headmaster Alder and Dash. He befriends Ra, a mummy with unraveling issues and Mantha, a zombie girl who keeps falling apart. When Casper discovers the two-headed headmaster's plot to use a petrification potion to turn Kibosh into stone and take over the Underworld and Deedstown, he and his new friends must stop him.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6625f54b2b4076633d1f9c1b",
         "title": "Casper's Scare School (2006)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "66261a66bb809a1b4b3ff9cb",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "imdbRating": "0",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ocNGfKViLyvNv6m52lW0LVzU2Q.jpg",
+        "releaseDate": "19-04-2024",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ocNGfKViLyvNv6m52lW0LVzU2Q.jpg",
+        "status": "on",
+        "storyline": "Elephant calf Appu undertakes perilous journey across ocean and treacherous forest to save father from poachers' grip, aided by loyal dog Tiger and runaway child Neena, uncovering his extraordinary abilities.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/66261a66bb809a1b4b3ff9cb",
+        "title": "APPU (2024)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2765,31 +2765,6 @@
         }
     },
     {
-        "id": "64bb642110cf9a0528719117",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Action",
-            "Horror"
-        ],
-        "imdbRating": "8.45",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
-        "releaseDate": "22-06-2023",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
-        "status": "on",
-        "storyline": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64bb642110cf9a0528719117",
-        "title": "Resident Evil: Death Island (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64bb63fd545159a05eafa38f",
         "category": "Animation",
         "director": "Unknown",
@@ -2815,24 +2790,24 @@
         }
     },
     {
-        "id": "64b8303c46e150397a514ddd",
+        "id": "64bb642110cf9a0528719117",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
             "Animation",
-            "Adventure",
-            "Family"
+            "Action",
+            "Horror"
         ],
-        "imdbRating": "6",
+        "imdbRating": "8.45",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXXQxM4ZlmoiqQD053k8GFyegR.jpg",
-        "releaseDate": "18-07-2013",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXXQxM4ZlmoiqQD053k8GFyegR.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
+        "releaseDate": "22-06-2023",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
         "status": "on",
-        "storyline": "A half-striped zebra is blamed for the drought and leaves his herd in search of his missing stripes. He is joined on his quest by an overprotective wildebeest and a flamboyant ostrich; they defeat the tyrannical leopard and save his herd.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b8303c46e150397a514ddd",
-        "title": "Khumba (2013)",
+        "storyline": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64bb642110cf9a0528719117",
+        "title": "Resident Evil: Death Island (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2858,6 +2833,31 @@
         "storyline": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating – and learns a lesson about family himself.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b8eff313162a2e5a76c641",
         "title": "Over the Hedge (2006)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64b8303c46e150397a514ddd",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXXQxM4ZlmoiqQD053k8GFyegR.jpg",
+        "releaseDate": "18-07-2013",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RXXQxM4ZlmoiqQD053k8GFyegR.jpg",
+        "status": "on",
+        "storyline": "A half-striped zebra is blamed for the drought and leaves his herd in search of his missing stripes. He is joined on his quest by an overprotective wildebeest and a flamboyant ostrich; they defeat the tyrannical leopard and save his herd.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b8303c46e150397a514ddd",
+        "title": "Khumba (2013)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -2917,32 +2917,6 @@
         }
     },
     {
-        "id": "64b56da0bfdfac887d7c0f95",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Family",
-            "Fantasy"
-        ],
-        "imdbRating": "6.9",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
-        "releaseDate": "28-06-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
-        "status": "on",
-        "storyline": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b56da0bfdfac887d7c0f95",
-        "title": "Hotel Transylvania 3: Summer Vacation (2018)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64b56d9b3044f942a44309f5",
         "category": "Animation",
         "director": "Unknown",
@@ -2962,6 +2936,32 @@
         "storyline": "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b56d9b3044f942a44309f5",
         "title": "Hotel Transylvania 2 (2015)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64b56da0bfdfac887d7c0f95",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "imdbRating": "6.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
+        "releaseDate": "28-06-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjAFM4xhA5vyLxxKMz38ujlUfDL.jpg",
+        "status": "on",
+        "storyline": "Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64b56da0bfdfac887d7c0f95",
+        "title": "Hotel Transylvania 3: Summer Vacation (2018)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3258,32 +3258,6 @@
         }
     },
     {
-        "id": "649aa130aa2f0317b4dadb6a",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Animation",
-            "Science Fiction",
-            "Fantasy"
-        ],
-        "imdbRating": "6.2",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYhPea8ugjQ5rfvmenYHeLe2XV0.jpg",
-        "releaseDate": "04-10-2011",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYhPea8ugjQ5rfvmenYHeLe2XV0.jpg",
-        "status": "on",
-        "storyline": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/649aa130aa2f0317b4dadb6a",
-        "title": "Towa no Quon 5: The Return of the Invincible (2011)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "649aa143aa2f0317b4dadb76",
         "category": "Animation",
         "director": "Unknown",
@@ -3303,6 +3277,32 @@
         "storyline": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/649aa143aa2f0317b4dadb76",
         "title": "Towa no Quon 6: Eternal Quon (2011)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "649aa130aa2f0317b4dadb6a",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Animation",
+            "Science Fiction",
+            "Fantasy"
+        ],
+        "imdbRating": "6.2",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYhPea8ugjQ5rfvmenYHeLe2XV0.jpg",
+        "releaseDate": "04-10-2011",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYhPea8ugjQ5rfvmenYHeLe2XV0.jpg",
+        "status": "on",
+        "storyline": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/649aa130aa2f0317b4dadb6a",
+        "title": "Towa no Quon 5: The Return of the Invincible (2011)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -3949,31 +3949,6 @@
         }
     },
     {
-        "id": "6430e58f8a6aef0f6be06721",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Adventure"
-        ],
-        "imdbRating": "6.3",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weRDZgqsJbxrM90wq5entBV4ah2.jpg",
-        "releaseDate": "27-11-2007",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weRDZgqsJbxrM90wq5entBV4ah2.jpg",
-        "status": "on",
-        "storyline": "After an incident which nearly cost Littlefoot's grandmother her life, Littlefoot learns a series of lessons which his species call \"Wisdoms\". Meanwhile, a trio of dim-witted Beipiaosauruses named Loofah, Doofah and Foobie arrive in the Great Valley and behave in a strange manner towards Littlefoot and the gang. Littlefoot is determined that they learn the \"Wisdoms\" and the journey to the one place the trio have dreamed of, Berry Valley, begins.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6430e58f8a6aef0f6be06721",
-        "title": "The Land Before Time XIII: The Wisdom of Friends (Hindi) (2007)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6430e4bf42ddae2c94bdf7d9",
         "category": "Animation",
         "director": "Unknown",
@@ -3992,6 +3967,31 @@
         "storyline": "As the Great Day of the Flyers nears, the Great Valley's flying youngsters are eager to participate in the annual exhibition to show off their skills. Everyone, that is, except free-spirited pterodactyl Petrie, whose individualism causes problems when it comes to staying in formation. Enter his dinosaur pals Littlefoot, Cera, Spike and Ducky, who encourage Petrie to embrace his uniqueness.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6430e4bf42ddae2c94bdf7d9",
         "title": "The Land Before Time XII: The Great Day of the Flyers (Hindi) (2006)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6430e58f8a6aef0f6be06721",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "imdbRating": "6.3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weRDZgqsJbxrM90wq5entBV4ah2.jpg",
+        "releaseDate": "27-11-2007",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weRDZgqsJbxrM90wq5entBV4ah2.jpg",
+        "status": "on",
+        "storyline": "After an incident which nearly cost Littlefoot's grandmother her life, Littlefoot learns a series of lessons which his species call \"Wisdoms\". Meanwhile, a trio of dim-witted Beipiaosauruses named Loofah, Doofah and Foobie arrive in the Great Valley and behave in a strange manner towards Littlefoot and the gang. Littlefoot is determined that they learn the \"Wisdoms\" and the journey to the one place the trio have dreamed of, Berry Valley, begins.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6430e58f8a6aef0f6be06721",
+        "title": "The Land Before Time XIII: The Wisdom of Friends (Hindi) (2007)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4743,31 +4743,6 @@
         }
     },
     {
-        "id": "639184d54a4c60a44729d8ce",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Adventure"
-        ],
-        "imdbRating": "5.3",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
-        "releaseDate": "06-12-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
-        "status": "on",
-        "storyline": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/639184d54a4c60a44729d8ce",
-        "title": "The Boss Baby: Christmas Bonus (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6392332798bac6d8785265bc",
         "category": "Animation",
         "director": "Unknown",
@@ -4786,6 +4761,31 @@
         "storyline": "Not many people know that every house is inhabited by finns. They are furry creatures that appear in human world to take care of a house and keep the hearth. Finnick is a young Finn, who doesn't seem to care about his responsibility of making a home out of the house. He is just making pranks on «his people» and that is the reason why none of the families wanted to stay long in his house. Everything changes when a new family comes to his house, where Finnick's tricks do not work at all, and he meets 13-year old Christine and inexplicable events begin to happen in the city. Finnick and Christine, who are so different, will have to team up and work together to solve the mystery of the events and save the city.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6392332798bac6d8785265bc",
         "title": "Finnick (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "639184d54a4c60a44729d8ce",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "imdbRating": "5.3",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+        "releaseDate": "06-12-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",
+        "status": "on",
+        "storyline": "Christmas Eve takes a twisty turn when the Boss Baby accidentally swaps places with one of Santa's elves and gets stranded at the North Pole.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/639184d54a4c60a44729d8ce",
+        "title": "The Boss Baby: Christmas Bonus (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -4842,30 +4842,6 @@
         }
     },
     {
-        "id": "638c434803a45424357a22d9",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "TV Movie",
-            "Animation"
-        ],
-        "imdbRating": "6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV05wa4khW51sAqqfzVnHBYNQbn.jpg",
-        "releaseDate": "29-11-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV05wa4khW51sAqqfzVnHBYNQbn.jpg",
-        "status": "on",
-        "storyline": "The story of how Blizzard (Blizz)—a young reindeer living at the North Pole who has an unusual trait: one antler that is significantly smaller than the other—and his unique group of friends band together to save the future of Christmas.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/638c434803a45424357a22d9",
-        "title": "Reindeer in Here (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "638c436247619446ba287d1a",
         "category": "Animation",
         "director": "Unknown",
@@ -4885,6 +4861,30 @@
         "storyline": "This animated adventure spins a more optimistic twist on the long-mythicized story of the \"lost daughter\" of Russia's last czar. A wicked sorcerer places a curse on the Romanov family, and Anastasia is separated from them during their attempts to escape from a rowdy revolt seizing their palace. Years later, after growing up with amnesia in an orphanage, \"Anya\" encounters two Russian men seeking a reward offered by the Dowager Empress Marie, for the return of her missing granddaughter. They decide to travel together to visit the Empress in Paris. Will Anya finally be reunited with her remaining family and find a loving home at last?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/638c436247619446ba287d1a",
         "title": "Anastasia (1997)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "638c434803a45424357a22d9",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "TV Movie",
+            "Animation"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV05wa4khW51sAqqfzVnHBYNQbn.jpg",
+        "releaseDate": "29-11-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV05wa4khW51sAqqfzVnHBYNQbn.jpg",
+        "status": "on",
+        "storyline": "The story of how Blizzard (Blizz)—a young reindeer living at the North Pole who has an unusual trait: one antler that is significantly smaller than the other—and his unique group of friends band together to save the future of Christmas.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/638c434803a45424357a22d9",
+        "title": "Reindeer in Here (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -5142,32 +5142,6 @@
         }
     },
     {
-        "id": "636cb539d0ce888ee80ae5ee",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Adventure",
-            "Family"
-        ],
-        "imdbRating": "6.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg",
-        "releaseDate": "10-08-2012",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg",
-        "status": "on",
-        "storyline": "Tad is a celebrity archaeologist and adventurer just like his hero Max Mordon... in his dreams! In reality, Tad is a Chicago construction worker. One day, however, he is mistaken for a real professor and takes his place on a flight to Peru in search of the lost city of Paititi.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/636cb539d0ce888ee80ae5ee",
-        "title": "Tad, the Lost Explorer (2012)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "636cb58f89fb2a6e5e0db92c",
         "category": "Animation",
         "director": "Unknown",
@@ -5214,6 +5188,32 @@
         "storyline": "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/636cb4e19f34adcb3da7fb47",
         "title": "Tad the Lost Explorer and the Emerald Tablet (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "636cb539d0ce888ee80ae5ee",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Adventure",
+            "Family"
+        ],
+        "imdbRating": "6.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg",
+        "releaseDate": "10-08-2012",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmysxjUJkYmp6CmjNOKOeHMOzFA.jpg",
+        "status": "on",
+        "storyline": "Tad is a celebrity archaeologist and adventurer just like his hero Max Mordon... in his dreams! In reality, Tad is a Chicago construction worker. One day, however, he is mistaken for a real professor and takes his place on a flight to Peru in search of the lost city of Paititi.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/636cb539d0ce888ee80ae5ee",
+        "title": "Tad, the Lost Explorer (2012)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6162,6 +6162,31 @@
         }
     },
     {
+        "id": "62caa54f53dcb2e5eb8405ac",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Action",
+            "Fantasy"
+        ],
+        "imdbRating": "7.2",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+        "releaseDate": "04-08-2007",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+        "status": "on",
+        "storyline": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \"prediction of death.\"",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62caa54f53dcb2e5eb8405ac",
+        "title": "Naruto Shippuden the Movie (2007)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "62c89e34ce0b1477c9645920",
         "category": "Animation",
         "director": "Unknown",
@@ -6181,31 +6206,6 @@
         "storyline": "The life of a legendary sea monster hunter is turned upside down when a young girl stows away on his ship.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62c89e34ce0b1477c9645920",
         "title": "The Sea Beast (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "62caa54f53dcb2e5eb8405ac",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Action",
-            "Fantasy"
-        ],
-        "imdbRating": "7.2",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
-        "releaseDate": "04-08-2007",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
-        "status": "on",
-        "storyline": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \"prediction of death.\"",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62caa54f53dcb2e5eb8405ac",
-        "title": "Naruto Shippuden the Movie (2007)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6266,32 +6266,6 @@
         }
     },
     {
-        "id": "62ba08728dd5d90b674793d6",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Adventure",
-            "Comedy"
-        ],
-        "imdbRating": "6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOfdQHNF9TlrdujyAjiKfUhxSXy.jpg",
-        "releaseDate": "11-08-2017",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOfdQHNF9TlrdujyAjiKfUhxSXy.jpg",
-        "status": "on",
-        "storyline": "When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62ba08728dd5d90b674793d6",
-        "title": "The Nut Job 2 Nutty by Nature (2017)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "62b9fac2bcd5f405f139d3b6",
         "category": "Animation",
         "director": "Unknown",
@@ -6311,6 +6285,32 @@
         "storyline": "Surly, a curmudgeon, independent squirrel is banished from his park and forced to survive in the city. Lucky for him, he stumbles on the one thing that may be able to save his life, and the rest of park community, as they gear up for winter - Maury's Nut Store.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62b9fac2bcd5f405f139d3b6",
         "title": "The Nut Job (2014)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "62ba08728dd5d90b674793d6",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure",
+            "Comedy"
+        ],
+        "imdbRating": "6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOfdQHNF9TlrdujyAjiKfUhxSXy.jpg",
+        "releaseDate": "11-08-2017",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOfdQHNF9TlrdujyAjiKfUhxSXy.jpg",
+        "status": "on",
+        "storyline": "When the evil mayor of Oakton decides to bulldoze Liberty Park and build a dangerous amusement park in its place, Surly Squirrel and his ragtag group of animal friends need to band together to save their home, defeat the mayor, and take back the park.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62ba08728dd5d90b674793d6",
+        "title": "The Nut Job 2 Nutty by Nature (2017)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6474,58 +6474,6 @@
         }
     },
     {
-        "id": "62829acaf3e7c30ac9cb4151",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Adventure",
-            "Family"
-        ],
-        "imdbRating": "6.9",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
-        "releaseDate": "28-01-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
-        "status": "on",
-        "storyline": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829acaf3e7c30ac9cb4151",
-        "title": "The Ice Age Adventures of Buck Wild (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "62829a801e8484b6d040042d",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Comedy",
-            "Fantasy"
-        ],
-        "imdbRating": "8.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
-        "releaseDate": "15-01-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
-        "status": "on",
-        "storyline": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a801e8484b6d040042d",
-        "title": "Wish Dragon (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "62829ab7e02d24b73c330f0d",
         "category": "Animation",
         "director": "Unknown",
@@ -6553,25 +6501,25 @@
         }
     },
     {
-        "id": "62829a91d37d11fbacc7f816",
+        "id": "62829acaf3e7c30ac9cb4151",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
             "Animation",
-            "Fantasy",
-            "Horror",
-            "Action"
+            "Comedy",
+            "Adventure",
+            "Family"
         ],
-        "imdbRating": "5.8",
+        "imdbRating": "6.9",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
-        "releaseDate": "02-05-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+        "releaseDate": "28-01-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
         "status": "on",
-        "storyline": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a91d37d11fbacc7f816",
-        "title": "Constantine: The House of Mystery (2022)",
+        "storyline": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829acaf3e7c30ac9cb4151",
+        "title": "The Ice Age Adventures of Buck Wild (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6606,6 +6554,58 @@
         }
     },
     {
+        "id": "62829a801e8484b6d040042d",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "imdbRating": "8.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+        "releaseDate": "15-01-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+        "status": "on",
+        "storyline": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a801e8484b6d040042d",
+        "title": "Wish Dragon (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "62829a91d37d11fbacc7f816",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Horror",
+            "Action"
+        ],
+        "imdbRating": "5.8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
+        "releaseDate": "02-05-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqYDoEb9PxLXM2ccoHInMMJalti.jpg",
+        "status": "on",
+        "storyline": "John Constantine wakes up in the eerie House of Mystery with no recollection of how he got there. Fortunately, Zatanna and his friends are all there. Unfortunately, they have a bad habit of turning into demons and ripping him to shreds, over and over again!",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a91d37d11fbacc7f816",
+        "title": "Constantine: The House of Mystery (2022)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "62829a3e1e8484b6d040041c",
         "category": "Animation",
         "director": "Unknown",
@@ -6624,58 +6624,6 @@
         "storyline": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a3e1e8484b6d040041c",
         "title": "Tom & Jerry (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "628299dbf3e7c30ac9cb406a",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Science Fiction",
-            "Family",
-            "Comedy"
-        ],
-        "imdbRating": "8.1",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
-        "releaseDate": "15-10-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
-        "status": "on",
-        "storyline": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628299dbf3e7c30ac9cb406a",
-        "title": "Ron's Gone Wrong (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "62829a2d3be21a4cbc5b1891",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Comedy",
-            "Adventure",
-            "Family"
-        ],
-        "imdbRating": "7.6",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
-        "releaseDate": "01-07-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
-        "status": "on",
-        "storyline": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a2d3be21a4cbc5b1891",
-        "title": "The Boss Baby: Family Business (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6760,6 +6708,58 @@
         }
     },
     {
+        "id": "62829a2d3be21a4cbc5b1891",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Adventure",
+            "Family"
+        ],
+        "imdbRating": "7.6",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+        "releaseDate": "01-07-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+        "status": "on",
+        "storyline": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829a2d3be21a4cbc5b1891",
+        "title": "The Boss Baby: Family Business (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "628299dbf3e7c30ac9cb406a",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Science Fiction",
+            "Family",
+            "Comedy"
+        ],
+        "imdbRating": "8.1",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+        "releaseDate": "15-10-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+        "status": "on",
+        "storyline": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628299dbf3e7c30ac9cb406a",
+        "title": "Ron's Gone Wrong (2021)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "628299c83be21a4cbc5b17d7",
         "category": "Animation",
         "director": "Unknown",
@@ -6780,32 +6780,6 @@
         "storyline": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628299c83be21a4cbc5b17d7",
         "title": "Raya and the Last Dragon (2021)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "628299b358abf5aa23f4ec56",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Family",
-            "Animation",
-            "Science Fiction",
-            "Comedy"
-        ],
-        "imdbRating": "6.9",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg",
-        "releaseDate": "01-10-2021",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg",
-        "status": "on",
-        "storyline": "Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628299b358abf5aa23f4ec56",
-        "title": "LEGO Star Wars Terrifying Tales (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6839,24 +6813,25 @@
         }
     },
     {
-        "id": "6282997e58abf5aa23f4ebcb",
+        "id": "628299b358abf5aa23f4ec56",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
+            "Family",
             "Animation",
-            "Adventure",
-            "Family"
+            "Science Fiction",
+            "Comedy"
         ],
-        "imdbRating": "6.5",
+        "imdbRating": "6.9",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
-        "releaseDate": "11-12-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg",
+        "releaseDate": "01-10-2021",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg",
         "status": "on",
-        "storyline": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282997e58abf5aa23f4ebcb",
-        "title": "A Trash Truck Christmas (2020)",
+        "storyline": "Poe Dameron and BB-8 must face the greedy crime boss Graballa the Hutt, who has purchased Darth Vader’s castle and is renovating it into the galaxy’s first all-inclusive Sith-inspired luxury hotel.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628299b358abf5aa23f4ec56",
+        "title": "LEGO Star Wars Terrifying Tales (2021)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6907,6 +6882,31 @@
         "storyline": "Back at home, Chuck relates the island shenanigans of his larva pals Red and Yellow to a skeptical reporter in this movie sequel to the hit cartoon.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282995cd37d11fbacc7f609",
         "title": "The Larva Island Movie (2020)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6282997e58abf5aa23f4ebcb",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "imdbRating": "6.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+        "releaseDate": "11-12-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg",
+        "status": "on",
+        "storyline": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282997e58abf5aa23f4ebcb",
+        "title": "A Trash Truck Christmas (2020)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -6994,58 +6994,6 @@
         }
     },
     {
-        "id": "628298f6f3e7c30ac9cb3e4f",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Animation",
-            "Family",
-            "Adventure",
-            "Fantasy"
-        ],
-        "imdbRating": "7.3",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
-        "releaseDate": "15-10-2020",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
-        "status": "on",
-        "storyline": "An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298f6f3e7c30ac9cb3e4f",
-        "title": "Dragon Rider (2020)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "628298d158abf5aa23f4ea27",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Family"
-        ],
-        "imdbRating": "7.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-        "releaseDate": "14-06-2018",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-        "status": "on",
-        "storyline": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298d158abf5aa23f4ea27",
-        "title": "Incredibles 2 (2018)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "628298e558abf5aa23f4ea6b",
         "category": "Animation",
         "director": "Unknown",
@@ -7071,26 +7019,25 @@
         }
     },
     {
-        "id": "628298931e8484b6d0400078",
+        "id": "628298f6f3e7c30ac9cb3e4f",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
-            "Action",
-            "Adventure",
             "Animation",
-            "Comedy",
-            "Family"
+            "Family",
+            "Adventure",
+            "Fantasy"
         ],
-        "imdbRating": "6.9",
+        "imdbRating": "7.3",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg",
-        "releaseDate": "23-01-2016",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
+        "releaseDate": "15-10-2020",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
         "status": "on",
-        "storyline": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298931e8484b6d0400078",
-        "title": "Kung Fu Panda 3 (2016)",
+        "storyline": "An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298f6f3e7c30ac9cb3e4f",
+        "title": "Dragon Rider (2020)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7125,6 +7072,112 @@
         }
     },
     {
+        "id": "628298d158abf5aa23f4ea27",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "imdbRating": "7.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+        "releaseDate": "14-06-2018",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+        "status": "on",
+        "storyline": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298d158abf5aa23f4ea27",
+        "title": "Incredibles 2 (2018)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "628298931e8484b6d0400078",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "imdbRating": "6.9",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg",
+        "releaseDate": "23-01-2016",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlr2oxuYsHXt0wdtmzaOuVBoNC0.jpg",
+        "status": "on",
+        "storyline": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/628298931e8484b6d0400078",
+        "title": "Kung Fu Panda 3 (2016)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "62829843e02d24b73c330a80",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Family",
+            "Adventure",
+            "Animation",
+            "Drama"
+        ],
+        "imdbRating": "7.4",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
+        "releaseDate": "18-06-1999",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
+        "status": "on",
+        "storyline": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829843e02d24b73c330a80",
+        "title": "Tarzan (1999)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "6282986c1e8484b6d0400017",
+        "category": "Animation",
+        "director": "Unknown",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Animation",
+            "Action",
+            "Comedy"
+        ],
+        "imdbRating": "7.7",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+        "releaseDate": "24-10-2014",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+        "status": "on",
+        "storyline": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282986c1e8484b6d0400017",
+        "title": "Big Hero 6 (2014)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
         "id": "62829883e02d24b73c330b0e",
         "category": "Animation",
         "director": "Unknown",
@@ -7144,33 +7197,6 @@
         "storyline": "In the suburbs of Tokyo some time ago, there lived a clumsy boy about 10 years old. There appeared in front of him named Sewashi, Nobita's descendant of four generations later from the 22nd century, and Doraemon, a 22nd century cat-type caretaker robot who helps people with its secret gadgets. Sewashi claims that his family is suffering from the debts Nobita made even to his generation, so in order to change this disastrous future, he brought along Doraemon as Nobita's caretaker to bring happiness to his future, although Doraemon is not happy about this. And so Sewashi installed an accomplishment program into Doraemon forcing him to take care of Nobita. Unless he makes Nobita happy, Doraemon can no longer go back to the 22nd century. This is how the life of Doraemon and Nobita begins. Will Doraemon succeed this mission and return to the 22nd century?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829883e02d24b73c330b0e",
         "title": "Stand by Me Doraemon (2014)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
-        "id": "6282980ff3e7c30ac9cb3c56",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Animation",
-            "Family",
-            "Comedy"
-        ],
-        "imdbRating": "7.2",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-        "releaseDate": "04-06-2008",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-        "status": "on",
-        "storyline": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282980ff3e7c30ac9cb3c56",
-        "title": "Kung Fu Panda (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -7205,32 +7231,6 @@
         }
     },
     {
-        "id": "62829843e02d24b73c330a80",
-        "category": "Animation",
-        "director": "Unknown",
-        "genre": [
-            "Family",
-            "Adventure",
-            "Animation",
-            "Drama"
-        ],
-        "imdbRating": "7.4",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
-        "releaseDate": "18-06-1999",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Syo09bmNJgehjfeVL6meR9Mjh.jpg",
-        "status": "on",
-        "storyline": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/62829843e02d24b73c330a80",
-        "title": "Tarzan (1999)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "6282981e58abf5aa23f4e8ee",
         "category": "Animation",
         "director": "Unknown",
@@ -7255,26 +7255,26 @@
         }
     },
     {
-        "id": "6282986c1e8484b6d0400017",
+        "id": "6282980ff3e7c30ac9cb3c56",
         "category": "Animation",
         "director": "Unknown",
         "genre": [
-            "Adventure",
-            "Family",
-            "Animation",
             "Action",
+            "Adventure",
+            "Animation",
+            "Family",
             "Comedy"
         ],
-        "imdbRating": "7.7",
+        "imdbRating": "7.2",
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
-        "releaseDate": "24-10-2014",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+        "releaseDate": "04-06-2008",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
         "status": "on",
-        "storyline": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282986c1e8484b6d0400017",
-        "title": "Big Hero 6 (2014)",
+        "storyline": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/6282980ff3e7c30ac9cb3c56",
+        "title": "Kung Fu Panda (2008)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
