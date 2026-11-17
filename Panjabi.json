@@ -159,27 +159,6 @@
         }
     },
     {
-        "id": "64cf96c3a69de65519ffccec",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8.5",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://fs1.extraimage.org/picupto/2023/08/06/MV5BMWY5MGE4ZTAtMTYxNy00YmM5LTg1YzgtZjQ2MmIyZGU1NGE2XkEyXkFqcGdeQXVyMTQzMTI2MDU4._V1_.jpg",
-        "releaseDate": "05-08-2023",
-        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/08/06/MV5BMWY5MGE4ZTAtMTYxNy00YmM5LTg1YzgtZjQ2MmIyZGU1NGE2XkEyXkFqcGdeQXVyMTQzMTI2MDU4._V1_.jpg",
-        "status": "on",
-        "storyline": "",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64cf96c3a69de65519ffccec",
-        "title": "Paune 9 (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64cf94d8a69de65519ffcc3b",
         "category": "Panjabi",
         "director": "Unknown",
@@ -198,6 +177,27 @@
         "storyline": "An aspiring footballer falls for a student destined for an arranged marriage. An attempt to fake a marriage goes awry and threatens to tear the couple apart forever.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64cf94d8a69de65519ffcc3b",
         "title": "Munda Southall Da (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64cf96c3a69de65519ffccec",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8.5",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://fs1.extraimage.org/picupto/2023/08/06/MV5BMWY5MGE4ZTAtMTYxNy00YmM5LTg1YzgtZjQ2MmIyZGU1NGE2XkEyXkFqcGdeQXVyMTQzMTI2MDU4._V1_.jpg",
+        "releaseDate": "05-08-2023",
+        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/08/06/MV5BMWY5MGE4ZTAtMTYxNy00YmM5LTg1YzgtZjQ2MmIyZGU1NGE2XkEyXkFqcGdeQXVyMTQzMTI2MDU4._V1_.jpg",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64cf96c3a69de65519ffccec",
+        "title": "Paune 9 (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -322,30 +322,6 @@
         }
     },
     {
-        "id": "64a53c36a180c44406bc04ef",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [
-            "Drama",
-            "Romance"
-        ],
-        "imdbRating": "7.94",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
-        "releaseDate": "18-11-2022",
-        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
-        "status": "on",
-        "storyline": "As a patriarchal family yearn for the birth of a baby boy to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for a transgender starlet.",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c36a180c44406bc04ef",
-        "title": "Joyland (2022)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "64a53c393a92738231fa7580",
         "category": "Panjabi",
         "director": "Unknown",
@@ -363,6 +339,30 @@
         "storyline": "A comedy of error ensues when a family fails to provide new bedding for their son-in-law, which leaves him with a stiff neck.",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c393a92738231fa7580",
         "title": "Jawai Bhai (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "64a53c36a180c44406bc04ef",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "imdbRating": "7.94",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
+        "releaseDate": "18-11-2022",
+        "sliderUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekWbRm3JXXzstpgtgebMV4nrjUz.jpg",
+        "status": "on",
+        "storyline": "As a patriarchal family yearn for the birth of a baby boy to continue their family line, their youngest son secretly joins an erotic dance theatre and falls for a transgender starlet.",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/64a53c36a180c44406bc04ef",
+        "title": "Joyland (2022)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
@@ -487,27 +487,6 @@
         }
     },
     {
-        "id": "648e8c9da9e464be258f0102",
-        "category": "Panjabi",
-        "director": "Unknown",
-        "genre": [],
-        "imdbRating": "8",
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://fs1.extraimage.org/picupto/2023/06/14/Bach-Ke-Bai-Ji-2023-Punjabi-1080p-HDTVRip-2GB.png",
-        "releaseDate": "17-06-2023",
-        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/06/14/Bach-Ke-Bai-Ji-2023-Punjabi-1080p-HDTVRip-2GB.png",
-        "status": "on",
-        "storyline": "",
-        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/648e8c9da9e464be258f0102",
-        "title": "Bach Ke Bai Ji (2023)",
-        "headers": {
-            "referer": "https://m.mymoviebazar.net/",
-            "origin": "",
-            "user_agent": ""
-        }
-    },
-    {
         "id": "648e075a82c559315916aa70",
         "category": "Panjabi",
         "director": "Unknown",
@@ -525,6 +504,27 @@
         "storyline": "Manvir, a down-on-luck NRI, has to find a job and house to be able to marry his girlfriend. He finds the perfect home, but there's a catch. The owner only allows married couples. What will he do?",
         "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/648e075a82c559315916aa70",
         "title": "Ki Mein Jhoot Boleya (2023)",
+        "headers": {
+            "referer": "https://m.mymoviebazar.net/",
+            "origin": "",
+            "user_agent": ""
+        }
+    },
+    {
+        "id": "648e8c9da9e464be258f0102",
+        "category": "Panjabi",
+        "director": "Unknown",
+        "genre": [],
+        "imdbRating": "8",
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://fs1.extraimage.org/picupto/2023/06/14/Bach-Ke-Bai-Ji-2023-Punjabi-1080p-HDTVRip-2GB.png",
+        "releaseDate": "17-06-2023",
+        "sliderUrl": "https://fs1.extraimage.org/picupto/2023/06/14/Bach-Ke-Bai-Ji-2023-Punjabi-1080p-HDTVRip-2GB.png",
+        "status": "on",
+        "storyline": "",
+        "streamUrl": "https://m.mymoviebazar.net/api/movies/watch/648e8c9da9e464be258f0102",
+        "title": "Bach Ke Bai Ji (2023)",
         "headers": {
             "referer": "https://m.mymoviebazar.net/",
             "origin": "",
